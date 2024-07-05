@@ -1,0 +1,379 @@
+[
+    {
+        "Tema": "ÿþ'Look at the photo and choose the correct answer.",
+        "Items": [
+            {
+                "Pregunta1": "What type of music concert is this?",
+                "Resultado1": "country"
+            }
+        ]
+    },
+    {
+        "Tema": "Listen, and then choose the correct answer.",
+        "Items": [
+            {
+                "Pregunta1": "What kind of music are they talking about?",
+                "Resultado1": "EDM"
+            },
+            {
+                "Pregunta2": "What type of music do you hear?",
+                "Resultado2": "hip-hop"
+            },
+            {
+                "Pregunta3": "style of music is the radio presenter describing?",
+                "Resultado3": "pop"
+            },
+            {
+                "Pregunta4": "What do the letters EDM mean?",
+                "Resultado4": "Electronic Dance Music"
+            },
+            {
+                "Pregunta5": "ive go to?",
+                "Resultado5": "many"
+            },
+            {
+                "Pregunta6": "Which is the best ",
+                "Resultado6": "Yes, I used to spend all my time downloading and listening to music."
+            },
+            {
+                "Pregunta7": "-",
+                "Resultado7": "Did you live on Bedford Street a"
+            },
+            {
+                "Pregunta8": "watch?",
+                "Resultado8": "comedy"
+            },
+            {
+                "Pregunta9": "What''s he talking",
+                "Resultado9": "a thriller"
+            },
+            {
+                "Pregunta10": "genre is she",
+                "Resultado10": "romantic comedy"
+            }
+        ]
+    },
+    {
+        "Tema": "Complete the word.",
+        "Items": [
+            {
+                "Pregunta1": "about",
+                "Resultado1": "documentary"
+            }
+        ]
+    },
+    {
+        "Tema": "Complete the conversation.",
+        "Items": [
+            {
+                "Pregunta1": "Vincent: What can I give Jun for his birthday?",
+                "Resultado1": "folk"
+            },
+            {
+                "Pregunta2": "rt this weekend?",
+                "Resultado2": "didn''t use to like"
+            },
+            {
+                "Pregunta3": "Did you have nice time in Ireland?",
+                "Resultado3": "folk"
+            },
+            {
+                "Pregunta4": "oved to this city?",
+                "Resultado4": "use to live"
+            },
+            {
+                "Pregunta5": "?Did you go to",
+                "Resultado5": "use to do"
+            },
+            {
+                "Pregunta6": "Are you OK? You sound really frightened!",
+                "Resultado6": "horror"
+            }
+        ]
+    },
+    {
+        "Tema": "Complete the conversation. There are two extra words.",
+        "Items": [
+            {
+                "Pregunta1": "listen to that? It''s so loud! Turn it down!",
+                "Resultado1": "metal"
+            },
+            {
+                "Pregunta2": "afford them",
+                "Resultado2": "use*to*have"
+            },
+            {
+                "Pregunta3": "lay in a rock",
+                "Resultado3": "did*use*didn\u0019 t"
+            },
+            {
+                "Pregunta4": "hat are you watching? These people can''t act!",
+                "Resultado4": "reality*show"
+            },
+            {
+                "Pregunta5": "I still don''t know how she managed to find",
+                "Resultado5": "soap*opera"
+            }
+        ]
+    },
+    {
+        "Tema": "Look at the photo and complete the sentence.",
+        "Items": [
+            {
+                "Pregunta1": "I have two tickets to",
+                "Resultado1": "a jazz"
+            }
+        ]
+    },
+    {
+        "Tema": "Which three types of music have people played for many years, and which",
+        "Items": [
+            {
+                "Pregunta1": "check all of them",
+                "Resultado1": ""
+            }
+        ]
+    },
+    {
+        "Tema": "Read the information and complete the sentence",
+        "Items": [
+            {
+                "Pregunta1": "the audience are excited to hear Beethoven''s music.",
+                "Resultado1": "classical"
+            }
+        ]
+    },
+    {
+        "Tema": "Listen and choose the true sentence.",
+        "Items": [
+            {
+                "Pregunta1": "no hay",
+                "Resultado1": "He is enjoying listening to the heavy metal album"
+            }
+        ]
+    },
+    {
+        "Tema": "Complete the sentence.",
+        "Items": [
+            {
+                "Pregunta1": "was a kid, but",
+                "Resultado1": "used"
+            },
+            {
+                "Pregunta2": "This folk band used to",
+                "Resultado2": "be"
+            },
+            {
+                "Pregunta3": "ry school? Or",
+                "Resultado3": "you use to have"
+            },
+            {
+                "Pregunta4": "en I was a kid,",
+                "Resultado4": "use*like"
+            },
+            {
+                "Pregunta5": "episode and I enjoyed it a lot. The people feel very real.",
+                "Resultado5": "drama"
+            },
+            {
+                "Pregunta6": "knows a lot about geography history and politics",
+                "Resultado6": "game show"
+            },
+            {
+                "Pregunta7": "movies alone at night. I''m always",
+                "Resultado7": "horror"
+            },
+            {
+                "Pregunta8": "music concert in the park this evening.",
+                "Resultado8": "classical"
+            },
+            {
+                "Pregunta9": "and politics. I think he",
+                "Resultado9": "game show"
+            },
+            {
+                "Pregunta10": "always ends with two people falling in love or getting married.",
+                "Resultado10": "romantic comedies"
+            },
+            {
+                "Pregunta11": "are not as frightening as horror movies, but",
+                "Resultado11": "Thrillers"
+            },
+            {
+                "Pregunta12": "the characters are doing every week.",
+                "Resultado12": "soap opera"
+            }
+        ]
+    },
+    {
+        "Tema": "Complete the words for TV shows and movies.",
+        "Items": [
+            {
+                "Pregunta1": "to continue to practice",
+                "Resultado1": "romantic*soap*fiction*show*animated"
+            }
+        ]
+    },
+    {
+        "Tema": "Complete the sentence. There are two extra words.",
+        "Items": [
+            {
+                "Pregunta1": "spend our",
+                "Resultado1": "didn\u0019 t*use*to"
+            },
+            {
+                "Pregunta2": "stead, you see",
+                "Resultado2": "animated*movies"
+            }
+        ]
+    },
+    {
+        "Tema": "Read the questions. Tap Show to see some answers. Choose the correct answer for each",
+        "Items": []
+    },
+    {
+        "Tema": "Choose the correct answer.",
+        "Items": [
+            {
+                "Pregunta1": "hat type of TV or radio program gives facts and information",
+                "Resultado1": "a documentary"
+            },
+            {
+                "Pregunta2": "In which TV program or movie can you hear a lot of songs?",
+                "Resultado2": "in a musical"
+            },
+            {
+                "Pregunta3": "hat type of TV or radio program gives facts and information",
+                "Resultado3": "a documentary"
+            },
+            {
+                "Pregunta4": "In which TV program or movie can you hear a lot of songs?",
+                "Resultado4": "in a musical"
+            },
+            {
+                "Pregunta5": "hich type of movie happens in the future and often includes",
+                "Resultado5": "a science fiction movie"
+            },
+            {
+                "Pregunta6": "hich sentence is about a movie, not a TV show?",
+                "Resultado6": "That new romantic comedy is"
+            }
+        ]
+    },
+    {
+        "Tema": "Choose the correct answers.",
+        "Items": [
+            {
+                "Pregunta1": "Which kinds of programs don''t usually have professional actors?",
+                "Resultado1": "talk show*quiz show*reality show"
+            }
+        ]
+    },
+    {
+        "Tema": "Check your understanding: Choose the correct type of music for each definition.",
+        "Items": []
+    },
+    {
+        "Tema": "UNTITTLED",
+        "Items": [
+            {
+                "Pregunta1": "this type of music started to be popular in the United States in 1940s. ",
+                "Resultado1": "country"
+            },
+            {
+                "Pregunta2": "People often dance to classical music in dance",
+                "Resultado2": "False*True*True*False"
+            },
+            {
+                "Pregunta3": "always had an electric guitar, electric bass, drums and one or",
+                "Resultado3": "rock"
+            },
+            {
+                "Pregunta4": "their rooms with posters",
+                "Resultado4": "to decorate"
+            },
+            {
+                "Pregunta5": "Put the words in the correct order to form a",
+                "Resultado5": "Which company did you use to"
+            },
+            {
+                "Pregunta6": "Read the questions. Tap Show to see some answers. Choose the correct answer for each",
+                "Resultado6": "AnswerD*Answer A*Answer C*Answer B"
+            },
+            {
+                "Pregunta7": "because you have to remember and put together all those hand",
+                "Resultado7": "At first*difficult"
+            }
+        ]
+    },
+    {
+        "Tema": "Tap Show to read some text messages. Complete the sentences.",
+        "Items": [
+            {
+                "Pregunta1": "Read the messages Robert and Megan sent to each other after",
+                "Resultado1": "to become a lawyer*to act in movies"
+            }
+        ]
+    },
+    {
+        "Tema": "UNIDENTIFIED",
+        "Items": [
+            {
+                "Pregunta1": "in the",
+                "Resultado1": "use to*do / watch*use to*used to*see*used to*didn''t use to*watch*didn''t use to"
+            },
+            {
+                "Pregunta2": "hich word can you use to complete all three vocabulary",
+                "Resultado2": "show"
+            },
+            {
+                "Pregunta3": ".",
+                "Resultado3": "What activity are you going to try?*Why are you interested in trying it?*How did you find out about it? What effect will it have on your life?*When are you going to try it?"
+            },
+            {
+                "Pregunta4": "ants to have their own TV show.",
+                "Resultado4": "Jeff*Robert*Jeff*Sara*Sara*Robert"
+            },
+            {
+                "Pregunta5": "Robert helped rebuild homes after a couple",
+                "Resultado5": "two*hurricanes*Robert*Jeff*Megan"
+            },
+            {
+                "Pregunta6": "Jeff is watching a business show",
+                "Resultado6": "False*True*Not Given*True*Not Given"
+            },
+            {
+                "Pregunta7": "ow often did Carolina and Eduardo talk?",
+                "Resultado7": "the south*California*every week"
+            },
+            {
+                "Pregunta8": "What does Robert mean when he says \"Carolina probably",
+                "Resultado8": "She knew about his problems"
+            },
+            {
+                "Pregunta9": "Carolina says that Sara is making cool things.",
+                "Resultado9": "4*1*3*5*2"
+            },
+            {
+                "Pregunta10": "who Megan is?",
+                "Resultado10": "Robert*Carolina*Jeff"
+            },
+            {
+                "Pregunta11": "When do you use the phrase \"to tell you the tr",
+                "Resultado11": "when you give someone information that you don''t already know*to give the summary of a situation"
+            },
+            {
+                "Pregunta12": "When did do we use the phrase \"don''t expect too much\"?",
+                "Resultado12": "when you want to tell someone"
+            },
+            {
+                "Pregunta13": "Where is Megan living now?",
+                "Resultado13": "since she was a child*New Orleans*New York"
+            },
+            {
+                "Pregunta14": "had some big acting parts since she graduated.",
+                "Resultado14": "True*False*False*True*True*"
+            }
+        ]
+    }
+]

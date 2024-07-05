@@ -1,0 +1,294 @@
+1719963832654	geckodriver	INFO	Listening on 127.0.0.1:37029
+1719963832936	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/sna ... te" "--remote-debugging-port" "53841" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilefls66V"
+Gtk-Message: 18:43:52.971: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+[48867, Main Thread] WARNING: GTK+ module /snap/firefox/4483/gnome-platform/usr/lib/gtk-2.0/modules/libcanberra-gtk-module.so cannot be loaded.
+GTK+ 2.x symbols detected. Using GTK+ 2.x and GTK+ 3 in the same process is not supported.: 'glib warning', file /build/firefox/parts/firefox/build/toolkit/xre/nsSigHandlers.cpp:187
+
+(firefox:48867): Gtk-WARNING **: 18:43:53.182: GTK+ module /snap/firefox/4483/gnome-platform/usr/lib/gtk-2.0/modules/libcanberra-gtk-module.so cannot be loaded.
+GTK+ 2.x symbols detected. Using GTK+ 2.x and GTK+ 3 in the same process is not supported.
+Gtk-Message: 18:43:53.182: Failed to load module "canberra-gtk-module"
+[48867, Main Thread] WARNING: GTK+ module /snap/firefox/4483/gnome-platform/usr/lib/gtk-2.0/modules/libcanberra-gtk-module.so cannot be loaded.
+GTK+ 2.x symbols detected. Using GTK+ 2.x and GTK+ 3 in the same process is not supported.: 'glib warning', file /build/firefox/parts/firefox/build/toolkit/xre/nsSigHandlers.cpp:187
+
+(firefox:48867): Gtk-WARNING **: 18:43:53.185: GTK+ module /snap/firefox/4483/gnome-platform/usr/lib/gtk-2.0/modules/libcanberra-gtk-module.so cannot be loaded.
+GTK+ 2.x symbols detected. Using GTK+ 2.x and GTK+ 3 in the same process is not supported.
+Gtk-Message: 18:43:53.185: Failed to load module "canberra-gtk-module"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1719963835042	Marionette	INFO	Marionette enabled
+1719963836712	Marionette	INFO	Listening on port 34069
+Read port: 34069
+WebDriver BiDi listening on ws://127.0.0.1:53841
+1719963837335	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:53841/devtools/browser/ef92b757-767e-47aa-b0de-618770b719ef
+1719963848028	Marionette	INFO	Stopped listening on port 34069
+1719964569592	geckodriver	INFO	Listening on 127.0.0.1:45389
+1719964569993	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/sna ... te" "--remote-debugging-port" "53777" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile1qcw7H"
+Gtk-Message: 18:56:10.028: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+[50823, Main Thread] WARNING: GTK+ module /snap/firefox/4483/gnome-platform/usr/lib/gtk-2.0/modules/libcanberra-gtk-module.so cannot be loaded.
+GTK+ 2.x symbols detected. Using GTK+ 2.x and GTK+ 3 in the same process is not supported.: 'glib warning', file /build/firefox/parts/firefox/build/toolkit/xre/nsSigHandlers.cpp:187
+
+(firefox:50823): Gtk-WARNING **: 18:56:10.119: GTK+ module /snap/firefox/4483/gnome-platform/usr/lib/gtk-2.0/modules/libcanberra-gtk-module.so cannot be loaded.
+GTK+ 2.x symbols detected. Using GTK+ 2.x and GTK+ 3 in the same process is not supported.
+Gtk-Message: 18:56:10.119: Failed to load module "canberra-gtk-module"
+[50823, Main Thread] WARNING: GTK+ module /snap/firefox/4483/gnome-platform/usr/lib/gtk-2.0/modules/libcanberra-gtk-module.so cannot be loaded.
+GTK+ 2.x symbols detected. Using GTK+ 2.x and GTK+ 3 in the same process is not supported.: 'glib warning', file /build/firefox/parts/firefox/build/toolkit/xre/nsSigHandlers.cpp:187
+
+(firefox:50823): Gtk-WARNING **: 18:56:10.121: GTK+ module /snap/firefox/4483/gnome-platform/usr/lib/gtk-2.0/modules/libcanberra-gtk-module.so cannot be loaded.
+GTK+ 2.x symbols detected. Using GTK+ 2.x and GTK+ 3 in the same process is not supported.
+Gtk-Message: 18:56:10.121: Failed to load module "canberra-gtk-module"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1719964570971	Marionette	INFO	Marionette enabled
+1719964572205	Marionette	INFO	Listening on port 45465
+WebDriver BiDi listening on ws://127.0.0.1:53777
+Read port: 45465
+1719964572845	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:53777/devtools/browser/796481e7-e05f-44ce-83bb-f7e2686910dc
+console.error: (new TypeError("this._searchProviderInfo is null", "resource:///modules/SearchSERPTelemetry.sys.mjs", 939))
+JavaScript error: https://www.cambridgeone.org/notifications/js/announcement-component.js?v=1719964579534, line 2: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://www.cambridgeone.org/notifications/js/announcement-component.js?v=1719964579855, line 2: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.cambridgeone.org."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.cambridgeone.org."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.cambridgeone.org."
+1719964599072	Marionette	INFO	Stopped listening on port 45465
+1719965795272	geckodriver	INFO	Listening on 127.0.0.1:40845
+1719965795802	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/sna ... te" "--remote-debugging-port" "47149" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile3Ro844"
+Gtk-Message: 19:16:35.836: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+[51873, Main Thread] WARNING: GTK+ module /snap/firefox/4483/gnome-platform/usr/lib/gtk-2.0/modules/libcanberra-gtk-module.so cannot be loaded.
+GTK+ 2.x symbols detected. Using GTK+ 2.x and GTK+ 3 in the same process is not supported.: 'glib warning', file /build/firefox/parts/firefox/build/toolkit/xre/nsSigHandlers.cpp:187
+
+(firefox:51873): Gtk-WARNING **: 19:16:36.008: GTK+ module /snap/firefox/4483/gnome-platform/usr/lib/gtk-2.0/modules/libcanberra-gtk-module.so cannot be loaded.
+GTK+ 2.x symbols detected. Using GTK+ 2.x and GTK+ 3 in the same process is not supported.
+Gtk-Message: 19:16:36.008: Failed to load module "canberra-gtk-module"
+[51873, Main Thread] WARNING: GTK+ module /snap/firefox/4483/gnome-platform/usr/lib/gtk-2.0/modules/libcanberra-gtk-module.so cannot be loaded.
+GTK+ 2.x symbols detected. Using GTK+ 2.x and GTK+ 3 in the same process is not supported.: 'glib warning', file /build/firefox/parts/firefox/build/toolkit/xre/nsSigHandlers.cpp:187
+
+(firefox:51873): Gtk-WARNING **: 19:16:36.010: GTK+ module /snap/firefox/4483/gnome-platform/usr/lib/gtk-2.0/modules/libcanberra-gtk-module.so cannot be loaded.
+GTK+ 2.x symbols detected. Using GTK+ 2.x and GTK+ 3 in the same process is not supported.
+Gtk-Message: 19:16:36.010: Failed to load module "canberra-gtk-module"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1719965797321	Marionette	INFO	Marionette enabled
+1719965798636	Marionette	INFO	Listening on port 43501
+WebDriver BiDi listening on ws://127.0.0.1:47149
+Read port: 43501
+1719965799669	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:47149/devtools/browser/4a1ea99c-a12f-411d-9a28-34fdafb5161b
+console.error: (new TypeError("this._searchProviderInfo is null", "resource:///modules/SearchSERPTelemetry.sys.mjs", 939))
+JavaScript error: resource:///modules/SearchSERPTelemetry.sys.mjs, line 939: TypeError: this._searchProviderInfo is null
+JavaScript error: resource:///modules/SearchSERPTelemetry.sys.mjs, line 939: TypeError: this._searchProviderInfo is null
+JavaScript error: https://www.cambridgeone.org/notifications/js/announcement-component.js?v=1719965808059, line 2: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://www.cambridgeone.org/notifications/js/announcement-component.js?v=1719965808482, line 2: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.cambridgeone.org."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.cambridgeone.org."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.cambridgeone.org."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.cambridgeone.org."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.cambridgeone.org."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.cambridgeone.org."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.cambridgeone.org."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.cambridgeone.org."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.cambridgeone.org."
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+1719965827326	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1719965827903	Marionette	INFO	Stopped listening on port 43501
+console.error: services.settings: 
+  Message: NetworkError: Network error: TypeError: NetworkError: Network request failed
+  Stack:
+    APIError@resource://services-settings/RemoteSettingsClient.sys.mjs:107:1
+NetworkError@resource://services-settings/RemoteSettingsClient.sys.mjs:111:5
+_adjustedError@resource://services-settings/RemoteSettingsClient.sys.mjs:912:14
+maybeSync@resource://services-settings/RemoteSettingsClient.sys.mjs:817:38
+
+console.warn: services.settings: main/anti-tracking-url-decoration sync interrupted by shutdown
+console.warn: services.settings: main/hijack-blocklists sync interrupted by shutdown
+console.warn: services.settings: main/pioneer-study-addons-v1 sync interrupted by shutdown
+console.error: (new AbortError("IndexedDB: main/pioneer-study-addons-v2 getLastModified() IndexedDB:  execute() A request was aborted, for example through a call to IDBTransaction.abort.", "resource://services-settings/IDBHelpers.sys.mjs", 16))
+1719965849506	geckodriver	INFO	Listening on 127.0.0.1:50605
+1719965850013	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/sna ... te" "--remote-debugging-port" "57005" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileR97kN6"
+Gtk-Message: 19:17:30.062: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+[52441, Main Thread] WARNING: GTK+ module /snap/firefox/4483/gnome-platform/usr/lib/gtk-2.0/modules/libcanberra-gtk-module.so cannot be loaded.
+GTK+ 2.x symbols detected. Using GTK+ 2.x and GTK+ 3 in the same process is not supported.: 'glib warning', file /build/firefox/parts/firefox/build/toolkit/xre/nsSigHandlers.cpp:187
+
+(firefox:52441): Gtk-WARNING **: 19:17:30.326: GTK+ module /snap/firefox/4483/gnome-platform/usr/lib/gtk-2.0/modules/libcanberra-gtk-module.so cannot be loaded.
+GTK+ 2.x symbols detected. Using GTK+ 2.x and GTK+ 3 in the same process is not supported.
+Gtk-Message: 19:17:30.326: Failed to load module "canberra-gtk-module"
+[52441, Main Thread] WARNING: GTK+ module /snap/firefox/4483/gnome-platform/usr/lib/gtk-2.0/modules/libcanberra-gtk-module.so cannot be loaded.
+GTK+ 2.x symbols detected. Using GTK+ 2.x and GTK+ 3 in the same process is not supported.: 'glib warning', file /build/firefox/parts/firefox/build/toolkit/xre/nsSigHandlers.cpp:187
+
+(firefox:52441): Gtk-WARNING **: 19:17:30.328: GTK+ module /snap/firefox/4483/gnome-platform/usr/lib/gtk-2.0/modules/libcanberra-gtk-module.so cannot be loaded.
+GTK+ 2.x symbols detected. Using GTK+ 2.x and GTK+ 3 in the same process is not supported.
+Gtk-Message: 19:17:30.328: Failed to load module "canberra-gtk-module"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1719965851684	Marionette	INFO	Marionette enabled
+1719965853495	Marionette	INFO	Listening on port 37081
+WebDriver BiDi listening on ws://127.0.0.1:57005
+Read port: 37081
+1719965854038	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:57005/devtools/browser/0047d584-bb7f-4327-a65e-ebc4160b543b
+console.error: (new TypeError("this._searchProviderInfo is null", "resource:///modules/SearchSERPTelemetry.sys.mjs", 939))
+JavaScript error: resource:///modules/SearchSERPTelemetry.sys.mjs, line 939: TypeError: this._searchProviderInfo is null
+JavaScript error: resource:///modules/SearchSERPTelemetry.sys.mjs, line 939: TypeError: this._searchProviderInfo is null
+JavaScript error: https://www.cambridgeone.org/notifications/js/announcement-component.js?v=1719965860306, line 2: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://www.cambridgeone.org/notifications/js/announcement-component.js?v=1719965860134, line 2: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.cambridgeone.org."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.cambridgeone.org."
+1719965878075	Marionette	INFO	Stopped listening on port 37081
+1719972780124	geckodriver	INFO	Listening on 127.0.0.1:42049
+1719972781937	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/sna ... te" "--remote-debugging-port" "33089" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileNBKXUT"
+Gtk-Message: 21:13:02.032: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+[72655, Main Thread] WARNING: GTK+ module /snap/firefox/4483/gnome-platform/usr/lib/gtk-2.0/modules/libcanberra-gtk-module.so cannot be loaded.
+GTK+ 2.x symbols detected. Using GTK+ 2.x and GTK+ 3 in the same process is not supported.: 'glib warning', file /build/firefox/parts/firefox/build/toolkit/xre/nsSigHandlers.cpp:187
+
+(firefox:72655): Gtk-WARNING **: 21:13:02.862: GTK+ module /snap/firefox/4483/gnome-platform/usr/lib/gtk-2.0/modules/libcanberra-gtk-module.so cannot be loaded.
+GTK+ 2.x symbols detected. Using GTK+ 2.x and GTK+ 3 in the same process is not supported.
+Gtk-Message: 21:13:02.862: Failed to load module "canberra-gtk-module"
+[72655, Main Thread] WARNING: GTK+ module /snap/firefox/4483/gnome-platform/usr/lib/gtk-2.0/modules/libcanberra-gtk-module.so cannot be loaded.
+GTK+ 2.x symbols detected. Using GTK+ 2.x and GTK+ 3 in the same process is not supported.: 'glib warning', file /build/firefox/parts/firefox/build/toolkit/xre/nsSigHandlers.cpp:187
+
+(firefox:72655): Gtk-WARNING **: 21:13:02.898: GTK+ module /snap/firefox/4483/gnome-platform/usr/lib/gtk-2.0/modules/libcanberra-gtk-module.so cannot be loaded.
+GTK+ 2.x symbols detected. Using GTK+ 2.x and GTK+ 3 in the same process is not supported.
+Gtk-Message: 21:13:02.898: Failed to load module "canberra-gtk-module"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1719972791851	Marionette	INFO	Marionette enabled
+1719972794608	Marionette	INFO	Listening on port 39077
+WebDriver BiDi listening on ws://127.0.0.1:33089
+Read port: 39077
+1719972795083	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:33089/devtools/browser/3d2b47df-1045-460b-98c0-a5a509bf2ca2
+console.error: (new TypeError("this._searchProviderInfo is null", "resource:///modules/SearchSERPTelemetry.sys.mjs", 939))
+JavaScript error: https://www.cambridgeone.org/notifications/js/announcement-component.js?v=1719972806920, line 2: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.cambridgeone.org."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.cambridgeone.org."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.cambridgeone.org."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.cambridgeone.org."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.cambridgeone.org."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.cambridgeone.org."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.cambridgeone.org."
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+1719972821845	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1719972825681	Marionette	INFO	Stopped listening on port 39077
+console.error: services.settings: 
+  Message: NetworkError: Network error: TypeError: NetworkError: Network request failed
+  Stack:
+    APIError@resource://services-settings/RemoteSettingsClient.sys.mjs:107:1
+NetworkError@resource://services-settings/RemoteSettingsClient.sys.mjs:111:5
+_adjustedError@resource://services-settings/RemoteSettingsClient.sys.mjs:912:14
+maybeSync@resource://services-settings/RemoteSettingsClient.sys.mjs:817:38
+
+console.warn: services.settings: main/search-config-v2 sync interrupted by shutdown
+console.warn: services.settings: main/search-telemetry-v2 sync interrupted by shutdown
+console.error: (new NetworkError("Network error: TypeError: NetworkError: Network request failed", "resource://services-settings/RemoteSettingsClient.sys.mjs", 107))
+1719972848167	geckodriver	INFO	Listening on 127.0.0.1:34527
+1719972848487	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/sna ... te" "--remote-debugging-port" "41617" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileSNr8Mw"
+Gtk-Message: 21:14:08.522: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+[73259, Main Thread] WARNING: GTK+ module /snap/firefox/4483/gnome-platform/usr/lib/gtk-2.0/modules/libcanberra-gtk-module.so cannot be loaded.
+GTK+ 2.x symbols detected. Using GTK+ 2.x and GTK+ 3 in the same process is not supported.: 'glib warning', file /build/firefox/parts/firefox/build/toolkit/xre/nsSigHandlers.cpp:187
+
+(firefox:73259): Gtk-WARNING **: 21:14:08.878: GTK+ module /snap/firefox/4483/gnome-platform/usr/lib/gtk-2.0/modules/libcanberra-gtk-module.so cannot be loaded.
+GTK+ 2.x symbols detected. Using GTK+ 2.x and GTK+ 3 in the same process is not supported.
+Gtk-Message: 21:14:08.878: Failed to load module "canberra-gtk-module"
+[73259, Main Thread] WARNING: GTK+ module /snap/firefox/4483/gnome-platform/usr/lib/gtk-2.0/modules/libcanberra-gtk-module.so cannot be loaded.
+GTK+ 2.x symbols detected. Using GTK+ 2.x and GTK+ 3 in the same process is not supported.: 'glib warning', file /build/firefox/parts/firefox/build/toolkit/xre/nsSigHandlers.cpp:187
+
+(firefox:73259): Gtk-WARNING **: 21:14:08.880: GTK+ module /snap/firefox/4483/gnome-platform/usr/lib/gtk-2.0/modules/libcanberra-gtk-module.so cannot be loaded.
+GTK+ 2.x symbols detected. Using GTK+ 2.x and GTK+ 3 in the same process is not supported.
+Gtk-Message: 21:14:08.880: Failed to load module "canberra-gtk-module"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1719972849692	Marionette	INFO	Marionette enabled
+1719972851130	Marionette	INFO	Listening on port 39349
+WebDriver BiDi listening on ws://127.0.0.1:41617
+Read port: 39349
+1719972851883	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:41617/devtools/browser/9906d39a-242d-43fe-889a-deb9d2a33e48
+console.error: (new TypeError("this._searchProviderInfo is null", "resource:///modules/SearchSERPTelemetry.sys.mjs", 939))
+JavaScript warning: https://cdns.eu1.gigya.com/js/gigya.js?apikey=3_NX1rOjMIbJARbnSLyOEciqE4AT0KhoWXQaf7kXIP31POxhH1Y1AHDajGHHp_9XsJ&services=accounts.screenSet, line 71: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript error: https://www.cambridgeone.org/notifications/js/announcement-component.js?v=1719972861748, line 2: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://www.cambridgeone.org/notifications/js/announcement-component.js?v=1719972862595, line 2: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.cambridgeone.org."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.cambridgeone.org."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.cambridgeone.org."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.cambridgeone.org."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.cambridgeone.org."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.cambridgeone.org."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.cambridgeone.org."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.cambridgeone.org."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.cambridgeone.org."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.cambridgeone.org."
+JavaScript warning: https://cdns.gigya.com/js/gigya.js?apikey=3_NX1rOjMIbJARbnSLyOEciqE4AT0KhoWXQaf7kXIP31POxhH1Y1AHDajGHHp_9XsJ, line 71: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+1719972871164	Marionette	INFO	Stopped listening on port 39349
+1719972880142	geckodriver	INFO	Listening on 127.0.0.1:42275
+1719972880192	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/sna ... te" "--remote-debugging-port" "38537" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilepbYXNk"
+Gtk-Message: 21:14:40.228: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+[73829, Main Thread] WARNING: GTK+ module /snap/firefox/4483/gnome-platform/usr/lib/gtk-2.0/modules/libcanberra-gtk-module.so cannot be loaded.
+GTK+ 2.x symbols detected. Using GTK+ 2.x and GTK+ 3 in the same process is not supported.: 'glib warning', file /build/firefox/parts/firefox/build/toolkit/xre/nsSigHandlers.cpp:187
+
+(firefox:73829): Gtk-WARNING **: 21:14:40.410: GTK+ module /snap/firefox/4483/gnome-platform/usr/lib/gtk-2.0/modules/libcanberra-gtk-module.so cannot be loaded.
+GTK+ 2.x symbols detected. Using GTK+ 2.x and GTK+ 3 in the same process is not supported.
+Gtk-Message: 21:14:40.410: Failed to load module "canberra-gtk-module"
+[73829, Main Thread] WARNING: GTK+ module /snap/firefox/4483/gnome-platform/usr/lib/gtk-2.0/modules/libcanberra-gtk-module.so cannot be loaded.
+GTK+ 2.x symbols detected. Using GTK+ 2.x and GTK+ 3 in the same process is not supported.: 'glib warning', file /build/firefox/parts/firefox/build/toolkit/xre/nsSigHandlers.cpp:187
+
+(firefox:73829): Gtk-WARNING **: 21:14:40.413: GTK+ module /snap/firefox/4483/gnome-platform/usr/lib/gtk-2.0/modules/libcanberra-gtk-module.so cannot be loaded.
+GTK+ 2.x symbols detected. Using GTK+ 2.x and GTK+ 3 in the same process is not supported.
+Gtk-Message: 21:14:40.413: Failed to load module "canberra-gtk-module"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1719972881276	Marionette	INFO	Marionette enabled
+1719972882681	Marionette	INFO	Listening on port 45813
+Read port: 45813
+WebDriver BiDi listening on ws://127.0.0.1:38537
+1719972883232	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:38537/devtools/browser/c7fecf64-f645-4b57-aa6a-004b612003c8
+console.error: (new TypeError("this._searchProviderInfo is null", "resource:///modules/SearchSERPTelemetry.sys.mjs", 939))
+JavaScript error: https://www.cambridgeone.org/notifications/js/announcement-component.js?v=1719972891049, line 2: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://www.cambridgeone.org/notifications/js/announcement-component.js?v=1719972890952, line 2: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.cambridgeone.org."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.cambridgeone.org."
+1719972900416	Marionette	INFO	Stopped listening on port 45813
+JavaScript warning: https://www.cambridgeone.org/dashboard/learner/dashboard, line 19: Script terminated by timeout at:
+nrWrapper@https://www.cambridgeone.org/dashboard/learner/dashboard:19:16473
+
+1719972950277	geckodriver	INFO	Listening on 127.0.0.1:40917
+1719972950417	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/sna ... te" "--remote-debugging-port" "36987" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilejYYZkJ"
+Gtk-Message: 21:15:50.451: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+[74369, Main Thread] WARNING: GTK+ module /snap/firefox/4483/gnome-platform/usr/lib/gtk-2.0/modules/libcanberra-gtk-module.so cannot be loaded.
+GTK+ 2.x symbols detected. Using GTK+ 2.x and GTK+ 3 in the same process is not supported.: 'glib warning', file /build/firefox/parts/firefox/build/toolkit/xre/nsSigHandlers.cpp:187
+
+(firefox:74369): Gtk-WARNING **: 21:15:50.586: GTK+ module /snap/firefox/4483/gnome-platform/usr/lib/gtk-2.0/modules/libcanberra-gtk-module.so cannot be loaded.
+GTK+ 2.x symbols detected. Using GTK+ 2.x and GTK+ 3 in the same process is not supported.
+Gtk-Message: 21:15:50.586: Failed to load module "canberra-gtk-module"
+[74369, Main Thread] WARNING: GTK+ module /snap/firefox/4483/gnome-platform/usr/lib/gtk-2.0/modules/libcanberra-gtk-module.so cannot be loaded.
+GTK+ 2.x symbols detected. Using GTK+ 2.x and GTK+ 3 in the same process is not supported.: 'glib warning', file /build/firefox/parts/firefox/build/toolkit/xre/nsSigHandlers.cpp:187
+
+(firefox:74369): Gtk-WARNING **: 21:15:50.588: GTK+ module /snap/firefox/4483/gnome-platform/usr/lib/gtk-2.0/modules/libcanberra-gtk-module.so cannot be loaded.
+GTK+ 2.x symbols detected. Using GTK+ 2.x and GTK+ 3 in the same process is not supported.
+Gtk-Message: 21:15:50.588: Failed to load module "canberra-gtk-module"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1719972951610	Marionette	INFO	Marionette enabled
+1719972952858	Marionette	INFO	Listening on port 34613
+WebDriver BiDi listening on ws://127.0.0.1:36987
+Read port: 34613
+1719972953768	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:36987/devtools/browser/7124b20d-ca10-44a5-b753-867e0fcbf950
+console.error: (new TypeError("this._searchProviderInfo is null", "resource:///modules/SearchSERPTelemetry.sys.mjs", 939))
+JavaScript error: https://www.cambridgeone.org/notifications/js/announcement-component.js?v=1719972960190, line 2: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://www.cambridgeone.org/notifications/js/announcement-component.js?v=1719972960190, line 2: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.cambridgeone.org."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.cambridgeone.org."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.cambridgeone.org."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.cambridgeone.org."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.cambridgeone.org."
+1719972974527	Marionette	INFO	Stopped listening on port 34613
