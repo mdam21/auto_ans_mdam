@@ -1,0 +1,18 @@
+# Ignorar el directorio pruebas
+pruebas/
+
+# Ignorar el directorio legal
+legal/
+
+# Ignorar datos compilados
+data/data_compiled/
+
+# Ignorar datos debuggeados
+data/data_debugged/
+
+# Ignorar archivos de log
+*.log
+
+# Ignorar archivos de caché de Python
+__pycache__/
+*.pyc
