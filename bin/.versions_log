@@ -1,0 +1,20 @@
+-> Esta parte de código es para localizar y moverse para abajo. En este caso localiza a 3B. Está implementado en el script autom_2.3.py
+
+# Localizar la sección específica de "EVOLVE DIGITAL Level 3B" usando aria-label
+    #level_section = WebDriverWait(driver, 20).until(
+    #    EC.presence_of_element_located((By.XPATH, f"//*[@aria-label='{nivel}']"))
+    #)
+    
+    # Desplazarse hasta la sección localizada
+    #driver.execute_script("arguments[0].scrollIntoView(true);", level_section)
+
+
+V2.5
+Funciona hasta que encuentra la cantidad de cursos que hay dentro de cada usuario. 
+
+V2.6
+Funciona perfecto hasta listar la cantidad de cursos que existen para cada usuario.
+
+V2.7
+La más perfecta, muestra los niveles que existen dependiendo del estudiante, y selecciona el nivel que quieres llenar. Cambio de versión.
+
