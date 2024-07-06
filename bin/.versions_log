@@ -23,3 +23,7 @@ La que más ha funcionado, incluso imprime el listado de los subnodos y sus nomb
 
 V2.9
 La que más funciona. continúa la mejora de cada una de las listas que están presentes de los ejercicios a resolver. 
+
+V3.0 Da hasta la lista de botones que tienen visto, cargando o vacío. 
+
+V3.1 - Da el log de los xpath de los botones que están vacíos
