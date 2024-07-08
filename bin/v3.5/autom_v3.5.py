@@ -6,9 +6,9 @@ from selenium.webdriver.support import expected_conditions as EC
 import time
 
 # Solicitar datos de entrada al usuario
-user_email = "christian.arregui@uisek.edu.ec"
-user_password = "Tomas2023"
-nivel_buscado = "Level 3A"  # Puedes cambiar este valor según lo que quieras buscar
+user_email = "danny.nazamuez@uisek.edu.ec"
+user_password = "Uisek2023"
+nivel_buscado = "Level 3B"  # Puedes cambiar este valor según lo que quieras buscar
 
 # Configurar el WebDriver para Firefox
 driver = webdriver.Firefox()
@@ -17,26 +17,26 @@ driver = webdriver.Firefox()
 elementos_vacios = []
 
 try:
-	# Abrir la página web
+    # Abrir la página web
     driver.get("https://www.cambridgeone.org/")
     
-	# Esperar a que la página cargue completamente
+    # Esperar a que la página cargue completamente
     WebDriverWait(driver, 20).until(EC.presence_of_element_located((By.ID, "onboarding-header-login-btn")))
     time.sleep(1)
     
     # Localizar el botón de "Log in"
     login_button = driver.find_element(By.ID, "onboarding-header-login-btn")
     
-	# Desplazarse hasta el botón de "Log in"
+    # Desplazarse hasta el botón de "Log in"
     driver.execute_script("arguments[0].scrollIntoView(true);", login_button)
     
     # Hacer clic en el botón de "Log in"
     login_button.click()
     
-	# Esperar a que la página de login cargue completamente
+    # Esperar a que la página de login cargue completamente
     WebDriverWait(driver, 20).until(EC.presence_of_element_located((By.ID, "gigya-loginID-56269462240752180")))
     
-	# Localizar y aceptar las cookies
+    # Localizar y aceptar las cookies
     try:
         accept_cookies_button = driver.find_element(By.CSS_SELECTOR, ".btn.btn-white-bg.accept-btn")
         accept_cookies_button.click()
@@ -104,43 +104,80 @@ try:
                 break
         except Exception as e:
             print(f"Subnodo {j}: No se pudo verificar el estado. Error: {e}")
+    print("he hecho clic en el que tiene progress")
+    
+    # Verificar si el menú está extendido antes de hacer clic en el primer nodo
+    try:
+        primer_nodo = driver.find_element(By.XPATH, "/html/body/app/div/learner/product-view/div[1]/main/div/div[2]/div[2]/div/div/div[1]/a/div[2]/div[1]/p")
+        # Verificar si el nodo está visible
+        if not primer_nodo.is_displayed():
+            # Hacer clic en el primer nodo si no está visible
+            primer_nodo.click()
+    except Exception as e:
+        print(f"No se pudo verificar o hacer clic en el primer nodo. Error: {e}")
 
-    # Hacer clic en el primer nodo
-    time.sleep(5)
-    primer_nodo = driver.find_element(By.XPATH, "/html/body/app/div/learner/product-view/div[1]/main/div/div[2]/div[2]/div/div/div[1]/a/div[2]/div[1]/p")
-    primer_nodo.click()
-
-    # Listar los nombres de los botones desplegados y verificar la presencia del elemento específico
+    # Listar los nombres de los botones desplegados y verificar la presencia del check específico y la estrella
     time.sleep(2)
-    botones = driver.find_elements(By.XPATH, "/html/body/app/div/learner/product-view/div[1]/main/div/div[2]/div[2]/div/div/div[1]/div/div/a/span[3]/p")
+
+    def get_botones():
+        return driver.find_elements(By.XPATH, "/html/body/app/div/learner/product-view/div[1]/main/div/div[2]/div[2]/div/div/div[1]/div/div/a/span[3]/p")
+
+    botones = get_botones()
     for l, boton in enumerate(botones, 1):
         try:
             nombre_boton = boton.text
             # Verificar la presencia del elemento específico
-            elemento_xpath = f"/html/body/app/div/learner/product-view/div[1]/main/div/div[2]/div[2]/div/div/div[1]/div/div/a[{l}]/span[2]"
-            elemento_span = driver.find_element(By.XPATH, elemento_xpath)
+            elemento_xpath_check = f"/html/body/app/div/learner/product-view/div[1]/main/div/div[2]/div[2]/div/div/div[1]/div/div/a[{l}]/span[2]"
+            elemento_xpath_star = f"/html/body/app/div/learner/product-view/div[1]/main/div/div[2]/div[2]/div/div/div[1]/div/div/a[{l}]/span[4]/i"
             
-            if elemento_span.find_elements(By.XPATH, "./i[@class='lch-green-tick nemo-font nemo-tick']"):
-                elemento_presente = "Presente"
-            elif elemento_span.find_elements(By.XPATH, "./span/img[@src='https://assets.cambridgeone.org/nlp/1715082149084/./node_modules/libs-content-helper/dist/assets/img/inprogress_purple.png']"):
-                elemento_presente = "En progreso"
+            elemento_span_check = driver.find_element(By.XPATH, elemento_xpath_check)
+            elemento_span_star_container = driver.find_element(By.XPATH, f"/html/body/app/div/learner/product-view/div[1]/main/div/div[2]/div[2]/div/div/div[1]/div/div/a[{l}]/span[4]")
+            elemento_span_star = elemento_span_star_container.find_elements(By.XPATH, "i")
+            
+            # Verificar el estado del check
+            if elemento_span_check.find_elements(By.XPATH, "./i[@class='lch-green-tick nemo-font nemo-tick']"):
+                check_presente = "Presente"
+            elif elemento_span_check.find_elements(By.XPATH, "./span/img[@src='https://assets.cambridgeone.org/nlp/1715082149084/./node_modules/libs-content-helper/dist/assets/img/inprogress_purple.png']"):
+                check_presente = "En progreso"
             else:
-                elemento_presente = "Vacío"
-                elementos_vacios.append(elemento_xpath)
-                
-            print(f"Botón {l}: {nombre_boton} - Check: {elemento_presente}")
+                check_presente = "Vacío"
+                elementos_vacios.append(elemento_xpath_check)
+            
+            # Verificar el estado de la estrella
+            if elemento_span_star:
+                star_class = elemento_span_star[0].get_attribute("class")
+                if "lch-star-abovethreshold" in star_class:
+                    star_presente = "Completa"
+                elif "lch-star-belowthreshold" in star_class:
+                    star_presente = "Parcialmente pintada"
+                elif "lch-star-not-started" in star_class:
+                    star_presente = "Vacía"
+                else:
+                    star_presente = "NoExiste"
+            else:
+                star_presente = "NoExiste"
+            
+            # Imprimir el estado del botón
+            print(f"Botón {l}: {nombre_boton} - Check: {check_presente} - Star: {star_presente}")
+            
+            # Hacer clic en el botón si el check está en progreso o vacío
+            if check_presente in ["En progreso", "Vacío"]:
+                boton.click()
+                # Esperar hasta que el contenido del botón seleccionado esté completamente cargado
+                WebDriverWait(driver, 20).until(EC.presence_of_element_located((By.XPATH, "//elemento_esperado")))  # Reemplaza //elemento_esperado con el XPath de un elemento que debería estar presente después de que la página cargue completamente
+                print("He ingresado al botón en progreso y con estrella vacía")
+                break   # Añade esta línea para detener la búsqueda después de hacer clic
+            
         except Exception as e:
-            print(f"Botón {l}: No se pudo obtener el nombre o verificar el elemento. Error: {e}")
-
-    # Volver a hacer clic en el nodo inicial
-    time.sleep(1)
-    primer_nodo.click()
-
+            print(f"Botón {l}: No se pudo obtener el nombre o verificar los elementos. Error: {e}")
+            continue  # Continuar con el siguiente botón si hay un error
+        
 finally:
     # Cerrar el navegador
     driver.quit()
-
+        
 # Mostrar la lista de elementos vacíos
 print("Lista de elementos vacíos:")
 for xpath in elementos_vacios:
     print(xpath)
+

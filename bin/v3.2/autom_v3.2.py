@@ -6,8 +6,8 @@ from selenium.webdriver.support import expected_conditions as EC
 import time
 
 # Solicitar datos de entrada al usuario
-user_email = "christian.arregui@uisek.edu.ec"
-user_password = "Tomas2023"
+user_email = "danny.nazamuez@uisek.edu.ec"
+user_password = "Uisek2023"
 nivel_buscado = "Level 3A"  # Puedes cambiar este valor según lo que quieras buscar
 
 # Configurar el WebDriver para Firefox
@@ -27,7 +27,7 @@ try:
     # Localizar el botón de "Log in"
     login_button = driver.find_element(By.ID, "onboarding-header-login-btn")
     
-	# Desplazarse hasta el botón de "Log in"
+    # Desplazarse hasta el botón de "Log in"
     driver.execute_script("arguments[0].scrollIntoView(true);", login_button)
     
     # Hacer clic en el botón de "Log in"
@@ -104,33 +104,42 @@ try:
                 break
         except Exception as e:
             print(f"Subnodo {j}: No se pudo verificar el estado. Error: {e}")
-
+    print("he hecho clic en el que tiene progress")
+    
     # Hacer clic en el primer nodo
     time.sleep(5)
     primer_nodo = driver.find_element(By.XPATH, "/html/body/app/div/learner/product-view/div[1]/main/div/div[2]/div[2]/div/div/div[1]/a/div[2]/div[1]/p")
     primer_nodo.click()
 
-    # Listar los nombres de los botones desplegados y verificar la presencia del elemento específico
+    # Listar los nombres de los botones desplegados y verificar la presencia del check específico y la estrella
     time.sleep(2)
     botones = driver.find_elements(By.XPATH, "/html/body/app/div/learner/product-view/div[1]/main/div/div[2]/div[2]/div/div/div[1]/div/div/a/span[3]/p")
     for l, boton in enumerate(botones, 1):
         try:
             nombre_boton = boton.text
             # Verificar la presencia del elemento específico
-            elemento_xpath = f"/html/body/app/div/learner/product-view/div[1]/main/div/div[2]/div[2]/div/div/div[1]/div/div/a[{l}]/span[2]"
-            elemento_span = driver.find_element(By.XPATH, elemento_xpath)
+            elemento_xpath_check = f"/html/body/app/div/learner/product-view/div[1]/main/div/div[2]/div[2]/div/div/div[1]/div/div/a[{l}]/span[2]"
+            elemento_xpath_star = f"/html/body/app/div/learner/product-view/div[1]/main/div/div[2]/div[2]/div/div/div[1]/div/div/a[{l}]/span[4]/i"
             
-            if elemento_span.find_elements(By.XPATH, "./i[@class='lch-green-tick nemo-font nemo-tick']"):
-                elemento_presente = "Presente"
-            elif elemento_span.find_elements(By.XPATH, "./span/img[@src='https://assets.cambridgeone.org/nlp/1715082149084/./node_modules/libs-content-helper/dist/assets/img/inprogress_purple.png']"):
-                elemento_presente = "En progreso"
+            elemento_span_check = driver.find_element(By.XPATH, elemento_xpath_check)
+            elemento_span_star = driver.find_elements(By.XPATH, elemento_xpath_star)
+            
+            if elemento_span_check.find_elements(By.XPATH, "./i[@class='lch-green-tick nemo-font nemo-tick']"):
+                check_presente = "Presente"
+            elif elemento_span_check.find_elements(By.XPATH, "./span/img[@src='https://assets.cambridgeone.org/nlp/1715082149084/./node_modules/libs-content-helper/dist/assets/img/inprogress_purple.png']"):
+                check_presente = "En progreso"
             else:
-                elemento_presente = "Vacío"
-                elementos_vacios.append(elemento_xpath)
-                
-            print(f"Botón {l}: {nombre_boton} - Check: {elemento_presente}")
+                check_presente = "Vacío"
+                elementos_vacios.append(elemento_xpath_check)
+            
+            if elemento_span_star:
+                star_presente = "Presente"
+            else:
+                star_presente = "Vacío"
+            
+            print(f"Botón {l}: {nombre_boton} - Check: {check_presente} - Star: {star_presente}")
         except Exception as e:
-            print(f"Botón {l}: No se pudo obtener el nombre o verificar el elemento. Error: {e}")
+            print(f"Botón {l}: No se pudo obtener el nombre o verificar los elementos. Error: {e}")
 
     # Volver a hacer clic en el nodo inicial
     time.sleep(1)
@@ -139,7 +148,7 @@ try:
 finally:
     # Cerrar el navegador
     driver.quit()
-
+        
 # Mostrar la lista de elementos vacíos
 print("Lista de elementos vacíos:")
 for xpath in elementos_vacios:

@@ -6,9 +6,9 @@ from selenium.webdriver.support import expected_conditions as EC
 import time
 
 # Solicitar datos de entrada al usuario
-user_email = "christian.arregui@uisek.edu.ec"
-user_password = "Tomas2023"
-nivel_buscado = "Level 3A"  # Puedes cambiar este valor según lo que quieras buscar
+user_email = "drcm9404@gmail.com"
+user_password = "Uisek2023"
+nivel_buscado = "Level 3B"  # Puedes cambiar este valor según lo que quieras buscar
 
 # Configurar el WebDriver para Firefox
 driver = webdriver.Firefox()
@@ -17,26 +17,26 @@ driver = webdriver.Firefox()
 elementos_vacios = []
 
 try:
-	# Abrir la página web
+    # Abrir la página web
     driver.get("https://www.cambridgeone.org/")
     
-	# Esperar a que la página cargue completamente
+    # Esperar a que la página cargue completamente
     WebDriverWait(driver, 20).until(EC.presence_of_element_located((By.ID, "onboarding-header-login-btn")))
     time.sleep(1)
     
     # Localizar el botón de "Log in"
     login_button = driver.find_element(By.ID, "onboarding-header-login-btn")
     
-	# Desplazarse hasta el botón de "Log in"
+    # Desplazarse hasta el botón de "Log in"
     driver.execute_script("arguments[0].scrollIntoView(true);", login_button)
     
     # Hacer clic en el botón de "Log in"
     login_button.click()
     
-	# Esperar a que la página de login cargue completamente
+    # Esperar a que la página de login cargue completamente
     WebDriverWait(driver, 20).until(EC.presence_of_element_located((By.ID, "gigya-loginID-56269462240752180")))
     
-	# Localizar y aceptar las cookies
+    # Localizar y aceptar las cookies
     try:
         accept_cookies_button = driver.find_element(By.CSS_SELECTOR, ".btn.btn-white-bg.accept-btn")
         accept_cookies_button.click()
@@ -56,7 +56,7 @@ try:
     
     # Esperar a que la página principal cargue completamente después de iniciar sesión
     WebDriverWait(driver, 20).until(EC.presence_of_element_located((By.CLASS_NAME, "tile-section-1")))
-    
+
     # Esperar un poco más para asegurarse de que todo esté completamente cargado
     time.sleep(5)
     
@@ -65,6 +65,7 @@ try:
         main_node = driver.find_element(By.CSS_SELECTOR, "main[class*='user-space-container']")
         return main_node.find_elements(By.CSS_SELECTOR, "div.courses.d-flex.flex-column.w-100")
 
+    # Localizar los contenedores de cursos
     course_containers = get_course_containers()
     
     if not course_containers:
@@ -104,7 +105,8 @@ try:
                 break
         except Exception as e:
             print(f"Subnodo {j}: No se pudo verificar el estado. Error: {e}")
-
+	
+	
     # Hacer clic en el primer nodo
     time.sleep(5)
     primer_nodo = driver.find_element(By.XPATH, "/html/body/app/div/learner/product-view/div[1]/main/div/div[2]/div[2]/div/div/div[1]/a/div[2]/div[1]/p")
