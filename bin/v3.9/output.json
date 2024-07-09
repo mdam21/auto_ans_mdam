@@ -1,0 +1,787 @@
+{
+    "Vocabulary practice 1: Music": [
+        {
+            "header": "Complete the sentence.",
+            "question": "An orchestra is performing some famous works by Mozart and Beethoven.",
+            "correct_answer": "classical",
+            "extra": "",
+            "ans_type": "selector"
+        },
+        {
+            "header": "Look at the photo and choose the correct answer.",
+            "question": "What type of music concert is this?",
+            "correct_answer": "country",
+            "extra": "",
+            "ans_type": "list check"
+        },
+        {
+            "header": "Listen and choose the correct answer.",
+            "question": "What kind of music are they talking about?",
+            "correct_answer": "EDM",
+            "extra": "",
+            "ans_type": ""
+        },
+        {
+            "header": "Complete the conversation",
+            "question": "Why don't you buy him a",
+            "correct_answer": "folk",
+            "extra": "",
+            "ans_type": "selector"
+        },
+        {
+            "header": "Complete the conversation. There are two extra words.",
+            "question": "Mom, I can't turn it down. Heavy",
+            "correct_answer": "metal",
+            "extra": "",
+            "ans_type": "botones abajo"
+        },
+        {
+            "header": "Listen and choose the correct answer.",
+            "question": "What type of music do you hear?",
+            "correct_answer": "hip-hop",
+            "extra": "",
+            "ans_type": "list check"
+        },
+        {
+            "header": "Look at the photo and complete the sentence.",
+            "question": "I have two tickets to",
+            "correct_answer": "a jazz",
+            "extra": "",
+            "ans_type": "selector"
+        },
+        {
+            "header": "Listen and choose the correct answer.",
+            "question": "What style of music is the radio presenter describing?",
+            "correct_answer": "pop",
+            "extra": "20",
+            "ans_type": "list check"
+        },
+        {
+            "header": "Complete the conversation.",
+            "question": "The locals played some traditional",
+            "correct_answer": "folk",
+            "extra": "",
+            "ans_type": "selector"
+        },
+        {
+            "header": "Put the words in the correct categories.",
+            "question": "Which three types of music have people played for many years, and which three types of music are more modern?",
+            "correct_answer": "",
+            "extra": "",
+            "ans_type": "selector botones abajo con agrupacion"
+        },
+        {
+            "header": "",
+            "question": "",
+            "correct_answer": "",
+            "extra": "",
+            "ans_type": ""
+        }
+    ],
+    "Vocabulary practice 2: Music": [
+        {
+            "header": "Read the information and complete the sentence.",
+            "question": "They're at a",
+            "correct_answer": "classical",
+            "extra": "",
+            "ans_type": "llenar"
+        },
+        {
+            "header": "Listen, and then choose the correct answer.",
+            "question": "What do the letters EDM mean?",
+            "correct_answer": "Electronic Dance Music",
+            "extra": "10",
+            "ans_type": "list check"
+        },
+        {
+            "header": "Complete the sentence.",
+            "question": "Now you can hear ",
+            "correct_answer": "country",
+            "extra": "",
+            "ans_type": ""
+        },
+        {
+            "header": "Listen and choose the true sentence.",
+            "question": ".",
+            "correct_answer": "He is enjoying listening to the heavy metal album he just bought.",
+            "extra": "22",
+            "ans_type": "list check"
+        },
+        {
+            "header": "Read the sentences. Choose True or False.",
+            "question": "People often dance to classical music in dance clubs",
+            "correct_answer": "False*True*True*False",
+            "extra": "",
+            "ans_type": "selector"
+        },
+        {
+            "header": "Read the information. Then complete the sentence. Use one of the words below.",
+            "question": "This describes ",
+            "correct_answer": "rock",
+            "extra": "",
+            "ans_type": "llenar"
+        },
+        {
+            "header": "",
+            "question": "",
+            "correct_answer": "",
+            "extra": "",
+            "ans_type": ""
+        }
+    ],
+    "Grammar practice 1: \"used to\"": [
+        {
+            "header": "Listen and choose the correct answer.",
+            "question": "How many heavy metal concerts did Dave go to?",
+            "correct_answer": "many",
+            "extra": "",
+            "ans_type": "list check"
+        },
+        {
+            "header": "Complete the conversation.",
+            "question": "Really? That's surprising. They",
+            "correct_answer": "didn't use to like",
+            "extra": "",
+            "ans_type": "selector"
+        },
+        {
+            "header": "Complete the sentence.",
+            "question": "My dad",
+            "correct_answer": "used",
+            "extra": "",
+            "ans_type": "selector"
+        },
+        {
+            "header": "Complete the sentence. There are two extra words.",
+            "question": "Luis didn't",
+            "correct_answer": "use*to*have",
+            "extra": "",
+            "ans_type": "botones abajo"
+        },
+        {
+            "header": "Complete the sentence.",
+            "question": "My friends used",
+            "correct_answer": "to decorate",
+            "extra": "",
+            "ans_type": "selector"
+        },
+        {
+            "header": "Complete the sentence. There are two extra words.",
+            "question": "My brother and I ",
+            "correct_answer": "didn't*use*to",
+            "extra": "",
+            "ans_type": "botones abajo"
+        },
+        {
+            "header": "Complete the sentence.",
+            "question": "This folk band used to ",
+            "correct_answer": "be",
+            "extra": "",
+            "ans_type": "selector"
+        },
+        {
+            "header": "Complete the sentence.",
+            "question": "Did",
+            "correct_answer": "you*use*to*have",
+            "extra": "",
+            "ans_type": "botones abajo"
+        },
+        {
+            "header": "Complete the sentence.",
+            "question": "I didn't ",
+            "correct_answer": "use*like",
+            "extra": "",
+            "ans_type": "selector"
+        },
+        {
+            "header": "Complete the conversation. There are two extra words.",
+            "question": "Peter,",
+            "correct_answer": "did*use*didn't",
+            "extra": "",
+            "ans_type": "botones abajo"
+        },
+        {
+            "header": "",
+            "question": "",
+            "correct_answer": "",
+            "extra": "",
+            "ans_type": ""
+        }
+    ],
+    "Grammar practice 2: \"used to\"": [
+        {
+            "header": "Review the grammar. Complete the sentences. ",
+            "question": "Complete the example sentences and the grammar rules.",
+            "correct_answer": "use to*do*use to*used to*see*used to*didn't use to*watch*didn't use to",
+            "extra": "",
+            "ans_type": ""
+        },
+        {
+            "header": "Listen and choose the correct answer.",
+            "question": "Which is the best response to this question?",
+            "correct_answer": "Yes, I used to spend all my time",
+            "extra": "",
+            "ans_type": ""
+        },
+        {
+            "header": "Complete the conversation.",
+            "question": "Where did you",
+            "correct_answer": "use to live*used to live",
+            "extra": "",
+            "ans_type": "llenar"
+        },
+        {
+            "header": "Complete the conversation.",
+            "question": "What did you",
+            "correct_answer": "use to do*didn't use to go",
+            "extra": "",
+            "ans_type": "llenar"
+        },
+        {
+            "header": "Read the questions. Tap Show to see some answers. Choose the correct answer for each question.",
+            "question": "Did you use to drive a red car? ",
+            "correct_answer": "Answer D*Answer A*Answer C*Answer B",
+            "extra": "",
+            "ans_type": "selector"
+        },
+        {
+            "header": "Put the words in the correct order to form a question.",
+            "question": ".",
+            "correct_answer": "Which company*did*you*use to*work*for",
+            "extra": "",
+            "ans_type": "botones abajo"
+        },
+        {
+            "header": "Listen and choose the correct answer.",
+            "question": "Which question is she answering?",
+            "correct_answer": "Did you live on Bedford Street a few years ago?",
+            "extra": "",
+            "ans_type": "list check"
+        },
+        {
+            "header": "Complete the sentence. There are two extra words.",
+            "question": "In ",
+            "correct_answer": "animated*movies",
+            "extra": "",
+            "ans_type": ""
+        },
+        {
+            "header": "Listen and choose the correct answer.",
+            "question": "What kind of movie did Steve probably watch?",
+            "correct_answer": "comedy",
+            "extra": "",
+            "ans_type": "list check"
+        },
+        {
+            "header": "Complete the sentence.",
+            "question": "There is a great new ",
+            "correct_answer": "drama",
+            "extra": "",
+            "ans_type": ""
+        },
+        {
+            "header": "Choose the correct answer.",
+            "question": "What type of TV or radio program gives facts and information about something?",
+            "correct_answer": "a documentary",
+            "extra": "",
+            "ans_type": "list check"
+        },
+        {
+            "header": "Complete the sentence.",
+            "question": "take part in a",
+            "correct_answer": "game show",
+            "extra": "",
+            "ans_type": "selector"
+        },
+        {
+            "header": "Complete the sentence.",
+            "question": "I never watch",
+            "correct_answer": "horror",
+            "extra": "",
+            "ans_type": "botones abajo"
+        },
+        {
+            "header": "Choose the correct answer.",
+            "question": "In which TV program or movie can you hear a lot of songs?",
+            "correct_answer": "in a musical",
+            "extra": "",
+            "ans_type": "list check"
+        },
+        {
+            "header": "Complete the conversation. There are two extra words.",
+            "question": "I'm watching a",
+            "correct_answer": "reality*show",
+            "extra": "",
+            "ans_type": "botones abajo"
+        },
+        {
+            "header": "Complete the sentence.",
+            "question": "My boyfriend doesn't want to watch",
+            "correct_answer": "romantic comedies",
+            "extra": "",
+            "ans_type": "selector"
+        },
+        {
+            "header": "Choose the correct answer.",
+            "question": "Which type of movie happens in the future and often includes space travel?",
+            "correct_answer": "a science fiction movie",
+            "extra": "",
+            "ans_type": "list check"
+        },
+        {
+            "header": "Complete the conversation. There are two extra words.",
+            "question": "My grandma used to watch this",
+            "correct_answer": "soap*opera",
+            "extra": "",
+            "ans_type": "botones abajo"
+        },
+        {
+            "header": "Choose the correct answers.",
+            "question": "Which kinds of programs don't usually have professional actors?",
+            "correct_answer": "talk show*quiz show*reality show",
+            "extra": "",
+            "ans_type": ""
+        },
+        {
+            "header": "Complete the sentence.",
+            "question": "are not as frightening as horror movies, but they are a bit",
+            "correct_answer": "Thrillers",
+            "extra": "",
+            "ans_type": "selector"
+        },
+        {
+            "header": "Watch the video. Complete the sentences with the correct numbers.",
+            "question": "",
+            "correct_answer": "54*1905*5",
+            "extra": "",
+            "ans_type": "botones abajo"
+        },
+        {
+            "header": "Watch the video and use the numbers to put the events in order. Use 1 for the earliest event to 5 for the most recent event.",
+            "question": "",
+            "correct_answer": "5*4*2*1*3",
+            "extra": "",
+            "ans_type": "selector"
+        },
+        {
+            "header": "Watch part of the video. Complete the sentences.",
+            "question": "",
+            "correct_answer": "used to be*the price*trains*documentaries*musicians",
+            "extra": "",
+            "ans_type": ""
+        },
+        {
+            "header": "Watch part of the video. Choose True or False.",
+            "question": "",
+            "correct_answer": "False*True*False*True",
+            "extra": "",
+            "ans_type": "selector"
+        },
+        {
+            "header": "Read, and then choose the correct answer.",
+            "question": "",
+            "correct_answer": "It's expensive.",
+            "extra": "",
+            "ans_type": "list check"
+        },
+        {
+            "header": "",
+            "question": "",
+            "correct_answer": "",
+            "extra": "",
+            "ans_type": ""
+        },
+        {
+            "header": "",
+            "question": "",
+            "correct_answer": "",
+            "extra": "",
+            "ans_type": ""
+        },
+        {
+            "header": "",
+            "question": "",
+            "correct_answer": "",
+            "extra": "",
+            "ans_type": ""
+        },
+        {
+            "header": "",
+            "question": "",
+            "correct_answer": "",
+            "extra": "",
+            "ans_type": ""
+        },
+        {
+            "header": "",
+            "question": "",
+            "correct_answer": "",
+            "extra": "",
+            "ans_type": ""
+        },
+        {
+            "header": "",
+            "question": "",
+            "correct_answer": "",
+            "extra": "",
+            "ans_type": ""
+        },
+        {
+            "header": "",
+            "question": "",
+            "correct_answer": "",
+            "extra": "",
+            "ans_type": ""
+        },
+        {
+            "header": "",
+            "question": "",
+            "correct_answer": "",
+            "extra": "",
+            "ans_type": ""
+        },
+        {
+            "header": "",
+            "question": "",
+            "correct_answer": "",
+            "extra": "",
+            "ans_type": ""
+        },
+        {
+            "header": "",
+            "question": "",
+            "correct_answer": "",
+            "extra": "",
+            "ans_type": ""
+        },
+        {
+            "header": "",
+            "question": "",
+            "correct_answer": "",
+            "extra": "",
+            "ans_type": ""
+        },
+        {
+            "header": "",
+            "question": "",
+            "correct_answer": "",
+            "extra": "",
+            "ans_type": ""
+        },
+        {
+            "header": "",
+            "question": "",
+            "correct_answer": "",
+            "extra": "",
+            "ans_type": ""
+        },
+        {
+            "header": "",
+            "question": "",
+            "correct_answer": "",
+            "extra": "",
+            "ans_type": ""
+        },
+        {
+            "header": "",
+            "question": "",
+            "correct_answer": "",
+            "extra": "",
+            "ans_type": ""
+        },
+        {
+            "header": "",
+            "question": "",
+            "correct_answer": "",
+            "extra": "",
+            "ans_type": ""
+        },
+        {
+            "header": "",
+            "question": "",
+            "correct_answer": "",
+            "extra": "",
+            "ans_type": ""
+        },
+        {
+            "header": "",
+            "question": "",
+            "correct_answer": "",
+            "extra": "",
+            "ans_type": ""
+        },
+        {
+            "header": "",
+            "question": "",
+            "correct_answer": "",
+            "extra": "",
+            "ans_type": ""
+        },
+        {
+            "header": "",
+            "question": "",
+            "correct_answer": "",
+            "extra": "",
+            "ans_type": ""
+        },
+        {
+            "header": "",
+            "question": "",
+            "correct_answer": "",
+            "extra": "",
+            "ans_type": ""
+        },
+        {
+            "header": "",
+            "question": "",
+            "correct_answer": "",
+            "extra": "",
+            "ans_type": ""
+        },
+        {
+            "header": "",
+            "question": "",
+            "correct_answer": "",
+            "extra": "",
+            "ans_type": ""
+        },
+        {
+            "header": "",
+            "question": "",
+            "correct_answer": "",
+            "extra": "",
+            "ans_type": ""
+        },
+        {
+            "header": "",
+            "question": "",
+            "correct_answer": "",
+            "extra": "",
+            "ans_type": ""
+        },
+        {
+            "header": "",
+            "question": "",
+            "correct_answer": "",
+            "extra": "",
+            "ans_type": ""
+        },
+        {
+            "header": "",
+            "question": "",
+            "correct_answer": "",
+            "extra": "",
+            "ans_type": ""
+        },
+        {
+            "header": "",
+            "question": "",
+            "correct_answer": "",
+            "extra": "",
+            "ans_type": ""
+        },
+        {
+            "header": "",
+            "question": "",
+            "correct_answer": "",
+            "extra": "",
+            "ans_type": ""
+        },
+        {
+            "header": "",
+            "question": "",
+            "correct_answer": "",
+            "extra": "",
+            "ans_type": ""
+        },
+        {
+            "header": "",
+            "question": "",
+            "correct_answer": "",
+            "extra": "",
+            "ans_type": ""
+        },
+        {
+            "header": "",
+            "question": "",
+            "correct_answer": "",
+            "extra": "",
+            "ans_type": ""
+        },
+        {
+            "header": "",
+            "question": "",
+            "correct_answer": "",
+            "extra": "",
+            "ans_type": ""
+        },
+        {
+            "header": "",
+            "question": "",
+            "correct_answer": "",
+            "extra": "",
+            "ans_type": ""
+        },
+        {
+            "header": "",
+            "question": "",
+            "correct_answer": "",
+            "extra": "",
+            "ans_type": ""
+        },
+        {
+            "header": "",
+            "question": "",
+            "correct_answer": "",
+            "extra": "",
+            "ans_type": ""
+        },
+        {
+            "header": "",
+            "question": "",
+            "correct_answer": "",
+            "extra": "",
+            "ans_type": ""
+        },
+        {
+            "header": "",
+            "question": "",
+            "correct_answer": "",
+            "extra": "",
+            "ans_type": ""
+        },
+        {
+            "header": "",
+            "question": "",
+            "correct_answer": "",
+            "extra": "",
+            "ans_type": ""
+        },
+        {
+            "header": "",
+            "question": "",
+            "correct_answer": "",
+            "extra": "",
+            "ans_type": ""
+        },
+        {
+            "header": "",
+            "question": "",
+            "correct_answer": "",
+            "extra": "",
+            "ans_type": ""
+        },
+        {
+            "header": "",
+            "question": "",
+            "correct_answer": "",
+            "extra": "",
+            "ans_type": ""
+        },
+        {
+            "header": "",
+            "question": "",
+            "correct_answer": "",
+            "extra": "",
+            "ans_type": ""
+        },
+        {
+            "header": "",
+            "question": "",
+            "correct_answer": "",
+            "extra": "",
+            "ans_type": ""
+        },
+        {
+            "header": "",
+            "question": "",
+            "correct_answer": "",
+            "extra": "",
+            "ans_type": ""
+        },
+        {
+            "header": "",
+            "question": "",
+            "correct_answer": "",
+            "extra": "",
+            "ans_type": ""
+        },
+        {
+            "header": "",
+            "question": "",
+            "correct_answer": "",
+            "extra": "",
+            "ans_type": ""
+        },
+        {
+            "header": "",
+            "question": "",
+            "correct_answer": "",
+            "extra": "",
+            "ans_type": ""
+        },
+        {
+            "header": "",
+            "question": "",
+            "correct_answer": "",
+            "extra": "",
+            "ans_type": ""
+        },
+        {
+            "header": "",
+            "question": "",
+            "correct_answer": "",
+            "extra": "",
+            "ans_type": ""
+        },
+        {
+            "header": "",
+            "question": "",
+            "correct_answer": "",
+            "extra": "",
+            "ans_type": ""
+        },
+        {
+            "header": "",
+            "question": "",
+            "correct_answer": "",
+            "extra": "",
+            "ans_type": ""
+        },
+        {
+            "header": "",
+            "question": "",
+            "correct_answer": "",
+            "extra": "",
+            "ans_type": ""
+        },
+        {
+            "header": "",
+            "question": "",
+            "correct_answer": "",
+            "extra": "",
+            "ans_type": ""
+        },
+        {
+            "header": "",
+            "question": "",
+            "correct_answer": "",
+            "extra": "",
+            "ans_type": ""
+        },
+        {
+            "header": "",
+            "question": "",
+            "correct_answer": "",
+            "extra": "",
+            "ans_type": ""
+        },
+        {
+            "header": "",
+            "question": "",
+            "correct_answer": "",
+            "extra": "",
+            "ans_type": ""
+        }
+    ]
+}

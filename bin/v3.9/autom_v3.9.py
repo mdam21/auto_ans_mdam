@@ -5,10 +5,12 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 import time
 import subprocess
+import json
+import os
 
 # Solicitar datos de entrada al usuario
-user_email = "victor.yanza@uisek.edu.ec"
-user_password = "g@briel2204"
+user_email = "danny.nazamuez@uisek.edu.ec"
+user_password = "Uisek2023"
 nivel_buscado = "Level 3B"  # Puedes cambiar este valor según lo que quieras buscar
 
 # Configurar el WebDriver para Firefox
@@ -16,6 +18,11 @@ driver = webdriver.Firefox()
 
 # Lista para guardar los XPaths de los elementos vacíos
 elementos_vacios = []
+
+# Cargar el archivo JSON
+json_file_path = os.path.join(os.path.dirname(__file__), 'output.json')
+with open(json_file_path, 'r') as file:
+    data = json.load(file)
 
 try:
     # Abrir la página web
@@ -161,96 +168,73 @@ try:
             # Imprimir el estado del botón
             print(f"Botón {l}: {nombre_boton} - Check: {check_presente} - Star: {star_presente}")
             
+            ### Agregando funciones
+            def func_selector():
+                print("Llamando a func_selector para manejar dropdowns.")
+
+            def func_list_check():
+                print("Llamando a func_list_check para manejar listas de selección.")
+
+            def func_botones():
+                print("Llamando a func_botones para manejar botones.")
+
+            def func_llenar():
+                print("Llamando a func_llenar para manejar campos de texto.")
+            
             # Hacer clic en el botón si el check está en progreso o vacío
             if check_presente in ["En progreso", "Vacío"]:
                 boton.click()
                 
                 ###
-                def realizar_acciones_especificas(driver, star_presente):
-                    if star_presente == "Completa":
-                        print("Realizando acciones para pregunta con estrella completa...")
-                        # Agrega aquí las acciones específicas para preguntas con estrella completa
-                    elif star_presente == "Parcialmente pintada":
-                        print("Realizando acciones para pregunta con estrella parcialmente pintada...")
-                        # Agrega aquí las acciones específicas para preguntas con estrella parcialmente pintada
-                    elif star_presente == "Vacía":
-                        print("Realizando acciones para pregunta con estrella vacía...")
-                        # Agrega aquí las acciones específicas para preguntas con estrella vacía
-                    elif star_presente == "NoExiste":
-                        print("Realizando acciones para pregunta sin estrella...")
-                        # Esperar a que se cargue el contenido de la pregunta seleccionada
-                        WebDriverWait(driver, 20).until(EC.presence_of_element_located((By.XPATH, "/html/body/app/div/learner/activity-view/div/div/main/div/activity-renderer/header/div/button/span")))
+                print("aqui mocharon cabezas")
+                # Buscar y listar opciones en los dropdowns dentro del contenedor específico usando selectores de CSS
+               # Buscar el encabezado y llamar a la función correspondiente
+                try:
+                    section_header_element = WebDriverWait(driver, 20).until(
+                        EC.presence_of_element_located((By.TAG_NAME, "p"))
+                    )
+                    section_header_text = section_header_element.text
+                    print(f"Encabezado de sección encontrado: {section_header_text}")
 
-                        try:
-                            # Esperar a que el botón "Next" esté presente
-                            next_button = WebDriverWait(driver, 10).until(
-                                EC.presence_of_element_located((By.CSS_SELECTOR, "body > app > div > learner > activity-view > div > div > main > div > div.controls-wrapper > div > a.btn.green-btn"))
-                            )
-                            next_button.click()
-                            print("Botón 'Next' presionado.")
-                            time.sleep(4)
-                        except Exception as e:
-                            print("No existe next. Error:", e)
-                            
-                            # Buscar y seleccionar opciones en los dropdowns dentro del contenedor específico
-                            try:
-                                container_xpath = "/html/body/div[1]/div/div/div[8]/div/div/div/div"
-                                container = driver.find_element(By.XPATH, container_xpath)
-                                print(f"Contenedor encontrado en: {container_xpath}")
-                                dropdowns = container.find_elements(By.CSS_SELECTOR, "div.wrapper-dropdown.listbox div.rich-dropdown.listbox__dropdown button.drop-label.listbox__label")
-                                
-                                if dropdowns:
-                                    print(f"Se encontraron {len(dropdowns)} dropdowns.")
-                                    for i, dropdown in enumerate(dropdowns):
-                                        try:
-                                            print(f"Interaccionando con dropdown {i + 1}.")
-                                            dropdown.click()
-                                            time.sleep(1)  # Esperar un momento para que las opciones se desplieguen
-                                            options = WebDriverWait(driver, 10).until(
-                                                EC.visibility_of_all_elements_located((By.XPATH, "//div[@class='popup listbox__popup']//ul[@class='listbox__choices']/li"))
-                                            )
-                                            if options:
-                                                options[0].click()  # Seleccionar la primera opción
-                                                print(f"Opción seleccionada en el dropdown {i + 1}.")
-                                            else:
-                                                print(f"No hay opciones disponibles en el dropdown {i + 1}.")
-                                        except Exception as dropdown_error:
-                                            print(f"Error al interactuar con el dropdown {i + 1}:", dropdown_error)
-                                else:
-                                    print("No se encontraron dropdowns para interactuar.")
-                                
-                                # Intentar encontrar y presionar el botón "Next" nuevamente después de interactuar con los dropdowns
-                                try:
-                                    next_button = WebDriverWait(driver, 10).until(
-                                        EC.presence_of_element_located((By.CSS_SELECTOR, "body > app > div > learner > activity-view > div > div > main > div > div.controls-wrapper > div > a.btn.green-btn"))
-                                    )
-                                    next_button.click()
-                                    print("Botón 'Next' presionado después de interactuar con los dropdowns.")
-                                except Exception as final_error:
-                                    print("No existe next incluso después de interactuar con los dropdowns. Error:", final_error)
+                    # Cargar el archivo JSON
+                    json_file_path = os.path.join(os.path.dirname(__file__), 'output.json')
+                    with open(json_file_path, 'r') as file:
+                        data = json.load(file)
 
-                            except Exception as find_dropdowns_error:
-                                print("Error al buscar e interactuar con los dropdowns:", find_dropdowns_error)
+                    # Buscar el nombre_boton en el JSON
+                    if nombre_boton in data:
+                        boton_data = data[nombre_boton]
+                        print(f"Datos para el botón '{nombre_boton}':")
+                        for entry in boton_data:
+                            print(f"Header: {entry['header']}")
+                            print(f"Question: {entry['question']}")
+                            print(f"Correct Answer: {entry['correct_answer']}")
+                            print(f"Extra: {entry['extra']}")
+                            print(f"Answer Type: {entry['ans_type']}")
+                            print("---")
+                    else:
+                        print(f"No se encontraron datos para el botón '{nombre_boton}' en el JSON.")
 
-                # Uso de la función
-                realizar_acciones_especificas(driver, "NoExiste")
-                
-                
+                    if section_header_text in ["Complete the conversation", "Complete the sentence.", "Look at the photo and complete the sentence."]:
+                        func_selector()
+                    elif section_header_text in ["Look at the photo and choose the correct answer.", "Listen and choose the correct answer.", "Listen and choose the true sentence."]:
+                        func_list_check()
+                    else:
+                        print(f"No se encontró una función correspondiente para el encabezado de sección: {section_header_text}")
+                    
+                    # Puedes añadir más condiciones para otros tipos de encabezados aquí
+                    # Ejemplo:
+                    # elif section_header_text in ["Otro encabezado 1", "Otro encabezado 2"]:
+                    #     func_botones()
+                    # elif section_header_text in ["Otro encabezado 3", "Otro encabezado 4"]:
+                    #     func_llenar()
+                    # else:
+                    #     print(f"No se encontró una función correspondiente para el encabezado de sección: {section_header_text}")
+
+                except Exception as e:
+                    print(f"Error al buscar el encabezado de sección: {e}")
                 ###
-                
-                # Esperar hasta que el contenido del botón seleccionado esté completamente cargado
-                WebDriverWait(driver, 20).until(EC.presence_of_element_located((By.XPATH, "/html/body/app/div/learner/activity-view/div/div/main/div/activity-renderer/header/div/button/span")))
-                
-                # Mostrar mensaje según la presencia de la estrella
-                if star_presente == "NoExiste":
-                    print("He ingresado a una pregunta sin estrella.")
-                else:
-                    print(f"He ingresado a una pregunta con estrella: {star_presente}")
-                
-                # Llamar a la función para realizar las acciones específicas
-                realizar_acciones_especificas(driver, star_presente)
                 break   # Detener la búsqueda después de hacer clic
-        
         except Exception as e:
             print(f"Botón {l}: No se pudo obtener el nombre o verificar los elementos. Error: {e}")
             continue  # Continuar con el siguiente botón si hay un error
