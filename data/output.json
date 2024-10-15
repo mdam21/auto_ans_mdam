@@ -1,0 +1,4208 @@
+{
+    "Vocabulary practice 1: Music": [
+        {
+            "header": "Complete the sentence.",
+            "question": "An orchestra is performing some famous works by Mozart and Beethoven.",
+            "correct_answer": "classical",
+            "ans_type": "dropdown",
+            "extra": ""
+        },
+        {
+            "header": "Look at the photo and choose the correct answer.",
+            "question": "What type of music concert is this?",
+            "correct_answer": "country",
+            "ans_type": "listbox",
+            "extra": ""
+        },
+        {
+            "header": "Listen and choose the correct answer.",
+            "question": "What kind of music are they talking about?",
+            "correct_answer": "EDM",
+            "ans_type": "listbox",
+            "extra": ""
+        },
+        {
+            "header": "Complete the conversation",
+            "question": "Why don't you buy him a",
+            "correct_answer": "folk",
+            "ans_type": "dropdown",
+            "extra": ""
+        },
+        {
+            "header": "Complete the conversation. There are two extra words.",
+            "question": "Mom, I can't turn it down. Heavy",
+            "correct_answer": "metal",
+            "ans_type": "buttons_sel",
+            "extra": ""
+        },
+        {
+            "header": "Listen and choose the correct answer.",
+            "question": "What type of music do you hear?",
+            "correct_answer": "hip-hop",
+            "ans_type": "listbox",
+            "extra": ""
+        },
+        {
+            "header": "Look at the photo and complete the sentence.",
+            "question": "I have two tickets to",
+            "correct_answer": "a jazz",
+            "ans_type": "dropdown",
+            "extra": ""
+        },
+        {
+            "header": "Listen and choose the correct answer.",
+            "question": "What style of music is the radio presenter describing?",
+            "correct_answer": "pop",
+            "ans_type": "listbox",
+            "extra": 20.0
+        },
+        {
+            "header": "Complete the conversation.",
+            "question": "The locals played some traditional",
+            "correct_answer": "folk",
+            "ans_type": "dropdown",
+            "extra": ""
+        },
+        {
+            "header": "Put the words in the correct categories.",
+            "question": "Which three types of music have people played for many years, and which three types of music are more modern?",
+            "correct_answer": NaN,
+            "ans_type": "dropdown buttons_sel con agrupacion",
+            "extra": ""
+        },
+        {
+            "header": NaN,
+            "question": NaN,
+            "correct_answer": NaN,
+            "ans_type": NaN,
+            "extra": ""
+        }
+    ],
+    "Vocabulary practice 2: Music": [
+        {
+            "header": "Read the information and complete the sentence.",
+            "question": "They're at a",
+            "correct_answer": "classical",
+            "ans_type": "text_input",
+            "extra": ""
+        },
+        {
+            "header": "Listen, and then choose the correct answer.",
+            "question": "What do the letters EDM mean?",
+            "correct_answer": "Electronic Dance Music",
+            "ans_type": "listbox",
+            "extra": 10.0
+        },
+        {
+            "header": "Complete the sentence.",
+            "question": "Now you can hear ",
+            "correct_answer": "country",
+            "ans_type": "text_input",
+            "extra": ""
+        },
+        {
+            "header": "Listen and choose the true sentence.",
+            "question": ".",
+            "correct_answer": "He is enjoying listening to the heavy metal album he just bought.",
+            "ans_type": "listbox",
+            "extra": 22.0
+        },
+        {
+            "header": "Read the sentences. Choose True or False.",
+            "question": "People often dance to classical music in dance clubs",
+            "correct_answer": "False*True*True*False",
+            "ans_type": "dropdown",
+            "extra": ""
+        },
+        {
+            "header": "Read the information. Then complete the sentence. Use one of the words below.",
+            "question": "This describes ",
+            "correct_answer": "rock",
+            "ans_type": "text_input",
+            "extra": ""
+        },
+        {
+            "header": NaN,
+            "question": NaN,
+            "correct_answer": NaN,
+            "ans_type": NaN,
+            "extra": ""
+        }
+    ],
+    "Grammar practice 1: \"used to\"": [
+        {
+            "header": "Listen and choose the correct answer.",
+            "question": "How many heavy metal concerts did Dave go to?",
+            "correct_answer": "many",
+            "ans_type": "listbox",
+            "extra": ""
+        },
+        {
+            "header": "Complete the conversation.",
+            "question": "Really? That's surprising. They",
+            "correct_answer": "didn't use to like",
+            "ans_type": "dropdown",
+            "extra": ""
+        },
+        {
+            "header": "Complete the sentence.",
+            "question": "My dad",
+            "correct_answer": "used",
+            "ans_type": "dropdown",
+            "extra": ""
+        },
+        {
+            "header": "Complete the sentence. There are two extra words.",
+            "question": "Luis didn't",
+            "correct_answer": "use*to*have",
+            "ans_type": "buttons_sel",
+            "extra": ""
+        },
+        {
+            "header": "Complete the sentence.",
+            "question": "My friends used",
+            "correct_answer": "to decorate",
+            "ans_type": "dropdown",
+            "extra": ""
+        },
+        {
+            "header": "Complete the sentence. There are two extra words.",
+            "question": "My brother and I ",
+            "correct_answer": "didn't*use*to",
+            "ans_type": "buttons_sel",
+            "extra": ""
+        },
+        {
+            "header": "Complete the sentence.",
+            "question": "This folk band used to ",
+            "correct_answer": "be",
+            "ans_type": "dropdown",
+            "extra": ""
+        },
+        {
+            "header": "Complete the sentence.",
+            "question": "Did",
+            "correct_answer": "you*use*to*have",
+            "ans_type": "buttons_sel",
+            "extra": ""
+        },
+        {
+            "header": "Complete the sentence.",
+            "question": "I didn't ",
+            "correct_answer": "use*like",
+            "ans_type": "dropdown",
+            "extra": ""
+        },
+        {
+            "header": "Complete the conversation. There are two extra words.",
+            "question": "Peter,",
+            "correct_answer": "did*use*didn't",
+            "ans_type": "buttons_sel",
+            "extra": ""
+        },
+        {
+            "header": NaN,
+            "question": NaN,
+            "correct_answer": NaN,
+            "ans_type": NaN,
+            "extra": ""
+        }
+    ],
+    "Grammar practice 2: \"used to\"": [
+        {
+            "header": "Review the grammar. Complete the sentences. ",
+            "question": "Complete the example sentences and the grammar rules.",
+            "correct_answer": "use to*do*use to*used to*see*used to*didn't use to*watch*didn't use to",
+            "ans_type": NaN,
+            "extra": ""
+        },
+        {
+            "header": "Listen and choose the correct answer.",
+            "question": "Which is the best response to this question?",
+            "correct_answer": "Yes, I used to spend all my time",
+            "ans_type": "listbox",
+            "extra": ""
+        },
+        {
+            "header": "Complete the conversation.",
+            "question": "Where did you",
+            "correct_answer": "use to live*used to live",
+            "ans_type": "text_input",
+            "extra": ""
+        },
+        {
+            "header": "Complete the conversation.",
+            "question": "What did you",
+            "correct_answer": "use to do*didn't use to go",
+            "ans_type": "text_input",
+            "extra": ""
+        },
+        {
+            "header": "Read the questions. Tap Show to see some answers. Choose the correct answer for each question.",
+            "question": "Did you use to drive a red car? ",
+            "correct_answer": "Answer D*Answer A*Answer C*Answer B",
+            "ans_type": "dropdown",
+            "extra": ""
+        },
+        {
+            "header": "Put the words in the correct order to form a question.",
+            "question": ".",
+            "correct_answer": "Which company*did*you*use to*work*for",
+            "ans_type": "buttons_sel",
+            "extra": ""
+        },
+        {
+            "header": "Listen and choose the correct answer.",
+            "question": "Which question is she answering?",
+            "correct_answer": "Did you live on Bedford Street a few years ago?",
+            "ans_type": "listbox",
+            "extra": ""
+        },
+        {
+            "header": NaN,
+            "question": NaN,
+            "correct_answer": NaN,
+            "ans_type": NaN,
+            "extra": ""
+        }
+    ],
+    "Vocabulary practice 1: TV shows and movies": [
+        {
+            "header": "Complete the sentence. There are two extra words.",
+            "question": "In ",
+            "correct_answer": "animated*movies",
+            "ans_type": "buttons_sel",
+            "extra": ""
+        },
+        {
+            "header": "Listen and choose the correct answer.",
+            "question": "What kind of movie did Steve probably watch?",
+            "correct_answer": "comedy",
+            "ans_type": "listbox",
+            "extra": ""
+        },
+        {
+            "header": "Complete the sentence.",
+            "question": "There is a great new ",
+            "correct_answer": "drama",
+            "ans_type": "buttons_sel",
+            "extra": ""
+        },
+        {
+            "header": "Choose the correct answer.",
+            "question": "What type of TV or radio program gives facts and information about something?",
+            "correct_answer": "a documentary",
+            "ans_type": "listbox",
+            "extra": ""
+        },
+        {
+            "header": "Complete the sentence.",
+            "question": "take part in a",
+            "correct_answer": "game show",
+            "ans_type": "dropdown",
+            "extra": ""
+        },
+        {
+            "header": "Complete the sentence.",
+            "question": "I never watch",
+            "correct_answer": "horror",
+            "ans_type": "buttons_sel",
+            "extra": ""
+        },
+        {
+            "header": "Choose the correct answer.",
+            "question": "In which TV program or movie can you hear a lot of songs?",
+            "correct_answer": "in a musical",
+            "ans_type": "listbox",
+            "extra": ""
+        },
+        {
+            "header": "Complete the conversation. There are two extra words.",
+            "question": "I'm watching a",
+            "correct_answer": "reality*show",
+            "ans_type": "buttons_sel",
+            "extra": ""
+        },
+        {
+            "header": "Complete the sentence.",
+            "question": "My boyfriend doesn't want to watch",
+            "correct_answer": "romantic comedies",
+            "ans_type": "dropdown",
+            "extra": ""
+        },
+        {
+            "header": "Choose the correct answer.",
+            "question": "Which type of movie happens in the future and often includes space travel?",
+            "correct_answer": "a science fiction movie",
+            "ans_type": "listbox",
+            "extra": ""
+        },
+        {
+            "header": "Complete the conversation. There are two extra words.",
+            "question": "My grandma used to watch this",
+            "correct_answer": "soap*opera",
+            "ans_type": "buttons_sel",
+            "extra": ""
+        },
+        {
+            "header": "Choose the correct answers.",
+            "question": "Which kinds of programs don't usually have professional actors?",
+            "correct_answer": "talk show*quiz show*reality show",
+            "ans_type": "buttons_sel",
+            "extra": ""
+        },
+        {
+            "header": "Complete the sentence.",
+            "question": "are not as frightening as horror movies, but they are a bit",
+            "correct_answer": "Thrillers",
+            "ans_type": "dropdown",
+            "extra": ""
+        },
+        {
+            "header": NaN,
+            "question": NaN,
+            "correct_answer": NaN,
+            "ans_type": NaN,
+            "extra": ""
+        }
+    ],
+    "Vocabulary practice 2: TV shows and movies": [
+        {
+            "header": "Complete the words for TV shows and movies.",
+            "question": " First, match the words below.",
+            "correct_answer": "romantic*soap*fiction*show*animated",
+            "ans_type": "buttons_sel",
+            "extra": ""
+        },
+        {
+            "header": "Complete the conversation.",
+            "question": " I'm very scared. I was watching a ",
+            "correct_answer": "horror",
+            "ans_type": "dropdown",
+            "extra": ""
+        },
+        {
+            "header": "Complete the word.",
+            "question": "My cousin is a scientist. He made a",
+            "correct_answer": "documentary",
+            "ans_type": "text_input",
+            "extra": ""
+        },
+        {
+            "header": "Complete the sentence.",
+            "question": "My whole family watches the same",
+            "correct_answer": "soap*opera",
+            "ans_type": "text_input",
+            "extra": ""
+        },
+        {
+            "header": "Choose the correct answer.",
+            "question": "Which sentence is about a movie, not a TV show?",
+            "correct_answer": "That new romantic comedy is even",
+            "ans_type": "listbox",
+            "extra": ""
+        },
+        {
+            "header": "Listen, and then choose the correct answer.",
+            "question": "Matt is describing his favorite thing to watch. What's he talking about?",
+            "correct_answer": "a thriller",
+            "ans_type": "listbox",
+            "extra": ""
+        },
+        {
+            "header": "Choose the correct answer",
+            "question": "Which word can you use to complete all three vocabulary items?",
+            "correct_answer": "show",
+            "ans_type": "listbox",
+            "extra": ""
+        },
+        {
+            "header": "Listen, and then choose the correct answer.",
+            "question": "Kirsten is talking about a kind of movie. Which genre is she describing?",
+            "correct_answer": "a romantic comedy",
+            "ans_type": "listbox",
+            "extra": ""
+        },
+        {
+            "header": "Complete the sentence with one of the words below.",
+            "question": "Phil is a big fan of ",
+            "correct_answer": "musicals",
+            "ans_type": "text_input",
+            "extra": ""
+        },
+        {
+            "header": "Read the sentence. Then choose the correct answer.",
+            "question": "Which sentence has a similar meaning?",
+            "correct_answer": "My sister watches a TV series with actors who play doctors.",
+            "ans_type": "listbox",
+            "extra": ""
+        },
+        {
+            "header": "Complete the words.",
+            "question": NaN,
+            "correct_answer": "game show*animated movie*documentary*musical*soap opera*science fiction*horror",
+            "ans_type": "text_input",
+            "extra": ""
+        },
+        {
+            "header": NaN,
+            "question": NaN,
+            "correct_answer": NaN,
+            "ans_type": NaN,
+            "extra": ""
+        }
+    ],
+    "Grammar practice 1: Comparisons with \"(not) as  as\"": [
+        {
+            "header": "Read the example sentences and choose all the correct answers. ",
+            "question": "Which two sentences mean the same thing?",
+            "correct_answer": "Your ticket was more expensive than mine.*There was no difference between your seats and ours.",
+            "ans_type": "listbox",
+            "extra": ""
+        },
+        {
+            "header": "Read the examples and complete the sentences.",
+            "question": "Daniela likes ",
+            "correct_answer": "animated movies*likes",
+            "ans_type": "dropdown",
+            "extra": ""
+        },
+        {
+            "header": "Read the example sentence and choose the correct answer.",
+            "question": "Which is funnier?",
+            "correct_answer": "talk shows",
+            "ans_type": "listbox",
+            "extra": ""
+        },
+        {
+            "header": "Complete the sentence.",
+            "question": "Here's a cool fact! This monument here is",
+            "correct_answer": "as old",
+            "ans_type": "dropdown",
+            "extra": ""
+        },
+        {
+            "header": "Complete the sentence. There are two extra options.",
+            "question": "This is the best historical drama I've ever seen. Perhaps the second season",
+            "correct_answer": "isn't*as*interesting*as",
+            "ans_type": "buttons_sel",
+            "extra": ""
+        },
+        {
+            "header": "Listen and choose the correct answer",
+            "question": "Which sentence is true about the speaker's friends?",
+            "correct_answer": "Jennifer isn't as reliable as Maya.",
+            "ans_type": "listbox",
+            "extra": ""
+        },
+        {
+            "header": "Complete the sentence. There are two extra words.",
+            "question": "This bike",
+            "correct_answer": "is*as*as",
+            "ans_type": "listbox",
+            "extra": ""
+        },
+        {
+            "header": "Choose the correct answer",
+            "question": "What can the speaker say about himself and Liam?",
+            "correct_answer": "I don't think I am as generous as Liam.",
+            "ans_type": "listbox",
+            "extra": ""
+        },
+        {
+            "header": "Put the words in the correct order.",
+            "question": ".",
+            "correct_answer": "Monica*doesn't*watch TV*as*often*as*her brothers",
+            "ans_type": "buttons_sel",
+            "extra": ""
+        },
+        {
+            "header": "Listen and choose the correct answer.",
+            "question": "Which sentence is true?",
+            "correct_answer": "Jonathan isn't as relaxed about the exam as Paul.",
+            "ans_type": "listbox",
+            "extra": ""
+        },
+        {
+            "header": "Complete the conversation. There are two extra words.",
+            "question": "The blue T-shirt",
+            "correct_answer": "is*as*nice*as",
+            "ans_type": "buttons_sel",
+            "extra": ""
+        },
+        {
+            "header": NaN,
+            "question": NaN,
+            "correct_answer": NaN,
+            "ans_type": NaN,
+            "extra": ""
+        }
+    ],
+    "Grammar practice 2: Comparisons with \"(not) as  as\"": [
+        {
+            "header": "Complete the paragraph. Use the words below.",
+            "question": "I don't go to basketball games as",
+            "correct_answer": "often*exciting*people*much",
+            "ans_type": "text_input",
+            "extra": ""
+        },
+        {
+            "header": "Listen. Then choose the correct answer.",
+            "question": "Which question is the person answering?",
+            "correct_answer": "Do you think horror films are as interesting as documentaries?",
+            "ans_type": "listbox",
+            "extra": ""
+        },
+        {
+            "header": "Read the examples, and then complete the sentence.",
+            "question": "These three sentences have",
+            "correct_answer": "the same meaning",
+            "ans_type": "dropdown",
+            "extra": ""
+        },
+        {
+            "header": "Complete the second sentence so that it means the same as the first.",
+            "question": "I  think \"Toy Story 2\" is",
+            "correct_answer": "as*good*as",
+            "ans_type": "text_input",
+            "extra": ""
+        },
+        {
+            "header": "Tap Show to read a conversation. Then choose True or False.",
+            "question": "David watches fewer movies now than he used to.",
+            "correct_answer": "True*False*True",
+            "ans_type": "dropdown",
+            "extra": ""
+        },
+        {
+            "header": "The example sentences are false. Choose the correct answers.",
+            "question": "Which sentence is correct?",
+            "correct_answer": "Tablet screens aren't as big as TV screens.*A lake doesn't have as much water as an ocean.",
+            "ans_type": NaN,
+            "extra": ""
+        },
+        {
+            "header": "Complete the sentences.",
+            "question": "Use the correct form of the words in parentheses and as  as.",
+            "correct_answer": "as exciting as*as much action as",
+            "ans_type": "text_input",
+            "extra": ""
+        },
+        {
+            "header": NaN,
+            "question": NaN,
+            "correct_answer": NaN,
+            "ans_type": NaN,
+            "extra": ""
+        }
+    ],
+    "While you watch": [
+        {
+            "header": "Watch the video. Complete the sentences with the correct numbers.",
+            "question": NaN,
+            "correct_answer": "54*1905*5",
+            "ans_type": "buttons_sel",
+            "extra": ""
+        },
+        {
+            "header": "Watch the video and use the numbers to put the events in order. Use 1 for the earliest event to 5 for the most recent event.",
+            "question": NaN,
+            "correct_answer": "5*4*2*1*3",
+            "ans_type": "dropdown",
+            "extra": ""
+        },
+        {
+            "header": "Watch part of the video. Complete the sentences.",
+            "question": NaN,
+            "correct_answer": "used to be*the price*trains*documentaries*musicians",
+            "ans_type": "dropdown",
+            "extra": ""
+        },
+        {
+            "header": "Watch part of the video. Choose True or False.",
+            "question": NaN,
+            "correct_answer": "False*True*False*True",
+            "ans_type": "dropdown",
+            "extra": ""
+        },
+        {
+            "header": "Read, and then choose the correct answer.",
+            "question": NaN,
+            "correct_answer": "It's expensive.",
+            "ans_type": "listbox",
+            "extra": ""
+        },
+        {
+            "header": NaN,
+            "question": NaN,
+            "correct_answer": NaN,
+            "ans_type": NaN,
+            "extra": ""
+        },
+        {
+            "header": "Watch the video. Choose the correct answer",
+            "question": "What is the main topic of the video?",
+            "correct_answer": "serious hobbies that you can do",
+            "ans_type": "listbox",
+            "extra": ""
+        },
+        {
+            "header": "Watch the video again. Complete the sentences.",
+            "question": "With",
+            "correct_answer": "dog paddleboarding*Salsa dancing*dog paddleboarding*Salsa dancing*salsa dancing*Race car driving",
+            "ans_type": "dropdown",
+            "extra": ""
+        },
+        {
+            "header": "Watch part of the video. Choose the correct answer.",
+            "question": " What does the narrator say next?",
+            "correct_answer": "Some people take these activities more seriously.",
+            "ans_type": "listbox",
+            "extra": ""
+        },
+        {
+            "header": "Watch more of the video. Complete the sentences.",
+            "question": "Some paddleboarding",
+            "correct_answer": "instructors*animals*in a different way*with their owners",
+            "ans_type": "dropdown",
+            "extra": ""
+        },
+        {
+            "header": "Watch part of the video. Choose True, False, or Not Given.",
+            "question": "Race car driving is a common hobby.",
+            "correct_answer": "False*True*Not Given*False",
+            "ans_type": "dropdown",
+            "extra": ""
+        },
+        {
+            "header": "Watch part of the video. Choose the correct numbers to put the topics in the order you hear them.",
+            "question": "a demanding activity",
+            "correct_answer": "3*2*4*1",
+            "ans_type": "dropdown",
+            "extra": ""
+        },
+        {
+            "header": NaN,
+            "question": NaN,
+            "correct_answer": NaN,
+            "ans_type": NaN,
+            "extra": ""
+        },
+        {
+            "header": "Watch the video. Choose the correct numbers to put the the events in the order they happened.",
+            "question": "Jeff talks about his YouTube channel.",
+            "correct_answer": "3*1*4*2",
+            "ans_type": "dropdown",
+            "extra": ""
+        },
+        {
+            "header": "Watch part of the video again. Complete the sentences.",
+            "question": ".",
+            "correct_answer": "Robert*Carolina*Carolina*Jeff*Robert*Robert",
+            "ans_type": "dropdown",
+            "extra": ""
+        },
+        {
+            "header": "Choose the correct answers.",
+            "question": "What does Jeff do during the day?",
+            "correct_answer": "has an office job*YouTube channels*his friends*two thousand (2,000)",
+            "ans_type": "listbox",
+            "extra": ""
+        },
+        {
+            "header": "Watch a different part of the video again. Choose True or False.",
+            "question": "Robert has an idea to make a YouTube channel for the community center.",
+            "correct_answer": "True*False*False*True*True*False",
+            "ans_type": NaN,
+            "extra": ""
+        },
+        {
+            "header": "Watch part of the video again. Choose the correct name for each set of information.",
+            "question": ".",
+            "correct_answer": "Jeff*Robert",
+            "ans_type": NaN,
+            "extra": ""
+        },
+        {
+            "header": "Watch another part of the video again. Choose the correct answer.",
+            "question": "Why does Carolina say \"small world\"?",
+            "correct_answer": "Jeff and Robert knew each other in the past and met unexpectedly in the present.",
+            "ans_type": "listbox",
+            "extra": ""
+        },
+        {
+            "header": NaN,
+            "question": NaN,
+            "correct_answer": NaN,
+            "ans_type": NaN,
+            "extra": ""
+        },
+        {
+            "header": "Watch the video. Use the numbers to put the topics in the order you hear them.",
+            "question": "how students spend their time in college",
+            "correct_answer": "5*2*3*1*4",
+            "ans_type": "dropdown",
+            "extra": ""
+        },
+        {
+            "header": "Watch the video again. Complete the sentences according to the information in the video. ",
+            "question": "Sometimes people go to college when they are",
+            "correct_answer": "older*some*busy*write papers",
+            "ans_type": "dropdown",
+            "extra": ""
+        },
+        {
+            "header": "Watch the video again. Choose True or False.",
+            "question": "College is usually the first time students can choose what and where to study.",
+            "correct_answer": "True*False*True*True",
+            "ans_type": "dropdown",
+            "extra": ""
+        },
+        {
+            "header": "Watch part of the video. Complete the sentences according to the information in the video. There are two extra options.",
+            "question": "Students who go to college in their hometown may choose to live with",
+            "correct_answer": "family*save money*same time*part-time*on campus*pay for",
+            "ans_type": "buttons_sel",
+            "extra": ""
+        },
+        {
+            "header": "Tap Show to watch part of the video. Put the subjects in the correct categories.",
+            "question": ".",
+            "correct_answer": "marine biology*history*mechanical engineering*computer science*nursing*construction",
+            "ans_type": "buttons_sel",
+            "extra": ""
+        },
+        {
+            "header": "Watch another part of the video again. Choose all the correct answers.",
+            "question": "What activities do college students usually do?",
+            "correct_answer": "stay out late*study for exams*write papers*have a part-time job*do extra activities on campus*get an internship",
+            "ans_type": "listbox",
+            "extra": ""
+        },
+        {
+            "header": NaN,
+            "question": NaN,
+            "correct_answer": NaN,
+            "ans_type": NaN,
+            "extra": ""
+        }
+    ],
+    "After you watch": [
+        {
+            "header": "Listen to the conversation. Choose the correct answers.",
+            "question": "Where did Carolina watch movies in the past?",
+            "correct_answer": "at a movie theater*on TV or on her phone",
+            "ans_type": "listbox",
+            "extra": ""
+        },
+        {
+            "header": "Tap Show to read the next part of the conversation. Choose True or False.",
+            "question": "Tom used to watch animations but not comedies.",
+            "correct_answer": "False*True*False*True",
+            "ans_type": "dropdown",
+            "extra": ""
+        },
+        {
+            "header": "Tap Show to read the whole conversation. Complete the sentences.",
+            "question": ".",
+            "correct_answer": "Carolina and Tom*Tom*Carolina*Carolina*Tom",
+            "ans_type": "buttons_sel",
+            "extra": ""
+        },
+        {
+            "header": NaN,
+            "question": NaN,
+            "correct_answer": NaN,
+            "ans_type": NaN,
+            "extra": ""
+        },
+        {
+            "header": "Listen to Daniel talking about his hobby. Complete the sentences.",
+            "question": "Daniel's hobby is ",
+            "correct_answer": "knitting*three years",
+            "ans_type": NaN,
+            "extra": ""
+        },
+        {
+            "header": "Listen again. Choose all the correct answers.",
+            "question": "When does Daniel knit?",
+            "correct_answer": "while he watches TV*while he's on the bus*annoyed*calm*himself*his friends*scarves*hats",
+            "ans_type": "listbox",
+            "extra": ""
+        },
+        {
+            "header": NaN,
+            "question": NaN,
+            "correct_answer": NaN,
+            "ans_type": NaN,
+            "extra": ""
+        },
+        {
+            "header": "Choose the correct person.",
+            "question": "First, answer this question. Who do you think would say these things?",
+            "correct_answer": "Jeff*Carolina*Robert",
+            "ans_type": "buttons_sel",
+            "extra": ""
+        },
+        {
+            "header": "Listen. Complete the sentences. There are two extra options.",
+            "question": "What is each person going to make a YouTube show about?",
+            "correct_answer": "baking*yoga*car rapair",
+            "ans_type": "buttons_sel",
+            "extra": ""
+        },
+        {
+            "header": "Listen again. Complete the information.",
+            "question": "He's been baking since he was",
+            "correct_answer": "a kid*cakes*an oven*ten*beginner*clothes*four*fix*tools",
+            "ans_type": "buttons_sel",
+            "extra": ""
+        },
+        {
+            "header": "Tap Show to read more from Curtis. Then complete the sentences.",
+            "question": "Curtis believes that baking is becoming",
+            "correct_answer": "more*different*easier*decorating*guests",
+            "ans_type": "buttons_sel",
+            "extra": ""
+        },
+        {
+            "header": NaN,
+            "question": NaN,
+            "correct_answer": NaN,
+            "ans_type": NaN,
+            "extra": ""
+        },
+        {
+            "header": "Tap Show to read about three students. Then complete the sentences. There are two extra options.",
+            "question": "James is studying",
+            "correct_answer": "nursing*general education*English",
+            "ans_type": "buttons_sel",
+            "extra": ""
+        },
+        {
+            "header": "Tap Show to read again. Complete the sentences.",
+            "question": "goes to a two-year college.",
+            "correct_answer": "James*Ramón*James*Ava*Ramón*Ava",
+            "ans_type": "dropdown",
+            "extra": ""
+        },
+        {
+            "header": "Listen and choose the correct answers.",
+            "question": "How long will Eliza be studying at college in total?",
+            "correct_answer": "4 years*marine biology*work for a non-profit organization",
+            "ans_type": NaN,
+            "extra": ""
+        },
+        {
+            "header": "Listen again. Choose True or False.",
+            "question": "Eliza always knew what she wanted to study. ",
+            "correct_answer": "True*False*False*True*True*False*True",
+            "ans_type": "dropdown",
+            "extra": ""
+        },
+        {
+            "header": NaN,
+            "question": NaN,
+            "correct_answer": NaN,
+            "ans_type": NaN,
+            "extra": ""
+        }
+    ],
+    "Functional language practice": [
+        {
+            "header": "Complete the conversation.",
+            "question": "That's very kind of you. I",
+            "correct_answer": "would love to, but*Oh, that's too bad.*Unfortunately",
+            "ans_type": "dropdown",
+            "extra": ""
+        },
+        {
+            "header": "Put the words in the correct order.",
+            "question": ".",
+            "correct_answer": "Let me*know*if*you*change*your*mind.",
+            "ans_type": "buttons_sel",
+            "extra": ""
+        },
+        {
+            "header": "Complete the expressions.",
+            "question": "I'd love to,",
+            "correct_answer": "but I'm busy.*thanks for asking,*after that.*too bad.",
+            "ans_type": NaN,
+            "extra": ""
+        },
+        {
+            "header": "Listen to a conversation and choose the correct speakers.",
+            "question": "I'm sorry, but I can't. ",
+            "correct_answer": "Ale*Joe*Ale*Joe",
+            "ans_type": "dropdown",
+            "extra": ""
+        },
+        {
+            "header": "Listen again and complete the conversation.",
+            "question": "Oh, that's",
+            "correct_answer": "too bad*maybe*Unfortunately*understand",
+            "ans_type": "text_input",
+            "extra": ""
+        },
+        {
+            "header": "Choose the correct categories for the expressions.",
+            "question": "Let me know if you change your mind.",
+            "correct_answer": "Reacting to a refusal*Refusing an invitation*Refusing an invitation*Reacting to a refusal*Reacting to a refusal*Reacting to a refusal*Refusing an invitation",
+            "ans_type": NaN,
+            "extra": ""
+        },
+        {
+            "header": NaN,
+            "question": NaN,
+            "correct_answer": NaN,
+            "ans_type": NaN,
+            "extra": ""
+        },
+        {
+            "header": "Choose the correct responses.",
+            "question": "Wow! It's been a long time.",
+            "correct_answer": "Yeah. What have you been doing?*Not much.*He's really busy.",
+            "ans_type": "dropdown",
+            "extra": ""
+        },
+        {
+            "header": "Choose the correct numbers to put the conversation in the correct order.",
+            "question": " I've been really busy. I started a new class.",
+            "correct_answer": "3*1*5*4*2",
+            "ans_type": "dropdown",
+            "extra": ""
+        },
+        {
+            "header": "Listen and choose the correct answer.",
+            "question": "How can you use these expressions?",
+            "correct_answer": "to answer questions about your news",
+            "ans_type": "listbox",
+            "extra": ""
+        },
+        {
+            "header": "Listen and complete the conversation.",
+            "question": "Use expressions to catch up with someone's news.",
+            "correct_answer": "seen you since*been a long time*up to*same as usual*going on with*Not much",
+            "ans_type": "buttons_sel",
+            "extra": ""
+        },
+        {
+            "header": "Read the situations. Then complete the sentences with the correct expressions.",
+            "question": "You see someone you knew when you were 10 years old.",
+            "correct_answer": "It's been*have you been*haven't seen you*What have you*not much*I've been busy",
+            "ans_type": "buttons_sel",
+            "extra": ""
+        },
+        {
+            "header": "Choose the best response.",
+            "question": "What's been going on with your business?",
+            "correct_answer": "We've been really busy  it's great.",
+            "ans_type": "listbox",
+            "extra": ""
+        },
+        {
+            "header": "Put the words in the correct order to make a question.",
+            "question": ".",
+            "correct_answer": "What's*been*going*on*with*you?",
+            "ans_type": NaN,
+            "extra": ""
+        },
+        {
+            "header": "Listen to the question and choose the correct answer.",
+            "question": "Which is the best response?",
+            "correct_answer": "Not much. They're all fine.",
+            "ans_type": "listbox",
+            "extra": ""
+        },
+        {
+            "header": NaN,
+            "question": NaN,
+            "correct_answer": NaN,
+            "ans_type": NaN,
+            "extra": ""
+        },
+        {
+            "header": "Complete the sentences.",
+            "question": "You express confidence when you think you",
+            "correct_answer": "will*not certain",
+            "ans_type": "dropdown",
+            "extra": ""
+        },
+        {
+            "header": "Read the conversation. Then complete the sentences.",
+            "question": "expresses confidence",
+            "correct_answer": "Miriam*Juan-Carlos",
+            "ans_type": "buttons_sel",
+            "extra": ""
+        },
+        {
+            "header": "Complete the conversation.",
+            "question": "Oh, I'm not sure I'd be",
+            "correct_answer": "good*bother",
+            "ans_type": "dropdown",
+            "extra": ""
+        },
+        {
+            "header": "Listen to a conversation and choose all the expressions you hear.",
+            "question": ".",
+            "correct_answer": "I'm not sure I can handle that.*It won't be a problem.*That concerns me a little.",
+            "ans_type": "listbox",
+            "extra": ""
+        },
+        {
+            "header": "Listen and complete the conversation.",
+            "question": "My boss wants me to lead a new team. I'm not",
+            "correct_answer": "sure*handle*problem*concerns",
+            "ans_type": "text_input",
+            "extra": ""
+        },
+        {
+            "header": "Complete the expressions.",
+            "question": "That",
+            "correct_answer": "concerns*bother*sure*handle",
+            "ans_type": "text_input",
+            "extra": ""
+        },
+        {
+            "header": "Put the words in the correct order to complete the response. There are three extra options.",
+            "question": "Oh, well,",
+            "correct_answer": "it*doesn't*bother",
+            "ans_type": "buttons_sel",
+            "extra": ""
+        },
+        {
+            "header": "Choose the correct option for each expression.",
+            "question": "I think I can handle that",
+            "correct_answer": "confidence*lack of confidence*lack of confidence*confidence*lack of confidence*confidence",
+            "ans_type": NaN,
+            "extra": ""
+        },
+        {
+            "header": NaN,
+            "question": NaN,
+            "correct_answer": NaN,
+            "ans_type": NaN,
+            "extra": ""
+        }
+    ],
+    "Real-world strategy": [
+        {
+            "header": "Listen to a conversation. Choose the correct answers.",
+            "question": "What does Victor want to do?",
+            "correct_answer": "go to a concert*He has other plans.*He doesn't like heavy metal music.",
+            "ans_type": "listbox",
+            "extra": ""
+        },
+        {
+            "header": "Listen again. Complete the sentences.",
+            "question": "Nate uses the adjective",
+            "correct_answer": "crazy*sort of",
+            "ans_type": "dropdown",
+            "extra": ""
+        },
+        {
+            "header": "Put the words in the correct order to complete the response.",
+            "question": "I'm sorry,",
+            "correct_answer": "but*I'm*sort*of*tired",
+            "ans_type": "buttons_sel",
+            "extra": ""
+        },
+        {
+            "header": "Listen and complete the conversation with a softening expression.",
+            "question": "Ah. I'm sorry, Jon. I'm ",
+            "correct_answer": "kind*of",
+            "ans_type": "text_input",
+            "extra": ""
+        },
+        {
+            "header": "Put the words in the correct order to complete the response.",
+            "question": NaN,
+            "correct_answer": "I'd*love*to,*but*it's*kind*of",
+            "ans_type": "buttons_sel",
+            "extra": ""
+        },
+        {
+            "header": NaN,
+            "question": NaN,
+            "correct_answer": NaN,
+            "ans_type": NaN,
+            "extra": ""
+        },
+        {
+            "header": "Listen to a conversation between Rosa and Juliet. Choose the correct answers.",
+            "question": "What does Rosa suggest?",
+            "correct_answer": "meeting for lunch on Friday*She thinks it's a good idea.",
+            "ans_type": "listbox",
+            "extra": ""
+        },
+        {
+            "header": "Read the information. Listen again and complete the response.",
+            "question": "That would be",
+            "correct_answer": "wonderful",
+            "ans_type": "dropdown",
+            "extra": ""
+        },
+        {
+            "header": "Listen and complete the conversation.",
+            "question": "Lenny got another speeding ticket. ",
+            "correct_answer": "That would be awful",
+            "ans_type": "dropdown",
+            "extra": ""
+        },
+        {
+            "header": "Complete the conversation.",
+            "question": "That would be ",
+            "correct_answer": "amazing",
+            "ans_type": "dropdown",
+            "extra": ""
+        },
+        {
+            "header": "Complete the conversations.",
+            "question": "My sister's thinking about getting married to Tom!",
+            "correct_answer": "That'd be wonderfull*That would be terrible.",
+            "ans_type": "buttons_sel",
+            "extra": ""
+        },
+        {
+            "header": "Test your memory! Complete the expressions.",
+            "question": "It's been a",
+            "correct_answer": "long*since*been*on*as*Not*excellent",
+            "ans_type": "buttons_sel",
+            "extra": ""
+        },
+        {
+            "header": NaN,
+            "question": NaN,
+            "correct_answer": NaN,
+            "ans_type": NaN,
+            "extra": ""
+        },
+        {
+            "header": "Listen to a conversation between Robin and Tim. Choose the correct answers.",
+            "question": "What does Robin (the woman) want Tim (the man) to do?",
+            "correct_answer": "go mountain biking with her*No, he doesn't.",
+            "ans_type": "listbox",
+            "extra": ""
+        },
+        {
+            "header": "Listen again. Choose the correct answer.",
+            "question": "What reason does Tim give for not wanting to go mountain biking?",
+            "correct_answer": "He fell off his bike when he was young and hurt his arm.",
+            "ans_type": "listbox",
+            "extra": ""
+        },
+        {
+            "header": "Listen to another conversation. Complete the sentence.",
+            "question": "No, I don't think so, sorry.",
+            "correct_answer": "The *thing *is",
+            "ans_type": "text_input",
+            "extra": ""
+        },
+        {
+            "header": "Complete the conversation.",
+            "question": "Thanks for inviting me, but I'm not sure",
+            "correct_answer": "The *thing *is",
+            "ans_type": "text_input",
+            "extra": ""
+        },
+        {
+            "header": "Complete the expressions.",
+            "question": "remember the expressions?",
+            "correct_answer": "handle*that*bother*problem*sure*enough*concerns*thing",
+            "ans_type": "text_input",
+            "extra": ""
+        },
+        {
+            "header": NaN,
+            "question": NaN,
+            "correct_answer": NaN,
+            "ans_type": NaN,
+            "extra": ""
+        }
+    ],
+    "Lesson review: Prepare for the role-play": [
+        {
+            "header": "Complete the conversations",
+            "question": "I think I want to stay home on Friday. But",
+            "correct_answer": "thanks for asking*Maybe after that.*I understand.",
+            "ans_type": "dropdown",
+            "extra": ""
+        },
+        {
+            "header": "Listen to Jay and Fabrizio's conversation. Complete the sentences.",
+            "question": "You can tap Show to read along.",
+            "correct_answer": "Fabrizio*he's tired.*kind of",
+            "ans_type": "dropdown",
+            "extra": ""
+        },
+        {
+            "header": "Listen to Jay and Fabrizio's conversation again. Choose all the correct answers.",
+            "question": "Which expressions do you hear?",
+            "correct_answer": "I'd love to, but*Oh, that's too bad.*Let me know if you change your mind.*Maybe after that.",
+            "ans_type": "listbox",
+            "extra": ""
+        },
+        {
+            "header": "Listen to another conversation. Choose the correct answers.",
+            "question": "How many invitations does Carl make?",
+            "correct_answer": "three*She has family visiting",
+            "ans_type": "listbox",
+            "extra": ""
+        },
+        {
+            "header": NaN,
+            "question": NaN,
+            "correct_answer": NaN,
+            "ans_type": NaN,
+            "extra": ""
+        }
+    ],
+    "Reading skills": [
+        {
+            "header": "Read for gist: Tap Show to read an article about animation. Choose the correct answer.",
+            "question": "What is the main idea of the article?",
+            "correct_answer": "Adults and kids like animated movies for many reasons.",
+            "ans_type": "listbox",
+            "extra": ""
+        },
+        {
+            "header": "ap Show to read the article again, and then choose the correct answer.",
+            "question": "Which topic is not mentioned in the article?",
+            "correct_answer": "scary moments",
+            "ans_type": "listbox",
+            "extra": ""
+        },
+        {
+            "header": "Identify supporting details: Tap Show to read part of the article again. Then choose all the correct answers.",
+            "question": "What supporting details explain why technology helps adults enjoy animated movies?",
+            "correct_answer": "Modern animated movies have realistic characters and actions.*Characters can show realistic feelings and their facial expressions are realistic, too.",
+            "ans_type": "listbox",
+            "extra": ""
+        },
+        {
+            "header": "Identify supporting details: Tap Show to read part of the article again. Choose the correct answer.",
+            "question": "Why do certain topics help adults enjoy animated movies?",
+            "correct_answer": "Adults recognize and understand the movie topics from their own lives.",
+            "ans_type": "listbox",
+            "extra": ""
+        },
+        {
+            "header": NaN,
+            "question": NaN,
+            "correct_answer": NaN,
+            "ans_type": NaN,
+            "extra": ""
+        },
+        {
+            "header": "Tap Show to read an example of a text. Then complete the sentence.",
+            "question": "come from a company?",
+            "correct_answer": "job ad",
+            "ans_type": "buttons_sel",
+            "extra": ""
+        },
+        {
+            "header": "Then complete the sentence.",
+            "question": "This is part of a",
+            "correct_answer": "résumé",
+            "ans_type": "dropdown",
+            "extra": ""
+        },
+        {
+            "header": "Tap Show to read the job ad again. Then choose the correct answers.",
+            "question": "What kind of person does the employer want to hire?",
+            "correct_answer": "someone who's reliable and intelligent*9:00 to 5:00 weekdays and two evenings a week",
+            "ans_type": "listbox",
+            "extra": ""
+        },
+        {
+            "header": "Choose all the correct answers.",
+            "question": "What does Jacob mention in his professional profile?",
+            "correct_answer": "his education*his work experience*his skills*his personal qualities",
+            "ans_type": "listbox",
+            "extra": ""
+        },
+        {
+            "header": NaN,
+            "question": NaN,
+            "correct_answer": NaN,
+            "ans_type": NaN,
+            "extra": ""
+        }
+    ],
+    "Reading practice": [
+        {
+            "header": "Tap Show to read Mateo's movie review. Complete the sentences.",
+            "question": "Mateo",
+            "correct_answer": "enjoyed*Not everything",
+            "ans_type": "dropdown",
+            "extra": ""
+        },
+        {
+            "header": "Tap Show to read Mateo's movie review again and complete the sentence.",
+            "question": "The adjective that Mateo uses to describe the voice actors is ",
+            "correct_answer": "perfect",
+            "ans_type": "text_input",
+            "extra": ""
+        },
+        {
+            "header": "Tap Show to read the movie review again. Choose True or False.",
+            "question": "Mateo has always enjoyed animated movies.",
+            "correct_answer": "False*True*True*True*False",
+            "ans_type": "dropdown",
+            "extra": ""
+        },
+        {
+            "header": NaN,
+            "question": NaN,
+            "correct_answer": NaN,
+            "ans_type": NaN,
+            "extra": ""
+        },
+        {
+            "header": "Then put the sections in order.",
+            "question": "they appear.",
+            "correct_answer": "experience*education*skills*activities",
+            "ans_type": "buttons_sel",
+            "extra": ""
+        },
+        {
+            "header": " Choose all the correct answers.",
+            "question": "Where has Jacob worked?",
+            "correct_answer": "in a coffee bar*in a high school",
+            "ans_type": "listbox",
+            "extra": ""
+        },
+        {
+            "header": "hoose the correct answer.",
+            "question": "Which sentence is not true?",
+            "correct_answer": "He studied business in college.",
+            "ans_type": "listbox",
+            "extra": ""
+        },
+        {
+            "header": NaN,
+            "question": NaN,
+            "correct_answer": NaN,
+            "ans_type": NaN,
+            "extra": ""
+        }
+    ],
+    "Writing skill practice": [
+        {
+            "header": "Tap Show to read part of a movie review and complete the sentence.",
+            "question": "This part comes ",
+            "correct_answer": "in the middle",
+            "ans_type": "buttons_sel",
+            "extra": ""
+        },
+        {
+            "header": "Choose the correct answer.",
+            "question": "What does this sentence do?",
+            "correct_answer": "It gives a final statement.",
+            "ans_type": "buttons_sel",
+            "extra": ""
+        },
+        {
+            "header": "Read the examples. Then complete the sentences.",
+            "question": "This is a",
+            "correct_answer": "positive opinion*negative opinion",
+            "ans_type": "dropdown",
+            "extra": ""
+        },
+        {
+            "header": "Tap Show to read part of a movie review and choose the correct answer.",
+            "question": ".",
+            "correct_answer": "This is the beginning of the review.",
+            "ans_type": "listbox",
+            "extra": ""
+        },
+        {
+            "header": "Tap Show to read the movie review. Choose the correct part for each idea",
+            "question": "gives a brief description of the story:",
+            "correct_answer": "Part 2*Part 4*Part 1*Part 3",
+            "ans_type": "dropdown",
+            "extra": ""
+        },
+        {
+            "header": NaN,
+            "question": NaN,
+            "correct_answer": NaN,
+            "ans_type": NaN,
+            "extra": ""
+        },
+        {
+            "header": NaN,
+            "question": NaN,
+            "correct_answer": NaN,
+            "ans_type": NaN,
+            "extra": ""
+        },
+        {
+            "header": NaN,
+            "question": NaN,
+            "correct_answer": NaN,
+            "ans_type": NaN,
+            "extra": ""
+        },
+        {
+            "header": NaN,
+            "question": NaN,
+            "correct_answer": NaN,
+            "ans_type": NaN,
+            "extra": ""
+        },
+        {
+            "header": "Read the example sentence and choose the correct answer.",
+            "question": "What does the expression in bold mean?",
+            "correct_answer": "immediately",
+            "ans_type": "listbox",
+            "extra": ""
+        },
+        {
+            "header": "Complete the sentence.",
+            "question": ".",
+            "correct_answer": "From now on",
+            "ans_type": "dropdown",
+            "extra": ""
+        },
+        {
+            "header": "Complete the sentence.",
+            "question": "The project",
+            "correct_answer": "up to now",
+            "ans_type": "buttons_sel",
+            "extra": ""
+        },
+        {
+            "header": "Complete the sentence.",
+            "question": ".",
+            "correct_answer": "In the past",
+            "ans_type": "dropdown",
+            "extra": ""
+        },
+        {
+            "header": NaN,
+            "question": NaN,
+            "correct_answer": NaN,
+            "ans_type": NaN,
+            "extra": ""
+        },
+        {
+            "header": "Read the tip. Then choose Past or Current.",
+            "question": "Trained co-workers on computer-based design ",
+            "correct_answer": "Past*Current*Past*Current",
+            "ans_type": "dropdown",
+            "extra": ""
+        },
+        {
+            "header": "should appear in a résumé.",
+            "question": "Albany, NY",
+            "correct_answer": "4*3*1*2",
+            "ans_type": "dropdown",
+            "extra": ""
+        },
+        {
+            "header": "Read the tip. Choose all the correct answers.",
+            "question": "as a web designer at a global company.",
+            "correct_answer": "Experienced in computer program design*Excellent writing skills*Fluent in English and Portuguese*Cheerful and hard-working",
+            "ans_type": "listbox",
+            "extra": ""
+        },
+        {
+            "header": "Read the tip. Choose all the correct answers.",
+            "question": "activities and interests would you include?",
+            "correct_answer": "Member, Albany Basketball Team*Volunteer, Help for Seniors*Member, Community Environment Project*Team Leader, City Parks Walking Group",
+            "ans_type": "listbox",
+            "extra": ""
+        },
+        {
+            "header": NaN,
+            "question": NaN,
+            "correct_answer": NaN,
+            "ans_type": NaN,
+            "extra": ""
+        }
+    ],
+    "Vocabulary review": [
+        {
+            "header": "Tap Show to read a conversation. Then complete the sentences. ",
+            "question": "Dan is frightened of",
+            "correct_answer": "horror*musical*soap opera*documentary",
+            "ans_type": "dropdown",
+            "extra": ""
+        },
+        {
+            "header": "Look at the photo and complete the sentence.",
+            "question": "The people are most likely playing",
+            "correct_answer": "jazz",
+            "ans_type": "dropdown",
+            "extra": ""
+        },
+        {
+            "header": "Choose the correct TV or movie genre for each group of words.",
+            "question": "information, real, learn: ",
+            "correct_answer": "a documentary*science fiction*a game show*a comedy",
+            "ans_type": "buttons_sel",
+            "extra": ""
+        },
+        {
+            "header": "Complete the sentence.",
+            "question": "When I lived at home, we used to watch a new episode of our favorite",
+            "correct_answer": "soap opera",
+            "ans_type": "dropdown",
+            "extra": ""
+        },
+        {
+            "header": "Complete the sentence.",
+            "question": "This describes ",
+            "correct_answer": "folk",
+            "ans_type": "dropdown",
+            "extra": ""
+        },
+        {
+            "header": "Complete the sentence.",
+            "question": ".",
+            "correct_answer": "Rock music*EDM",
+            "ans_type": "buttons_sel",
+            "extra": ""
+        },
+        {
+            "header": "Listen and complete the sentence.",
+            "question": "She should watch",
+            "correct_answer": "a romantic comedy",
+            "ans_type": "dropdown",
+            "extra": ""
+        },
+        {
+            "header": "Complete the sentence.",
+            "question": "People often say that",
+            "correct_answer": "animated",
+            "ans_type": "dropdown",
+            "extra": ""
+        },
+        {
+            "header": "Choose the correct answer.",
+            "question": "What type of music is this?",
+            "correct_answer": "hip-hop",
+            "ans_type": "listbox",
+            "extra": ""
+        },
+        {
+            "header": "Look at the photo and choose the correct answer.",
+            "question": "What type of music are they playing?",
+            "correct_answer": "classical",
+            "ans_type": "listbox",
+            "extra": ""
+        },
+        {
+            "header": "Review the vocabulary. Put the words into the correct categories.",
+            "question": "You can tap Show to see the rest of the vocabulary from Unit 7 one more time",
+            "correct_answer": "documentary*drama*science fiction*soap opera*thriller*country*heavy metal*jazz*pop",
+            "ans_type": NaN,
+            "extra": ""
+        },
+        {
+            "header": NaN,
+            "question": NaN,
+            "correct_answer": NaN,
+            "ans_type": NaN,
+            "extra": ""
+        },
+        {
+            "header": "There are two extra words.",
+            "question": "you learned words for describing experiences.",
+            "correct_answer": "opportunity*challenge*achievement*change*process",
+            "ans_type": "buttons_sel",
+            "extra": ""
+        },
+        {
+            "header": "Listen and complete the sentences",
+            "question": "Andre was",
+            "correct_answer": "not very good at*happy",
+            "ans_type": "dropdown",
+            "extra": ""
+        },
+        {
+            "header": "Listen again and complete the sentences.",
+            "question": "I knew I needed to do more exercise, so I've recently started running. I was",
+            "correct_answer": "taking*concentrating on*making*wasted*doing my best",
+            "ans_type": NaN,
+            "extra": ""
+        },
+        {
+            "header": "Then complete the sentence.",
+            "question": "This person has several ",
+            "correct_answer": "chores",
+            "ans_type": "dropdown",
+            "extra": ""
+        },
+        {
+            "header": "Complete the paragraph.",
+            "question": "something new. It's a fun",
+            "correct_answer": "challenge*chore*success",
+            "ans_type": "buttons_sel",
+            "extra": ""
+        },
+        {
+            "header": "Complete the conversation.",
+            "question": "? Oh, no! It's 11! I've been",
+            "correct_answer": "getting nowhere*a chance*have*save time",
+            "ans_type": "dropdown",
+            "extra": ""
+        },
+        {
+            "header": "Complete the paragraph",
+            "question": "I've been working on a new",
+            "correct_answer": "project*change*achievement",
+            "ans_type": "dropdown",
+            "extra": ""
+        },
+        {
+            "header": "Choose the correct answer.",
+            "question": "What is the teacher describing?",
+            "correct_answer": "the process involved in writing an essay",
+            "ans_type": "listbox",
+            "extra": ""
+        },
+        {
+            "header": "Complete the paragraph.",
+            "question": "I've been trying to learn Spanish for two years now, and I'm",
+            "correct_answer": "getting nowhere*having problems with*aking good progress*wasting*time",
+            "ans_type": "buttons_sel",
+            "extra": ""
+        },
+        {
+            "header": "Complete the paragraph.",
+            "question": "At first, you should",
+            "correct_answer": "concentrate*spend*chance*best",
+            "ans_type": "buttons_sel",
+            "extra": ""
+        },
+        {
+            "header": NaN,
+            "question": NaN,
+            "correct_answer": NaN,
+            "ans_type": NaN,
+            "extra": ""
+        },
+        {
+            "header": "Put the words in the correct categories.",
+            "question": "learned words about employment.",
+            "correct_answer": "architecture*computer science*economics*engineering*medicine*career*employer*profession*retirement*salary",
+            "ans_type": "buttons_sel",
+            "extra": ""
+        },
+        {
+            "header": "Listen and complete the paragraph.",
+            "question": "My aunt Jenny has had a very interesting",
+            "correct_answer": "career*architecture*medicine*profession*salary*working hours*computer science*retirement",
+            "ans_type": "text_input",
+            "extra": ""
+        },
+        {
+            "header": "Complete the conversation",
+            "question": "That new restaurant in town",
+            "correct_answer": "hired*employer*applied",
+            "ans_type": "buttons_sel",
+            "extra": ""
+        },
+        {
+            "header": "Tap Show to read some sentences. Match the sentences. ",
+            "question": "I like learning about nature and living things.",
+            "correct_answer": "Sentence B*Sentence A*Sentence C",
+            "ans_type": "dropdown",
+            "extra": ""
+        },
+        {
+            "header": "Complete the sentences.",
+            "question": "is the study of how companies work.",
+            "correct_answer": "Business*Economics*Law",
+            "ans_type": "text_input",
+            "extra": ""
+        },
+        {
+            "header": "Complete the paragraph.",
+            "question": "I started my",
+            "correct_answer": " career*working hours*business*contract*managing*salary",
+            "ans_type": "buttons_sel",
+            "extra": ""
+        },
+        {
+            "header": "Complete the sentence.",
+            "question": "If you want to be a teacher, you could study",
+            "correct_answer": "education",
+            "ans_type": "text_input",
+            "extra": ""
+        },
+        {
+            "header": "Complete the words.",
+            "question": "how to spell them?",
+            "correct_answer": "physics*chemistry*biology",
+            "ans_type": "text_input",
+            "extra": ""
+        },
+        {
+            "header": NaN,
+            "question": NaN,
+            "correct_answer": NaN,
+            "ans_type": NaN,
+            "extra": ""
+        }
+    ],
+    "Grammar review": [
+        {
+            "header": "Read the information. Then read the example sentence and choose all the correct answers.",
+            "question": "Which sentences have a similar meaning?",
+            "correct_answer": "When I was younger, I worked in a small café.*I worked in a small café for a few years.",
+            "ans_type": "dropdown",
+            "extra": ""
+        },
+        {
+            "header": "Complete the sentences.",
+            "question": "This sentence uses",
+            "correct_answer": "much*non-count noun*an adverb*an adjective*many*count noun",
+            "ans_type": "buttons_sel",
+            "extra": ""
+        },
+        {
+            "header": "Complete the sentences.",
+            "question": "violin  I can't play ",
+            "correct_answer": "as beautifully as*as often as*used to",
+            "ans_type": "dropdown",
+            "extra": ""
+        },
+        {
+            "header": "Listen and complete the question.",
+            "question": ".",
+            "correct_answer": "Did*use to",
+            "ans_type": "text_input",
+            "extra": ""
+        },
+        {
+            "header": "Notice the mistakes in the examples. Then complete the sentences.",
+            "question": "Write one word in each space.",
+            "correct_answer": "used*use*use*used*used*use",
+            "ans_type": "text_input",
+            "extra": ""
+        },
+        {
+            "header": "Read the example. Complete the sentence so it has the same meaning.",
+            "question": "When I was a kid, I",
+            "correct_answer": "used to like",
+            "ans_type": "text_input",
+            "extra": ""
+        },
+        {
+            "header": "Put the words in the correct order to form a sentence.",
+            "question": ".",
+            "correct_answer": "I*dont think*your grey suit*is*as*nice*as the blue one",
+            "ans_type": "buttons_sel",
+            "extra": ""
+        },
+        {
+            "header": "Listen and choose the correct answers.",
+            "question": "Who bought more clothes?",
+            "correct_answer": "Sandro*It doesn't have much choice, but the clothes are great.*an Italian restaurant",
+            "ans_type": "listbox",
+            "extra": ""
+        },
+        {
+            "header": "Listen again and complete the conversation.",
+            "question": " I didn't buy ",
+            "correct_answer": "as many clothes as*as much choice as*used to be",
+            "ans_type": "listbox",
+            "extra": ""
+        },
+        {
+            "header": "Put the words in the correct order to complete the sentence. There is one extra word.",
+            "question": "I",
+            "correct_answer": "didn't*use*to*like",
+            "ans_type": "buttons_sel",
+            "extra": ""
+        },
+        {
+            "header": NaN,
+            "question": NaN,
+            "correct_answer": NaN,
+            "ans_type": NaN,
+            "extra": ""
+        },
+        {
+            "header": "Read the information, then complete the rules.",
+            "question": "To talk about an unfinished activity that started in the past, use the present",
+            "correct_answer": "perfect continuous*perfect",
+            "ans_type": "buttons_sel",
+            "extra": ""
+        },
+        {
+            "header": "Choose all the sentences that use the present perfect.",
+            "question": NaN,
+            "correct_answer": "June has run a couple marathons, but she has no plans to do more.*I'm so glad you're home. I've missed you.",
+            "ans_type": "listbox",
+            "extra": ""
+        },
+        {
+            "header": "Then put the grammar in the correct order. There's one extra option.",
+            "question": "What's the grammar pattern for the words in bold?",
+            "correct_answer": "subject*have been*verb*plus -ing",
+            "ans_type": NaN,
+            "extra": ""
+        },
+        {
+            "header": "Complete the conversation.",
+            "question": "Have you been planning your wedding?",
+            "correct_answer": "Yes, I have.",
+            "ans_type": "text_input",
+            "extra": ""
+        },
+        {
+            "header": "Put the words in the correct order. There are two extra words.",
+            "question": ".",
+            "correct_answer": "I*have*been*studying*a lot*lately.",
+            "ans_type": NaN,
+            "extra": ""
+        },
+        {
+            "header": "Complete the sentence.",
+            "question": "She's ",
+            "correct_answer": "eaten",
+            "ans_type": "dropdown",
+            "extra": ""
+        },
+        {
+            "header": "Complete the sentences.",
+            "question": "Has",
+            "correct_answer": "your brother*they*hasn't",
+            "ans_type": "dropdown",
+            "extra": ""
+        },
+        {
+            "header": "Put the words in the correct order to make a sentence.",
+            "question": ".",
+            "correct_answer": "We*have*been*working*really*hard*and*making*good*progress.",
+            "ans_type": NaN,
+            "extra": ""
+        },
+        {
+            "header": "We have been working really hard and making good progress.",
+            "question": "I've ",
+            "correct_answer": "had*heard",
+            "ans_type": "dropdown",
+            "extra": ""
+        },
+        {
+            "header": "Read what Simon says. Then complete the explanations.",
+            "question": "Simon uses the present perfect to talk about",
+            "correct_answer": " jobs he did in the past.*something he's learning about now.",
+            "ans_type": "listbox",
+            "extra": ""
+        },
+        {
+            "header": NaN,
+            "question": NaN,
+            "correct_answer": " ",
+            "ans_type": NaN,
+            "extra": ""
+        },
+        {
+            "header": "Complete the information. ",
+            "question": NaN,
+            "correct_answer": NaN,
+            "ans_type": NaN,
+            "extra": ""
+        },
+        {
+            "header": "Complete the conversation.",
+            "question": "You look sick, Masha. You",
+            "correct_answer": "don't have to*May*can*can*must not",
+            "ans_type": "dropdown",
+            "extra": ""
+        },
+        {
+            "header": "Complete the conversation.",
+            "question": "I borrow your camera?",
+            "correct_answer": "could*can*must",
+            "ans_type": "buttons_sel",
+            "extra": ""
+        },
+        {
+            "header": "Listen and choose the correct answers.",
+            "question": "How many rules do the man and woman talk about?",
+            "correct_answer": "five*three",
+            "ans_type": "listbox",
+            "extra": ""
+        },
+        {
+            "header": "Listen again and complete the wedding rules.",
+            "question": "be late.",
+            "correct_answer": "must not*may*need to*have to*can't",
+            "ans_type": "text_input",
+            "extra": ""
+        },
+        {
+            "header": "Complete the sentence",
+            "question": "during the exam.",
+            "correct_answer": "must not talk",
+            "ans_type": "text_input",
+            "extra": ""
+        },
+        {
+            "header": "Complete the conversation.",
+            "question": "So, tell me about your new diet, Andreas. What",
+            "correct_answer": "can*must not*have*must not*don't need to*can",
+            "ans_type": "dropdown",
+            "extra": ""
+        },
+        {
+            "header": "Choose the correct answer.",
+            "question": "Which sentence uses modals correctly?",
+            "correct_answer": "You may miss this lesson if you want.",
+            "ans_type": "listbox",
+            "extra": ""
+        },
+        {
+            "header": "Complete the sentence.",
+            "question": "bigger bicycle.",
+            "correct_answer": "has to buy",
+            "ans_type": "text_input",
+            "extra": ""
+        },
+        {
+            "header": NaN,
+            "question": NaN,
+            "correct_answer": NaN,
+            "ans_type": NaN,
+            "extra": ""
+        }
+    ],
+    "Functional language review": [
+        {
+            "header": "Choose all the correct answers. ",
+            "question": "Which expressions can you use to react to a refusal?",
+            "correct_answer": "Oh, that's too bad.*I understand.*Let me know if your plans change.",
+            "ans_type": "listbox",
+            "extra": ""
+        },
+        {
+            "header": "Listen to a conversation. Complete the sentences.",
+            "question": "Simon suggests",
+            "correct_answer": "two types*softens",
+            "ans_type": "dropdown",
+            "extra": ""
+        },
+        {
+            "header": "Listen again and complete the conversation.",
+            "question": NaN,
+            "correct_answer": "I'm sorry*sort of*I'd love to*kind of",
+            "ans_type": NaN,
+            "extra": ""
+        },
+        {
+            "header": "Put the words in the correct order.",
+            "question": "This is an expression you can use to respond to a refusal.",
+            "correct_answer": "Let*me*know*if*your*plans*change",
+            "ans_type": "buttons_sel",
+            "extra": ""
+        },
+        {
+            "header": "Complete the conversation.",
+            "question": "Do you want to meet for lunch at 1?",
+            "correct_answer": "I'd love to*Unfortunately*But thanks anyway",
+            "ans_type": "buttons_sel",
+            "extra": ""
+        },
+        {
+            "header": "Complete the conversation.",
+            "question": "Unfortunately, I can't join you for dinner tonight. I don't feel well.",
+            "correct_answer": "Oh, that's too bad.",
+            "ans_type": "dropdown",
+            "extra": ""
+        },
+        {
+            "header": "Put the words in the correct order.",
+            "question": "class tomorrow morning?",
+            "correct_answer": "I'm sorry,*but*I'm*kind of*bored of*the gym",
+            "ans_type": "buttons_sel",
+            "extra": ""
+        },
+        {
+            "header": NaN,
+            "question": NaN,
+            "correct_answer": NaN,
+            "ans_type": NaN,
+            "extra": ""
+        },
+        {
+            "header": "Choose the correct heading for each group of expressions.",
+            "question": "Let's review the functional language from Lesson 3.",
+            "correct_answer": "Asking about someone's news*Answering*Saying how long it's been",
+            "ans_type": "buttons_sel",
+            "extra": ""
+        },
+        {
+            "header": "Listen. Then choose the correct answer.",
+            "question": "Which is the correct response?",
+            "correct_answer": "I know! I haven't seen your for months!",
+            "ans_type": "listbox",
+            "extra": ""
+        },
+        {
+            "header": "Put the words in the correct order. There are two extra words.",
+            "question": ".",
+            "correct_answer": "What*have*you*been*up to?",
+            "ans_type": NaN,
+            "extra": ""
+        },
+        {
+            "header": "Put the options in the correct categories.",
+            "question": "Think about which options can complete each sentence.",
+            "correct_answer": "2015*April*last year*a long time*months*weeks",
+            "ans_type": "buttons_sel",
+            "extra": ""
+        },
+        {
+            "header": "Listen to the conversation, and then complete the sentences.",
+            "question": "Sofía and Michael know each other from",
+            "correct_answer": "summer camp*Michael**hasn't*wants",
+            "ans_type": NaN,
+            "extra": ""
+        },
+        {
+            "header": "Listen again. Choose the correct speaker for each sentence.",
+            "question": NaN,
+            "correct_answer": NaN,
+            "ans_type": NaN,
+            "extra": ""
+        },
+        {
+            "header": "Read the question. Then complete the responses.",
+            "question": "How can you reply if you haven't been very busy?",
+            "correct_answer": "same*usual*much",
+            "ans_type": "text_input",
+            "extra": ""
+        },
+        {
+            "header": "Complete the conversations.",
+            "question": "That would be ",
+            "correct_answer": "terrible*fantastic",
+            "ans_type": "buttons_sel",
+            "extra": ""
+        },
+        {
+            "header": NaN,
+            "question": NaN,
+            "correct_answer": NaN,
+            "ans_type": NaN,
+            "extra": ""
+        },
+        {
+            "header": "Choose all the correct answers.",
+            "question": "Which sentences express lack of confidence?",
+            "correct_answer": "I don't think I'm strong enough.*That concerns me a little.*I'm not sure I can handle that.",
+            "ans_type": "listbox",
+            "extra": ""
+        },
+        {
+            "header": "Listen and choose the correct answers.",
+            "question": "How does Robert respond to Filip's request?",
+            "correct_answer": "He expresses lack of confidence.*He doesn't like speaking in front of people.*They'll present the project together.",
+            "ans_type": "listbox",
+            "extra": ""
+        },
+        {
+            "header": "Listen to the conversation again. Use the numbers to put the expressions in the order you hear them.",
+            "question": "I think I can handle that.",
+            "correct_answer": "4*2*3*1",
+            "ans_type": "dropdown",
+            "extra": ""
+        },
+        {
+            "header": "Put the words in the correct order.",
+            "question": "I'd love to go on vacation with you, but I don't think I can.",
+            "correct_answer": "The*thing*is*I can't*afford*to travel*right now",
+            "ans_type": "buttons_sel",
+            "extra": ""
+        },
+        {
+            "header": "Complete the conversation.",
+            "question": "I think I can ",
+            "correct_answer": "handle*concerns*little",
+            "ans_type": "text_input",
+            "extra": ""
+        },
+        {
+            "header": "Read the sentence. Then choose all the correct answers.",
+            "question": "Which words can complete this sentence?",
+            "correct_answer": "brave*experienced*good",
+            "ans_type": "listbox",
+            "extra": ""
+        },
+        {
+            "header": NaN,
+            "question": NaN,
+            "correct_answer": NaN,
+            "ans_type": NaN,
+            "extra": ""
+        }
+    ],
+    "Reading and writing skills review": [
+        {
+            "header": "Read for gist: Tap Show to read an article. Then choose the correct answer.",
+            "question": "What does the author think about documentaries?",
+            "correct_answer": "They're about real and interesting things.",
+            "ans_type": "listbox",
+            "extra": ""
+        },
+        {
+            "header": "Tap Show to read the article again, and then complete the sentence.",
+            "question": "Documentaries are",
+            "correct_answer": "more",
+            "ans_type": "buttons_sel",
+            "extra": ""
+        },
+        {
+            "header": "Tap Show to read the article again. Complete the sentence.",
+            "question": "Documentaries are about",
+            "correct_answer": "large and small topics",
+            "ans_type": "dropdown",
+            "extra": ""
+        },
+        {
+            "header": "Choose all the correct answers.",
+            "question": "According to the author, what features make documentaries more popular now?",
+            "correct_answer": "better technology*famous actors' voices*real-life topics",
+            "ans_type": "listbox",
+            "extra": ""
+        },
+        {
+            "header": "Writing skills: Complete the sentences.",
+            "question": "First, introduce the movie and give your initial feeling or ",
+            "correct_answer": "opinion*description*psotive*recommendation",
+            "ans_type": "buttons_sel",
+            "extra": ""
+        },
+        {
+            "header": "Writing skills: Read the parts of a review. Choose the correct numbers to put the sections in order.",
+            "question": NaN,
+            "correct_answer": "2*1*4*3",
+            "ans_type": "dropdown",
+            "extra": ""
+        },
+        {
+            "header": "Tap Show to read the movie review again. Complete the sentences.",
+            "question": "One positive thing that the writer mentions is",
+            "correct_answer": "the movies message*the animation style",
+            "ans_type": "buttons_sel",
+            "extra": ""
+        },
+        {
+            "header": "   ",
+            "question": NaN,
+            "correct_answer": NaN,
+            "ans_type": NaN,
+            "extra": ""
+        },
+        {
+            "header": "Recognize text types: Tap Show to read the text. Then complete the sentence.",
+            "question": "The text is part of a",
+            "correct_answer": "résumé",
+            "ans_type": "buttons_sel",
+            "extra": ""
+        },
+        {
+            "header": "Choose the correct heading.",
+            "question": "Postgraduate Certificate in Computer Networks (Online), Boston University",
+            "correct_answer": "Education",
+            "ans_type": "dropdown",
+            "extra": ""
+        },
+        {
+            "header": "Choose the correct heading.",
+            "question": "Painting and making ",
+            "correct_answer": "Activities",
+            "ans_type": "buttons_sel",
+            "extra": ""
+        },
+        {
+            "header": "Then choose the correct answer.",
+            "question": "What job would probably be good for Naomi?",
+            "correct_answer": "Software Designer",
+            "ans_type": "listbox",
+            "extra": ""
+        },
+        {
+            "header": "Then complete the sentence.",
+            "question": "Naomi has worked for 18 months as an",
+            "correct_answer": "assistant*computer store",
+            "ans_type": "dropdown",
+            "extra": ""
+        },
+        {
+            "header": "Then complete the sentence.",
+            "question": "Naomi is a member of a ",
+            "correct_answer": "running",
+            "ans_type": "dropdown",
+            "extra": ""
+        },
+        {
+            "header": "Then choose the correct answer.",
+            "question": "Which sentence is true?",
+            "correct_answer": "Naomi took an online course.",
+            "ans_type": "listbox",
+            "extra": ""
+        },
+        {
+            "header": "Then choose the correct answer.",
+            "question": "Has Naomi done these things?",
+            "correct_answer": "yes, all of them",
+            "ans_type": "listbox",
+            "extra": ""
+        },
+        {
+            "header": "Read the tips and complete the sentences.",
+            "question": "shows that she has",
+            "correct_answer": "language skills*degrees or certificates*creative*skills for job*active*good with people",
+            "ans_type": "buttons_sel",
+            "extra": ""
+        },
+        {
+            "header": NaN,
+            "question": NaN,
+            "correct_answer": NaN,
+            "ans_type": NaN,
+            "extra": ""
+        }
+    ],
+    "Listen and watch": [
+        {
+            "header": "Watch the video and choose all the correct answers.",
+            "question": "Who talks about the things they like now?",
+            "correct_answer": "Evelyn*Maya",
+            "ans_type": "listbox",
+            "extra": ""
+        },
+        {
+            "header": "Watch the video again and choose the correct answer.",
+            "question": "Who used to enjoy different food?",
+            "correct_answer": "Maya",
+            "ans_type": "dropdown",
+            "extra": ""
+        },
+        {
+            "header": "Watch the video again and choose the correct answer.",
+            "question": "Whose taste in sports has changed?",
+            "correct_answer": "Brittany",
+            "ans_type": "listbox",
+            "extra": ""
+        },
+        {
+            "header": "Watch the video and choose all the correct answers.",
+            "question": "Who gives reasons why they didn't like something in the past?",
+            "correct_answer": "Evelyn*Maya",
+            "ans_type": "listbox",
+            "extra": ""
+        },
+        {
+            "header": "Watch the video again and choose the correct answer.",
+            "question": "What didn't Brittany use to like to do?",
+            "correct_answer": "read",
+            "ans_type": "listbox",
+            "extra": ""
+        },
+        {
+            "header": "Watch the video and choose the correct answer.",
+            "question": "What was Maya afraid of when she was younger?",
+            "correct_answer": "car washes",
+            "ans_type": "listbox",
+            "extra": ""
+        },
+        {
+            "header": "Watch the video and complete the sentence.",
+            "question": "because I",
+            "correct_answer": "thought",
+            "ans_type": "text_input",
+            "extra": ""
+        },
+        {
+            "header": "Watch the video and complete the sentence.",
+            "question": "Now I like to read. I",
+            "correct_answer": "didn't like",
+            "ans_type": "text_input",
+            "extra": ""
+        },
+        {
+            "header": "Watch the video and complete the sentences.",
+            "question": "But now that I'm",
+            "correct_answer": "older*scary",
+            "ans_type": "text_input",
+            "extra": ""
+        },
+        {
+            "header": "Listen and complete the sentences.",
+            "question": "In the past, Jess mostly read about ",
+            "correct_answer": "science fiction*animals*books and blogs*science and medicine",
+            "ans_type": NaN,
+            "extra": ""
+        },
+        {
+            "header": "Listen and complete the sentences.",
+            "question": "have many friends. But I",
+            "correct_answer": "didn't use to*as*many*as",
+            "ans_type": "text_input",
+            "extra": ""
+        },
+        {
+            "header": NaN,
+            "question": NaN,
+            "correct_answer": NaN,
+            "ans_type": NaN,
+            "extra": ""
+        },
+        {
+            "header": "Watch the video and choose the correct answer.",
+            "question": "Who gives examples of the chores they have to do, but don't like doing?",
+            "correct_answer": "Hasim, Seymour, and Katherine",
+            "ans_type": NaN,
+            "extra": ""
+        },
+        {
+            "header": NaN,
+            "question": "Who talks about being active?",
+            "correct_answer": "Hasim*Katherine",
+            "ans_type": NaN,
+            "extra": ""
+        },
+        {
+            "header": "Watch the video again and choose the correct answer.",
+            "question": "What doesn't Seymour like doing?",
+            "correct_answer": "being in the car for a long time",
+            "ans_type": NaN,
+            "extra": ""
+        },
+        {
+            "header": "Watch the video and choose the correct answer.",
+            "question": "What do all three people like?",
+            "correct_answer": "being with friends",
+            "ans_type": NaN,
+            "extra": ""
+        },
+        {
+            "header": "Watch the video again and choose the correct answer.",
+            "question": "Who talks about going to a dinner with friends?",
+            "correct_answer": "Katherine",
+            "ans_type": NaN,
+            "extra": ""
+        },
+        {
+            "header": "Watch the video and choose the correct answer.",
+            "question": "Which place does Hasim not talk about?",
+            "correct_answer": "the gym",
+            "ans_type": NaN,
+            "extra": ""
+        },
+        {
+            "header": "Watch the video and complete the sentences.",
+            "question": " Uh, maybe we do a barbecue, and to have, uh,",
+            "correct_answer": "enjoy*perfect",
+            "ans_type": "text_input",
+            "extra": ""
+        },
+        {
+            "header": "Watch the video and complete the sentence.",
+            "question": "My idea of a perfect day",
+            "correct_answer": "would*coffe",
+            "ans_type": "text_input",
+            "extra": ""
+        },
+        {
+            "header": "Watch the video and complete the sentence.",
+            "question": "My idea of a perfect day is going walking in the mountains and then",
+            "correct_answer": "meeting friends",
+            "ans_type": "text_input",
+            "extra": ""
+        },
+        {
+            "header": "Listen and choose all the correct answers.",
+            "question": "First, let's look at an example. Listen to Tomas. Which questions does he answer?",
+            "correct_answer": "Who would be with you on your perfect day?*What time of year would it be, and what would the weather be like?*What activities would you do?",
+            "ans_type": "listbox",
+            "extra": ""
+        },
+        {
+            "header": NaN,
+            "question": NaN,
+            "correct_answer": NaN,
+            "ans_type": NaN,
+            "extra": ""
+        },
+        {
+            "header": "Watch the video and choose the correct answer.",
+            "question": "What's Demetrius's dream job?",
+            "correct_answer": "to be the head of a country",
+            "ans_type": "listbox",
+            "extra": ""
+        },
+        {
+            "header": "Watch the video and choose all the correct answers.",
+            "question": "According to Demetrius, what do you need to do to be the President of the US?",
+            "correct_answer": "tell the truth*speak well in public",
+            "ans_type": "listbox",
+            "extra": ""
+        },
+        {
+            "header": "Watch the video again and choose the correct answer.",
+            "question": "Which of these qualities does Demetrius not talk about?",
+            "correct_answer": "that people believe you are successful",
+            "ans_type": "listbox",
+            "extra": ""
+        },
+        {
+            "header": "Watch the video and choose the correct answer.",
+            "question": "As a doctor, what part of the body does Marwa want to specialize in?",
+            "correct_answer": "the brain",
+            "ans_type": "listbox",
+            "extra": ""
+        },
+        {
+            "header": "Watch the video and choose the correct answer.",
+            "question": "What does this mean?",
+            "correct_answer": "careful",
+            "ans_type": "listbox",
+            "extra": ""
+        },
+        {
+            "header": "Watch the video and complete the sentence.",
+            "question": " My dream job is to",
+            "correct_answer": "become",
+            "ans_type": "text_input",
+            "extra": ""
+        },
+        {
+            "header": "Watch the video and complete the sentence.",
+            "question": "My dream job is to be a",
+            "correct_answer": "doctor*in",
+            "ans_type": "text_input",
+            "extra": ""
+        },
+        {
+            "header": "Watch the video and complete the sentence.",
+            "question": "need to be reliable, you need to be",
+            "correct_answer": "intelligent*speaker",
+            "ans_type": "text_input",
+            "extra": ""
+        },
+        {
+            "header": "Listen and complete the sentences.",
+            "question": NaN,
+            "correct_answer": NaN,
+            "ans_type": NaN,
+            "extra": ""
+        },
+        {
+            "header": "Listen again and choose all the correct answers.",
+            "question": "Which sentences are true?",
+            "correct_answer": "He chose to study medicine after a doctor visited his school.*Now he works on treatments for sick people.",
+            "ans_type": "listbox",
+            "extra": ""
+        },
+        {
+            "header": NaN,
+            "question": NaN,
+            "correct_answer": NaN,
+            "ans_type": NaN,
+            "extra": ""
+        }
+    ],
+    "Vocabulary practice 1: Describing experiences": [
+        {
+            "header": "Choose the correct answer",
+            "question": "What is Marc describing?",
+            "correct_answer": "a challenge and an achievement",
+            "ans_type": "listbox",
+            "extra": ""
+        },
+        {
+            "header": "Complete the conversation.",
+            "question": "this weekend? It's a really big",
+            "correct_answer": "job*chore",
+            "ans_type": "dropdown",
+            "extra": ""
+        },
+        {
+            "header": "Choose the correct answer.",
+            "question": "What do people usually see as an achievement?",
+            "correct_answer": "winning a competition",
+            "ans_type": "listbox",
+            "extra": ""
+        },
+        {
+            "header": "Complete the sentence.",
+            "question": " I have to deal with",
+            "correct_answer": "challenges",
+            "ans_type": "dropdown",
+            "extra": ""
+        },
+        {
+            "header": "Listen and choose the correct answer.",
+            "question": "What does Lucas need to do?",
+            "correct_answer": "make a change in his life",
+            "ans_type": "listbox",
+            "extra": ""
+        },
+        {
+            "header": "Complete the information.",
+            "question": "Which words and phrases are chores?",
+            "correct_answer": "doing laundry*vacuuming*washing dishes",
+            "ans_type": "buttons_sel",
+            "extra": ""
+        },
+        {
+            "header": "Complete the sentence.",
+            "question": "A friend gave me the",
+            "correct_answer": "opportunity",
+            "ans_type": "buttons_sel",
+            "extra": ""
+        },
+        {
+            "header": "Complete the sentence",
+            "question": "Axel has finished his end-of-year",
+            "correct_answer": "project",
+            "ans_type": "dropdown",
+            "extra": ""
+        },
+        {
+            "header": "Listen and choose the correct answer",
+            "question": "How does the man describe adding new products to his store?",
+            "correct_answer": "as a success",
+            "ans_type": "listbox",
+            "extra": ""
+        },
+        {
+            "header": NaN,
+            "question": NaN,
+            "correct_answer": NaN,
+            "ans_type": NaN,
+            "extra": ""
+        }
+    ],
+    "Vocabulary practice 2: Describing experiences": [
+        {
+            "header": "let's check how much you remember!",
+            "question": "let's check how much you remember!",
+            "correct_answer": "process*achievement*challenge*chore*opportunity",
+            "ans_type": "text_input",
+            "extra": ""
+        },
+        {
+            "header": "Listen and complete the sentences.",
+            "question": "Nick's grandmother didn't have the ",
+            "correct_answer": "opportunity*achievement*challenge",
+            "ans_type": "text_input",
+            "extra": ""
+        },
+        {
+            "header": "Choose the correct answer.",
+            "question": "What is a chore for many people?",
+            "correct_answer": "putting the trash out",
+            "ans_type": "listbox",
+            "extra": ""
+        },
+        {
+            "header": "Complete the sentence.",
+            "question": "describe a ",
+            "correct_answer": "process",
+            "ans_type": "dropdown",
+            "extra": ""
+        },
+        {
+            "header": "Choose all the correct answers.",
+            "question": "Which sentences describe a challenge?",
+            "correct_answer": "We hiked to the top of the mountain. It took all day.*They need to raise 10,000 dollars for charity.*I've never played piano before, but I'm going to try.",
+            "ans_type": "listbox",
+            "extra": ""
+        },
+        {
+            "header": "Then choose all the correct answers.",
+            "question": "Which sentences are true?",
+            "correct_answer": "Petra is working on a project about pollution.*Petra is describing the process for working on a project.",
+            "ans_type": "listbox",
+            "extra": ""
+        },
+        {
+            "header": "Complete the sentence.",
+            "question": "I have a couple quick",
+            "correct_answer": "chores",
+            "ans_type": "text_input",
+            "extra": ""
+        },
+        {
+            "header": "Read the sentences. Some words are missing. Then choose the correct answer.",
+            "question": "Which word can go in all the spaces?",
+            "correct_answer": "opportunity",
+            "ans_type": "listbox",
+            "extra": ""
+        },
+        {
+            "header": "Then choose True or False.",
+            "question": "Pedro didn't use to take many opportunities.",
+            "correct_answer": "False*True",
+            "ans_type": "dropdown",
+            "extra": ""
+        },
+        {
+            "header": "Complete the sentences.",
+            "question": "It's usually good if something is a",
+            "correct_answer": "success*process*chores*challenges",
+            "ans_type": "buttons_sel",
+            "extra": ""
+        },
+        {
+            "header": NaN,
+            "question": NaN,
+            "correct_answer": NaN,
+            "ans_type": NaN,
+            "extra": ""
+        }
+    ],
+    "Grammar practice 1: Present perfect continuous": [
+        {
+            "header": "Choose all the correct answers.",
+            "question": "Which sentences that use correct grammar?",
+            "correct_answer": "Have you been using the new app I showed you?*Jon hasn't been traveling much this year.*Katie and Ricardo have been studying Mandarin.",
+            "ans_type": "listbox",
+            "extra": ""
+        },
+        {
+            "header": "Complete the conversation.",
+            "question": " Hey, Emma. ",
+            "correct_answer": "Has*been*working with*she hasn't*'s been*volunteering",
+            "ans_type": "buttons_sel",
+            "extra": ""
+        },
+        {
+            "header": "Complete the sentence.",
+            "question": "Daniel's band",
+            "correct_answer": "has been playing",
+            "ans_type": "dropdown",
+            "extra": ""
+        },
+        {
+            "header": "Complete the conversation. There are two extra options.",
+            "question": "Have",
+            "correct_answer": "you*been*studying*have",
+            "ans_type": "buttons_sel",
+            "extra": ""
+        },
+        {
+            "header": "Complete the sentence",
+            "question": "Mark and I",
+            "correct_answer": "have been",
+            "ans_type": "dropdown",
+            "extra": ""
+        },
+        {
+            "header": "Put the words in the correct order to form a question.",
+            "question": "Hey, Mateo",
+            "correct_answer": "What*have*you*been*doing*recently?",
+            "ans_type": "buttons_sel",
+            "extra": ""
+        },
+        {
+            "header": "Listen and complete the sentence.",
+            "question": ".",
+            "correct_answer": "hasn't been",
+            "ans_type": "dropdown",
+            "extra": ""
+        },
+        {
+            "header": "Complete the conversation. There is one extra word.",
+            "question": "I",
+            "correct_answer": " 've*been*trying*'s*been*traveling",
+            "ans_type": NaN,
+            "extra": ""
+        },
+        {
+            "header": "Complete the conversation.",
+            "question": "I heard Amy moved out of her parents' house in January. Has",
+            "correct_answer": "she been living*hasn't",
+            "ans_type": "dropdown",
+            "extra": ""
+        },
+        {
+            "header": "Complete the sentence. There are two extra words.",
+            "question": "Jacob",
+            "correct_answer": "has*been*looking",
+            "ans_type": "buttons_sel",
+            "extra": ""
+        },
+        {
+            "header": "Complete the conversation.",
+            "question": "Oh, hi, Nick.",
+            "correct_answer": "Have you*waiting",
+            "ans_type": "dropdown",
+            "extra": ""
+        },
+        {
+            "header": "Complete the sentence. There are two extra words.",
+            "question": "We",
+            "correct_answer": "have*been*cooking",
+            "ans_type": "buttons_sel",
+            "extra": ""
+        },
+        {
+            "header": NaN,
+            "question": NaN,
+            "correct_answer": NaN,
+            "ans_type": NaN,
+            "extra": ""
+        }
+    ],
+    "Grammar practice 2: Present perfect continuous": [
+        {
+            "header": "Listen and choose the correct answer.",
+            "question": "Which is the best response?",
+            "correct_answer": "Javier: Well, I'm super busy. My band has been playing concerts every night.",
+            "ans_type": "listbox",
+            "extra": ""
+        },
+        {
+            "header": "Complete the conversation.",
+            "question": "You look tired!",
+            "correct_answer": "have been working*Have*been doing*Have*been sleeping",
+            "ans_type": "text_input",
+            "extra": ""
+        },
+        {
+            "header": "Complete the sentence.",
+            "question": "I have an exam this week, so",
+            "correct_answer": "I've*been studying*my mom*has*been doing",
+            "ans_type": "buttons_sel",
+            "extra": ""
+        },
+        {
+            "header": "Complete the question.",
+            "question": ".",
+            "correct_answer": "Have you been trying",
+            "ans_type": "text_input",
+            "extra": ""
+        },
+        {
+            "header": "Put the words in the correct order to form a question. There are two extra options.",
+            "question": NaN,
+            "correct_answer": "Has*your brother*learning*to*drive",
+            "ans_type": NaN,
+            "extra": ""
+        },
+        {
+            "header": "Read the questions. Tap Show to read some answers. Then choose the correct answer for each question.",
+            "question": "Have you been watching the new thriller series on TV?",
+            "correct_answer": "Answer D*Answer A*Answer C*Answer B",
+            "ans_type": "dropdown",
+            "extra": ""
+        },
+        {
+            "header": "Write the question. Use the words below.",
+            "question": "continuous.",
+            "correct_answer": "Have you been following the news?",
+            "ans_type": "text_input",
+            "extra": ""
+        },
+        {
+            "header": "Read the question. Listen to two answers. Choose the best answer.",
+            "question": "What's up? You look a little annoyed.",
+            "correct_answer": "PROBLEMAAAAAAS",
+            "ans_type": NaN,
+            "extra": ""
+        },
+        {
+            "header": "Listen and complete the conversation.",
+            "question": "What's wrong with Mia?",
+            "correct_answer": "She hasn't been feeling*She's been calling",
+            "ans_type": "dropdown",
+            "extra": ""
+        },
+        {
+            "header": NaN,
+            "question": NaN,
+            "correct_answer": NaN,
+            "ans_type": NaN,
+            "extra": ""
+        }
+    ],
+    "Vocabulary practice 1: Describing progress": [
+        {
+            "header": "Complete the conversation. There are two extra words.",
+            "question": "Good job on the test, Steve.",
+            "correct_answer": "making*good*progress",
+            "ans_type": "buttons_sel",
+            "extra": ""
+        },
+        {
+            "header": "Look at the photo and choose the correct answer.",
+            "question": "What is happening to the woman?",
+            "correct_answer": "She's having problems with her car.",
+            "ans_type": "listbox",
+            "extra": ""
+        },
+        {
+            "header": "Complete the sentence. There is one extra word.",
+            "question": ".",
+            "correct_answer": "have*time",
+            "ans_type": "buttons_sel",
+            "extra": ""
+        },
+        {
+            "header": "Complete the sentence.",
+            "question": "I'm ",
+            "correct_answer": "doing*best",
+            "ans_type": "dropdown",
+            "extra": ""
+        },
+        {
+            "header": "Complete the sentence. There are two extra words.",
+            "question": NaN,
+            "correct_answer": "spend*time",
+            "ans_type": "buttons_sel",
+            "extra": ""
+        },
+        {
+            "header": "Choose the correct answer.",
+            "question": "Which phrase means \"to spend too much time doing something unnecessary\"?",
+            "correct_answer": "waste time",
+            "ans_type": "listbox",
+            "extra": ""
+        },
+        {
+            "header": "Complete the sentence.",
+            "question": " I have made good ",
+            "correct_answer": "progress",
+            "ans_type": "text_input",
+            "extra": ""
+        },
+        {
+            "header": "Complete the conversation",
+            "question": "Don't worry! You've",
+            "correct_answer": "spent*time",
+            "ans_type": "text_input",
+            "extra": ""
+        },
+        {
+            "header": "Listen and complete the sentence.",
+            "question": "Josh has been having",
+            "correct_answer": "problems",
+            "ans_type": "text_input",
+            "extra": ""
+        },
+        {
+            "header": "Complete the sentence.",
+            "question": "important to",
+            "correct_answer": "do*best",
+            "ans_type": "text_input",
+            "extra": ""
+        },
+        {
+            "header": "Look at the photo and complete the sentence. Use two words.",
+            "question": "Ed usually",
+            "correct_answer": "wastes time",
+            "ans_type": "text_input",
+            "extra": ""
+        },
+        {
+            "header": NaN,
+            "question": NaN,
+            "correct_answer": NaN,
+            "ans_type": NaN,
+            "extra": ""
+        }
+    ],
+    "Vocabulary practice 2: Describing progress": [
+        {
+            "header": "Complete the conversation. There are two extra words.",
+            "question": "I'm late for work! And I can't find the report I wrote. What am I going to",
+            "correct_answer": "it*easy*save*time",
+            "ans_type": "buttons_sel",
+            "extra": ""
+        },
+        {
+            "header": "Complete the sentences. Use the words below.",
+            "question": "but I'm making no ",
+            "correct_answer": "progress*getting*nowhere*do*best",
+            "ans_type": "text_input",
+            "extra": ""
+        },
+        {
+            "header": "Complete the sentence. Use one of the words below.",
+            "question": "didn't have a",
+            "correct_answer": "chance",
+            "ans_type": "text_input",
+            "extra": ""
+        },
+        {
+            "header": "Read the sentence. Then choose the correct answer",
+            "question": "Which sentence has the same meaning?",
+            "correct_answer": "I haven't had a chance to do that.",
+            "ans_type": "listbox",
+            "extra": ""
+        },
+        {
+            "header": "Listen to the question. Choose all the correct answers.",
+            "question": "Which are possible responses?",
+            "correct_answer": "Unfortunately, I couldn't upload it because I had trouble with my Wi-Fi.*I really hope so because I spent a lot of time on it.*I think so, but I haven't had a chance to check yet.",
+            "ans_type": "listbox",
+            "extra": ""
+        },
+        {
+            "header": "Read the examples. Then complete the sentence.",
+            "question": "You can use the word ",
+            "correct_answer": "time",
+            "ans_type": "dropdown",
+            "extra": ""
+        },
+        {
+            "header": "Listen to the woman's problem. Choose the correct answer.",
+            "question": NaN,
+            "correct_answer": "You could spend time organizing your ideas into paragraphs.",
+            "ans_type": "listbox",
+            "extra": ""
+        },
+        {
+            "header": "Then complete the sentences.",
+            "question": ".",
+            "correct_answer": "Cristina*Joey",
+            "ans_type": "dropdown",
+            "extra": ""
+        },
+        {
+            "header": NaN,
+            "question": NaN,
+            "correct_answer": NaN,
+            "ans_type": NaN,
+            "extra": ""
+        }
+    ],
+    "Grammar practice 1: Present perfect vs. present perfect continuous": [
+        {
+            "header": "Choose the correct options. ",
+            "question": "I've been making good progress on a personal project. ",
+            "correct_answer": "unfinished*unfinished*result*result*unfinished",
+            "ans_type": "buttons_sel",
+            "extra": ""
+        },
+        {
+            "header": "Listen and choose the correct answer.",
+            "question": "What's new with Layla?",
+            "correct_answer": "Layla has been working in a restaurant recently.",
+            "ans_type": "listbox",
+            "extra": ""
+        },
+        {
+            "header": "Complete the question.",
+            "question": "You look tired, but it's only 4 o'clock! What",
+            "correct_answer": "have you been doing",
+            "ans_type": NaN,
+            "extra": ""
+        },
+        {
+            "header": "Complete the sentence.",
+            "question": "I",
+            "correct_answer": "have been studying",
+            "ans_type": "dropdown",
+            "extra": ""
+        },
+        {
+            "header": "Complete the sentence. There are two extra options.",
+            "question": "Anthony",
+            "correct_answer": "has*run",
+            "ans_type": "buttons_sel",
+            "extra": ""
+        },
+        {
+            "header": "Complete the sentence.",
+            "question": "Do you want to come over? ",
+            "correct_answer": "I've made",
+            "ans_type": "dropdown",
+            "extra": ""
+        },
+        {
+            "header": "Complete the conversation. There are two extra words.",
+            "question": "Seriously? How many times",
+            "correct_answer": "have*you*lost",
+            "ans_type": "buttons_sel",
+            "extra": ""
+        },
+        {
+            "header": "Listen and complete the response.",
+            "question": "I'm so tired. I've only",
+            "correct_answer": "slept*been taking care of",
+            "ans_type": "dropdown",
+            "extra": ""
+        },
+        {
+            "header": "Complete the sentences.",
+            "question": "I'm not sure. ",
+            "correct_answer": "I've been thinking*havent applied",
+            "ans_type": "dropdown",
+            "extra": ""
+        },
+        {
+            "header": NaN,
+            "question": NaN,
+            "correct_answer": NaN,
+            "ans_type": NaN,
+            "extra": ""
+        }
+    ],
+    "Grammar practice 2: Present perfect vs. present perfect continuous": [
+        {
+            "header": "Complete the conversation.",
+            "question": ".",
+            "correct_answer": "Have*been looking*'ve seen",
+            "ans_type": NaN,
+            "extra": ""
+        },
+        {
+            "header": "Read the example sentence and choose the correct answer.",
+            "question": "Is Raj still trying to talk to Katie?",
+            "correct_answer": "Yes, he is.",
+            "ans_type": "listbox",
+            "extra": ""
+        },
+        {
+            "header": "Read the example sentences and choose the correct answer.",
+            "question": "Which statement is true?",
+            "correct_answer": "Mel has an apartment now.",
+            "ans_type": "listbox",
+            "extra": ""
+        },
+        {
+            "header": "Complete the conversation.",
+            "question": "What have you",
+            "correct_answer": "been doing*'ve decided*'ve been spending",
+            "ans_type": "dropdown",
+            "extra": ""
+        },
+        {
+            "header": "Choose the correct answer.",
+            "question": "Which sentence has incorrect grammar?",
+            "correct_answer": "I've been booking a trip to Greece",
+            "ans_type": "listbox",
+            "extra": ""
+        },
+        {
+            "header": "Choose the correct answers.",
+            "question": "Which is the correct sentence?",
+            "correct_answer": "Daniel has gone to the supermarket three times this week.*I've been taking some cooking classes for a few months.",
+            "ans_type": "listbox",
+            "extra": ""
+        },
+        {
+            "header": NaN,
+            "question": ".",
+            "correct_answer": "Have*heard*have been traveling*have not arrived",
+            "ans_type": "text_input",
+            "extra": ""
+        },
+        {
+            "header": "Complete the conversation.",
+            "question": "How long ",
+            "correct_answer": "have you been waiting*'ve had",
+            "ans_type": "text_input",
+            "extra": ""
+        },
+        {
+            "header": NaN,
+            "question": NaN,
+            "correct_answer": NaN,
+            "ans_type": NaN,
+            "extra": ""
+        }
+    ],
+    "Listening skills": [
+        {
+            "header": "Listen to a podcast interview and choose the correct answer.",
+            "question": "What's Naomi's job?",
+            "correct_answer": "She's a time management expert.",
+            "ans_type": "listbox",
+            "extra": ""
+        },
+        {
+            "header": "Listen to the podcast interview again. Choose all the correct answers.",
+            "question": "Which two small activities does Naomi talk about?",
+            "correct_answer": "opening and answering emails*paying bills online",
+            "ans_type": "listbox",
+            "extra": ""
+        },
+        {
+            "header": "Listen to the first part of the podcast. Complete the sentence.",
+            "question": "you do it in",
+            "correct_answer": "a smart",
+            "ans_type": "buttons_sel",
+            "extra": ""
+        },
+        {
+            "header": "Listen to part of the podcast. Choose the correct answer.",
+            "question": "What do you think a technique is?",
+            "correct_answer": "a way of doing something",
+            "ans_type": "listbox",
+            "extra": ""
+        },
+        {
+            "header": "Listen to part of the podcast again. Choose the correct answer.",
+            "question": "What are tasks?",
+            "correct_answer": "things she needs to do",
+            "ans_type": "listbox",
+            "extra": ""
+        },
+        {
+            "header": NaN,
+            "question": NaN,
+            "correct_answer": NaN,
+            "ans_type": NaN,
+            "extra": ""
+        }
+    ],
+    "Writing skills presentation: Time expressions": [
+        {
+            "header": "Tap Show to read a blog post. Then choose the correct answer.",
+            "question": "Has Naomi's technique changed the way Matthew organizes his work?",
+            "correct_answer": "Yes, he is.",
+            "ans_type": NaN,
+            "extra": ""
+        },
+        {
+            "header": "Tap Show to read Matthew's blog post again. Choose True, False, or Not given.",
+            "question": "Matthew has problems with homework, but not with emails.",
+            "correct_answer": "True*False*True*True*Not given",
+            "ans_type": "dropdown",
+            "extra": ""
+        },
+        {
+            "header": "Matthew's blog post again. Complete the information.",
+            "question": "means",
+            "correct_answer": " right away*up to now*in the past*from now on",
+            "ans_type": "buttons_sel",
+            "extra": ""
+        },
+        {
+            "header": "Review the time expressions. Complete the rules.",
+            "question": "expressions like",
+            "correct_answer": "up*so*before*on*immediately",
+            "ans_type": "text_input",
+            "extra": ""
+        },
+        {
+            "header": NaN,
+            "question": NaN,
+            "correct_answer": NaN,
+            "ans_type": NaN,
+            "extra": ""
+        }
+    ],
+    "Listening and writing skills review": [
+        {
+            "header": "Listen to an interview and choose the correct answers.",
+            "question": "What's one thing Taka has been doing recently to try to improve his life?",
+            "correct_answer": "waking up at different times*for a few months",
+            "ans_type": "listbox",
+            "extra": ""
+        },
+        {
+            "header": "Listen again and choose all the correct answers.",
+            "question": "How has the change to his wake times improved Taka's day-to-day mood?",
+            "correct_answer": "It's made him feel awake and alert.*He's able to take more opportunities.",
+            "ans_type": "listbox",
+            "extra": ""
+        },
+        {
+            "header": "Listen to part of the conversation again. Choose the correct answers.",
+            "question": "What does hack mean?",
+            "correct_answer": "improve something to make it easier or work better*the best*wide awake and ready to go",
+            "ans_type": "listbox",
+            "extra": ""
+        },
+        {
+            "header": "Notice the gaps numbered 14. Choose all the correct answers.",
+            "question": "Which time expressions can go in gap 1 in the blog post?",
+            "correct_answer": "immediately*right away",
+            "ans_type": "listbox",
+            "extra": ""
+        },
+        {
+            "header": "Choose all the correct answers.",
+            "question": "Which time expressions can go in gap 2 in the blog post?",
+            "correct_answer": "before*in the past",
+            "ans_type": "listbox",
+            "extra": ""
+        },
+        {
+            "header": "Choose all the correct answers.",
+            "question": "Which time expressions can go in gap 3 in the blog post?",
+            "correct_answer": "up to now*so far",
+            "ans_type": "listbox",
+            "extra": ""
+        },
+        {
+            "header": "Choose all the correct answers.",
+            "question": "Which time expressions can go in gap 4 in the blog post?",
+            "correct_answer": "in the future*from now on",
+            "ans_type": "listbox",
+            "extra": ""
+        },
+        {
+            "header": "Choose the correct answer.",
+            "question": "Which expression doesn't belong?",
+            "correct_answer": "up to now",
+            "ans_type": "listbox",
+            "extra": ""
+        },
+        {
+            "header": "Choose the correct answer.",
+            "question": "Which sentence is more formal?",
+            "correct_answer": "I'm going to wake up at 7:00 a.m. from now on.",
+            "ans_type": "listbox",
+            "extra": ""
+        },
+        {
+            "header": NaN,
+            "question": NaN,
+            "correct_answer": NaN,
+            "ans_type": NaN,
+            "extra": ""
+        }
+    ],
+    "Vocabulary practice 1: College subjects": [
+        {
+            "header": "Look at the photo and choose the correct answer.",
+            "question": "What is the person studying?",
+            "correct_answer": "architecture",
+            "ans_type": "listbox",
+            "extra": ""
+        },
+        {
+            "header": "Complete the sentence.",
+            "question": "In our",
+            "correct_answer": "biology",
+            "ans_type": "dropdown",
+            "extra": ""
+        },
+        {
+            "header": "Listen and choose the correct answer.",
+            "question": "What kind of class is it?",
+            "correct_answer": "business",
+            "ans_type": "listbox",
+            "extra": ""
+        },
+        {
+            "header": "Look at the photo and complete the sentence.",
+            "question": "I'm taking a course in",
+            "correct_answer": "chemistry",
+            "ans_type": "dropdown",
+            "extra": ""
+        },
+        {
+            "header": "Complete the sentence.",
+            "question": "Maya has a degree in",
+            "correct_answer": "computer science",
+            "ans_type": "buttons_sel",
+            "extra": ""
+        },
+        {
+            "header": "Complete the sentence.   ",
+            "question": "After three years of studying",
+            "correct_answer": "economics",
+            "ans_type": "dropdown",
+            "extra": ""
+        },
+        {
+            "header": "Choose the correct answer.",
+            "question": "What do you have to study if you want to be an elementary school teacher?",
+            "correct_answer": "education",
+            "ans_type": "listbox",
+            "extra": ""
+        },
+        {
+            "header": "Complete the sentence.",
+            "question": "He studied",
+            "correct_answer": "engineering",
+            "ans_type": "dropdown",
+            "extra": ""
+        },
+        {
+            "header": "Complete the sentence",
+            "question": "Vanessa studied",
+            "correct_answer": "law",
+            "ans_type": "dropdown",
+            "extra": ""
+        },
+        {
+            "header": "Listen and choose the correct answer.",
+            "question": "What did Amelia stop studying?",
+            "correct_answer": "physics",
+            "ans_type": "listbox",
+            "extra": ""
+        },
+        {
+            "header": "Complete the sentence.",
+            "question": "When you study",
+            "correct_answer": "physics",
+            "ans_type": "dropdown",
+            "extra": ""
+        },
+        {
+            "header": "Complete the sentence.",
+            "question": "course in",
+            "correct_answer": "political science",
+            "ans_type": "dropdown",
+            "extra": ""
+        },
+        {
+            "header": NaN,
+            "question": NaN,
+            "correct_answer": NaN,
+            "ans_type": NaN,
+            "extra": ""
+        }
+    ],
+    "Vocabulary practice 2: College subjects": [
+        {
+            "header": "Read what Aldo says. Then complete the sentence.",
+            "question": "Aldo works in ",
+            "correct_answer": "architecture",
+            "ans_type": "text_input",
+            "extra": ""
+        },
+        {
+            "header": "Choose the correct answer.",
+            "question": "What is biology?",
+            "correct_answer": "the study of living things, like trees and animals",
+            "ans_type": "listbox",
+            "extra": ""
+        },
+        {
+            "header": "Tap Show to read about computer science. Choose the correct answer.",
+            "question": "Which sentence is not true about computer science?",
+            "correct_answer": "It's a way of studying people.",
+            "ans_type": "listbox",
+            "extra": ""
+        },
+        {
+            "header": "Complete the sentence.",
+            "question": "vocabulary list from this lesson again.",
+            "correct_answer": "business",
+            "ans_type": "text_input",
+            "extra": ""
+        },
+        {
+            "header": "Complete the sentences.",
+            "question": "You might learn how to teach geography if you study",
+            "correct_answer": "education*medicine*political science*economics",
+            "ans_type": "buttons_sel",
+            "extra": ""
+        },
+        {
+            "header": "Tap Show to read about a lecture. Choose the correct answer.",
+            "question": "Which subject is she describing?",
+            "correct_answer": "engineering",
+            "ans_type": "listbox",
+            "extra": ""
+        },
+        {
+            "header": "Complete the sentence.",
+            "question": "We looked at tiny animals in",
+            "correct_answer": "biology*chemistry*computer science*medicine*physics*political science",
+            "ans_type": "listbox",
+            "extra": ""
+        },
+        {
+            "header": NaN,
+            "question": NaN,
+            "correct_answer": NaN,
+            "ans_type": NaN,
+            "extra": ""
+        }
+    ],
+    "Grammar practice 1: Modals of necessity: \"have to,\" \"need to,\" \"must\"": [
+        {
+            "header": "Listen and choose all the correct answers.",
+            "question": "What is necessary for the students to do?",
+            "correct_answer": "Students have to study at least one foreign language.*Students need to study at least one foreign language.",
+            "ans_type": "listbox",
+            "extra": ""
+        },
+        {
+            "header": "Complete the conversation.",
+            "question": "Either online or you can ask the driver. Remember, you",
+            "correct_answer": "have to",
+            "ans_type": "dropdown",
+            "extra": ""
+        },
+        {
+            "header": "Complete the conversation. There are two extra words.",
+            "question": "Another text from your girlfriend!",
+            "correct_answer": "Does*need*to*text",
+            "ans_type": "buttons_sel",
+            "extra": ""
+        },
+        {
+            "header": "Complete the sentence.",
+            "question": "College students must",
+            "correct_answer": "decide",
+            "ans_type": "dropdown",
+            "extra": ""
+        },
+        {
+            "header": "Complete the conversation. ",
+            "question": "Helen have to take a business course when she studies",
+            "correct_answer": "Does*does",
+            "ans_type": "dropdown",
+            "extra": ""
+        },
+        {
+            "header": "Complete the question. There are two extra words.",
+            "question": "so much time",
+            "correct_answer": "Do*you*have*to*waste",
+            "ans_type": "buttons_sel",
+            "extra": ""
+        },
+        {
+            "header": "Complete the sentence.",
+            "question": "Diego",
+            "correct_answer": "needs to",
+            "ans_type": "dropdown",
+            "extra": ""
+        },
+        {
+            "header": "Complete the sentence. There are two extra words.",
+            "question": "Library users",
+            "correct_answer": "must*return",
+            "ans_type": "buttons_sel",
+            "extra": ""
+        },
+        {
+            "header": "Complete the sentence.",
+            "question": "take a course in education",
+            "correct_answer": "don't need to",
+            "ans_type": "dropdown",
+            "extra": ""
+        },
+        {
+            "header": "Complete the conversation. There are two extra words.",
+            "question": "Hello, Julieta. ",
+            "correct_answer": "Does*have*to",
+            "ans_type": "buttons_sel",
+            "extra": ""
+        },
+        {
+            "header": NaN,
+            "question": NaN,
+            "correct_answer": NaN,
+            "ans_type": NaN,
+            "extra": ""
+        }
+    ],
+    "Grammar practice 2: Modals of necessity: \"have to,\" \"need to,\" \"must\"": [
+        {
+            "header": "Tap Show to read about Leon's day. Choose the correct answer.",
+            "question": "Which statement is true?",
+            "correct_answer": "He doesn't have to work today.",
+            "ans_type": "listbox",
+            "extra": ""
+        },
+        {
+            "header": "Complete the sentence.",
+            "question": "before you leave the",
+            "correct_answer": "What*do*you*need*to do",
+            "ans_type": "buttons_sel",
+            "extra": ""
+        },
+        {
+            "header": "Listen and choose all the correct answers.",
+            "question": "What does the woman have to do?",
+            "correct_answer": "make the family's breakfast*answer emails*take the children to school*get her children up",
+            "ans_type": "listbox",
+            "extra": ""
+        },
+        {
+            "header": "Choose the correct answer.",
+            "question": "Which sentence uses incorrect grammar?",
+            "correct_answer": "They don't have take an economics class this semester.",
+            "ans_type": "listbox",
+            "extra": ""
+        },
+        {
+            "header": "Complete the sentence.",
+            "question": "Use a formal modal of necessity.",
+            "correct_answer": "must",
+            "ans_type": "text_input",
+            "extra": ""
+        },
+        {
+            "header": "Put the words in the correct order. There's one extra word.",
+            "question": ".",
+            "correct_answer": "I*need*to fix*my*laptop.",
+            "ans_type": "buttons_sel",
+            "extra": ""
+        },
+        {
+            "header": "Listen. Then choose the correct answer.",
+            "question": "Which question is the man answering?",
+            "correct_answer": "Do I have to be good at math to get a degree in economics?",
+            "ans_type": "listbox",
+            "extra": ""
+        },
+        {
+            "header": "Complete the sentence so it has the opposite meaning.",
+            "question": "Students need to take Math 101 for this degree.",
+            "correct_answer": "don't have to take",
+            "ans_type": "text_input",
+            "extra": ""
+        },
+        {
+            "header": NaN,
+            "question": NaN,
+            "correct_answer": NaN,
+            "ans_type": NaN,
+            "extra": ""
+        }
+    ],
+    "Vocabulary practice 1: Employment": [
+        {
+            "header": "Complete the words",
+            "question": "many of the words you can remember.",
+            "correct_answer": "apply*career*contract*employer*fire*hire*manage*profession*retirement*salary*wage*working hours",
+            "ans_type": "text_input",
+            "extra": ""
+        },
+        {
+            "header": "Complete the sentence",
+            "question": "I'm going to",
+            "correct_answer": "apply",
+            "ans_type": "dropdown",
+            "extra": ""
+        },
+        {
+            "header": "Choose the correct answer.",
+            "question": "What can happen if you keep coming to work late?",
+            "correct_answer": "A manager can fire you.",
+            "ans_type": "listbox",
+            "extra": ""
+        },
+        {
+            "header": "Complete the sentence.",
+            "question": "Olivia is planning a",
+            "correct_answer": "career",
+            "ans_type": "buttons_sel",
+            "extra": ""
+        },
+        {
+            "header": "Complete the conversation.",
+            "question": "Don't worry! You're amazing.",
+            "correct_answer": "hire",
+            "ans_type": "dropdown",
+            "extra": ""
+        },
+        {
+            "header": "Complete the sentence.",
+            "question": "Michael has just signed a ",
+            "correct_answer": "contract",
+            "ans_type": "dropdown",
+            "extra": ""
+        },
+        {
+            "header": "Complete the sentence.",
+            "question": "because they're going to",
+            "correct_answer": "hire",
+            "ans_type": "text_input",
+            "extra": ""
+        },
+        {
+            "header": "Complete the sentence.",
+            "question": " go to our website and",
+            "correct_answer": "apply",
+            "ans_type": "dropdown",
+            "extra": ""
+        },
+        {
+            "header": "Complete the sentence",
+            "question": "When you get a new job, you should read your",
+            "correct_answer": NaN,
+            "ans_type": "buttons_sel",
+            "extra": ""
+        },
+        {
+            "header": "Listen and complete the sentence",
+            "question": "Ethan's sports",
+            "correct_answer": "career",
+            "ans_type": "text_input",
+            "extra": ""
+        },
+        {
+            "header": "Complete the sentence.",
+            "question": "I'm worried that my boss will",
+            "correct_answer": "fire",
+            "ans_type": "dropdown",
+            "extra": ""
+        },
+        {
+            "header": "Complete the sentence. ",
+            "question": "I have a great",
+            "correct_answer": "employer",
+            "ans_type": "text_input",
+            "extra": ""
+        },
+        {
+            "header": NaN,
+            "question": NaN,
+            "correct_answer": NaN,
+            "ans_type": NaN,
+            "extra": ""
+        }
+    ],
+    "Vocabulary practice 2: Employment": [
+        {
+            "header": "Choose the correct answers.",
+            "question": "When does retirement happen?",
+            "correct_answer": "at the end of your working life*a long period of time*Yes",
+            "ans_type": "listbox",
+            "extra": ""
+        },
+        {
+            "header": "Listen and complete the conversation.",
+            "question": "Great, thanks. I'm enjoying my",
+            "correct_answer": "retirement*career*salary*profession",
+            "ans_type": "buttons_sel",
+            "extra": ""
+        },
+        {
+            "header": "Complete the sentence.",
+            "question": "I just signed a",
+            "correct_answer": "contract",
+            "ans_type": "text_input",
+            "extra": ""
+        },
+        {
+            "header": "Complete the sentence. Use vocabulary from this unit.",
+            "question": "Please don't be late for work. ",
+            "correct_answer": "working hours",
+            "ans_type": "text_input",
+            "extra": ""
+        },
+        {
+            "header": "Read the sentence and choose the correct answer.",
+            "question": "What's another way of saying this?",
+            "correct_answer": "They fired me.",
+            "ans_type": "listbox",
+            "extra": ""
+        },
+        {
+            "header": "Listen and choose the correct answer.",
+            "question": "Which is the best response?",
+            "correct_answer": "Yes, that would be great. I'm definitely going to apply for it.",
+            "ans_type": "listbox",
+            "extra": ""
+        },
+        {
+            "header": "Complete the sentence.",
+            "question": "Katya works for a large publishing company. They are a very good",
+            "correct_answer": "employer",
+            "ans_type": "text_input",
+            "extra": ""
+        },
+        {
+            "header": "Read the sentence. Then choose the correct answer.",
+            "question": "What does this sentence mean?",
+            "correct_answer": "They need to hire three new people.",
+            "ans_type": "listbox",
+            "extra": ""
+        },
+        {
+            "header": "Complete the sentences.",
+            "question": "40,000 a year is a yearly",
+            "correct_answer": "salary*working hours*wage*retirement age",
+            "ans_type": "buttons_sel",
+            "extra": ""
+        },
+        {
+            "header": "Read the sentence. Then choose the correct answer.",
+            "question": "What does this mean?",
+            "correct_answer": "I organize and review the work of five people.",
+            "ans_type": "listbox",
+            "extra": ""
+        },
+        {
+            "header": NaN,
+            "question": NaN,
+            "correct_answer": NaN,
+            "ans_type": NaN,
+            "extra": ""
+        }
+    ],
+    "Grammar practice 1: Modals of prohibition and permission\n": [
+        {
+            "header": "Complete the sentence.",
+            "question": "Alexi",
+            "correct_answer": "can't",
+            "ans_type": "listbox",
+            "extra": ""
+        },
+        {
+            "header": "Complete the conversation. There are two extra words.",
+            "question": NaN,
+            "correct_answer": "Can*I*check",
+            "ans_type": "buttons_sel",
+            "extra": ""
+        },
+        {
+            "header": "Complete the sentence.",
+            "question": "You",
+            "correct_answer": "can*stay",
+            "ans_type": "dropdown",
+            "extra": ""
+        },
+        {
+            "header": "Put the words in the correct order.",
+            "question": "Dad,",
+            "correct_answer": "could*go*to*the*concert",
+            "ans_type": "buttons_sel",
+            "extra": ""
+        },
+        {
+            "header": "Complete the conversation.",
+            "question": "Look at this sentence in my contract:",
+            "correct_answer": "must not",
+            "ans_type": "dropdown",
+            "extra": ""
+        },
+        {
+            "header": "Complete the conversation. There are two extra words.",
+            "question": "I have a question.",
+            "correct_answer": "May*come",
+            "ans_type": "buttons_sel",
+            "extra": ""
+        },
+        {
+            "header": "Listen and choose the correct answers.",
+            "question": "What are the rules in Drew's class?",
+            "correct_answer": "Drew can't use his phone in the class.*Drew must not use his phone in the class.",
+            "ans_type": "listbox",
+            "extra": ""
+        },
+        {
+            "header": "Complete the conversation. There are two extra words.",
+            "question": "mine any time. Just let",
+            "correct_answer": "can*use",
+            "ans_type": "buttons_sel",
+            "extra": ""
+        },
+        {
+            "header": "Complete the conversation.",
+            "question": "Mom,",
+            "correct_answer": "could",
+            "ans_type": "dropdown",
+            "extra": ""
+        },
+        {
+            "header": "Complete the sentences. There are two extra words.",
+            "question": "nice apartment, but they",
+            "correct_answer": "may*can't",
+            "ans_type": "buttons_sel",
+            "extra": ""
+        },
+        {
+            "header": NaN,
+            "question": NaN,
+            "correct_answer": NaN,
+            "ans_type": NaN,
+            "extra": ""
+        }
+    ],
+    "Grammar practice 2: Modals of prohibition and permission": [
+        {
+            "header": "Complete the conversation.",
+            "question": "I got an email from Bill saying that we",
+            "correct_answer": "may*can*can't*can't*must not*can",
+            "ans_type": "dropdown",
+            "extra": ""
+        },
+        {
+            "header": "Choose all the correct answers.",
+            "question": "Which three questions have the same meaning?",
+            "correct_answer": "May I send you my résumé?*Could I send you my résumé?*Can I send you my résumé?",
+            "ans_type": "listbox",
+            "extra": ""
+        },
+        {
+            "header": "Put the words in the correct order to make a sentence.",
+            "question": ".",
+            "correct_answer": "Students*must*not*bring*food*or*drinks*to the*computer*room.",
+            "ans_type": "buttons_sel",
+            "extra": ""
+        },
+        {
+            "header": "Read the conversation. Notice the mistake in Kendra's response. Complete the sentence using correct grammar.",
+            "question": "Yes, of course you could.",
+            "correct_answer": "Yes, of course you can. ",
+            "ans_type": "text_input",
+            "extra": ""
+        },
+        {
+            "header": "Look at the photo. Complete the sentence.",
+            "question": "Hey, look, Joe. We ",
+            "correct_answer": "can't",
+            "ans_type": "text_input",
+            "extra": ""
+        },
+        {
+            "header": "Complete the sentence so it has a stronger meaning.",
+            "question": "Danger! Employees",
+            "correct_answer": "must not ",
+            "ans_type": "text_input",
+            "extra": ""
+        },
+        {
+            "header": "Put the modals in the correct category.",
+            "question": ".",
+            "correct_answer": "can*could*may*can't*must not",
+            "ans_type": "buttons_sel",
+            "extra": ""
+        },
+        {
+            "header": NaN,
+            "question": NaN,
+            "correct_answer": NaN,
+            "ans_type": NaN,
+            "extra": ""
+        }
+    ],
+    "Writing skill presentation: Planning and organizing a résumé": [
+        {
+            "header": "Complete the sentences.",
+            "question": "to read part of Jacob's résumé again",
+            "correct_answer": "has been*teacher's assistant*present*past",
+            "ans_type": "dropdown",
+            "extra": ""
+        },
+        {
+            "header": "Read the information. Then complete the sentences.",
+            "question": "can speak three languages fluently",
+            "correct_answer": "a skill*an activity*a skill*an activity",
+            "ans_type": "dropdown",
+            "extra": ""
+        },
+        {
+            "header": "Choose all the correct answers.",
+            "question": "What did Jacob include in his résumé?",
+            "correct_answer": "He used present verbs to describe a current job and past verbs to describe a past job.*He used bullet points and incomplete sentences.*He listed his degrees or certificates.\nHe listed skills that are useful for jobs.*He listed activities and interests that show he's active, creative, or good with people.",
+            "ans_type": "listbox",
+            "extra": ""
+        },
+        {
+            "header": NaN,
+            "question": NaN,
+            "correct_answer": NaN,
+            "ans_type": NaN,
+            "extra": ""
+        }
+    ],
+    "Vocabulary practice 1: Describing materials": [
+        {
+            "header": "Choose all the correct answers.",
+            "question": "Which materials are artificial (not natural)?",
+            "correct_answer": "glass*plastic*polyester",
+            "ans_type": "listbox",
+            "extra": ""
+        },
+        {
+            "header": "Complete the sentence.",
+            "question": "from a type of cotton.",
+            "correct_answer": "leather",
+            "ans_type": "buttons_sel",
+            "extra": ""
+        },
+        {
+            "header": "Complete the sentence.",
+            "question": "We want to reduce the number of",
+            "correct_answer": "plastic",
+            "ans_type": "buttons_sel",
+            "extra": ""
+        },
+        {
+            "header": "Look at the photo and complete the sentence.",
+            "question": "Many ancient monuments were made of",
+            "correct_answer": "stone",
+            "ans_type": "dropdown",
+            "extra": ""
+        },
+        {
+            "header": "Complete the sentence.",
+            "question": "furniture out of",
+            "correct_answer": "wood",
+            "ans_type": "buttons_sel",
+            "extra": ""
+        },
+        {
+            "header": "Choose the correct answer.",
+            "question": "What are warm winter clothes usually made of?",
+            "correct_answer": "wool",
+            "ans_type": "listbox",
+            "extra": ""
+        },
+        {
+            "header": "Complete the sentence.",
+            "question": "My new running shirt is made of ",
+            "correct_answer": "polyester",
+            "ans_type": "dropdown",
+            "extra": ""
+        },
+        {
+            "header": "Complete the sentence.",
+            "question": "They look very realistic but they're",
+            "correct_answer": "artificial",
+            "ans_type": "dropdown",
+            "extra": ""
+        },
+        {
+            "header": "Complete the sentence.",
+            "question": "You need special tools to cut metal",
+            "correct_answer": "hard",
+            "ans_type": "dropdown",
+            "extra": ""
+        },
+        {
+            "header": "Listen and choose the correct answer.",
+            "question": "What problem does Layla have with her school bag?",
+            "correct_answer": "It's too light.",
+            "ans_type": "listbox",
+            "extra": ""
+        },
+        {
+            "header": "Choose the correct answer.",
+            "question": "How can you describe materials like cotton or wool?",
+            "correct_answer": "They're soft.",
+            "ans_type": "listbox",
+            "extra": ""
+        },
+        {
+            "header": "Complete the sentence.",
+            "question": "These boxes are very",
+            "correct_answer": "strong",
+            "ans_type": "dropdown",
+            "extra": ""
+        },
+        {
+            "header": "Complete the sentence.",
+            "question": "I have a great pair of ",
+            "correct_answer": "waterproof",
+            "ans_type": "dropdown",
+            "extra": ""
+        },
+        {
+            "header": "Review the words. Complete the sentences.",
+            "question": NaN,
+            "correct_answer": "Stone*wood*metal*waterproof*glass*plastic",
+            "ans_type": "text_input",
+            "extra": ""
+        },
+        {
+            "header": NaN,
+            "question": NaN,
+            "correct_answer": NaN,
+            "ans_type": NaN,
+            "extra": ""
+        }
+    ],
+    "Vocabulary practice 2: Describing materials": [
+        {
+            "header": "Complete the conversation.",
+            "question": "very comfortable and",
+            "correct_answer": "light*polyester",
+            "ans_type": "text_input",
+            "extra": ""
+        },
+        {
+            "header": "Complete the sentences.",
+            "question": "We should try to recycle",
+            "correct_answer": "plastic*wood*artificial",
+            "ans_type": "text_input",
+            "extra": ""
+        },
+        {
+            "header": "Complete the sentence.",
+            "question": "her clothes and shoes are",
+            "correct_answer": "waterproof",
+            "ans_type": "text_input",
+            "extra": ""
+        },
+        {
+            "header": "Complete the sentences. There are two extra words.",
+            "question": "I need to move some very",
+            "correct_answer": "heavy*light*natural*fragile*waterproof",
+            "ans_type": "buttons_sel",
+            "extra": ""
+        },
+        {
+            "header": "Put the things in the correct categories.",
+            "question": "Which items are usually made of these materials?",
+            "correct_answer": "belt*gloves*shirt*shoes*socks*sweater*drinking bottle*grocery bag*vase*key*monument*table*sculpture",
+            "ans_type": "buttons_sel",
+            "extra": ""
+        },
+        {
+            "header": "Complete the sentence.",
+            "question": "This carton of eggs is",
+            "correct_answer": "light*heavy",
+            "ans_type": "dropdown",
+            "extra": ""
+        },
+        {
+            "header": "Complete the sentences.",
+            "question": "markets a lot because they have mostly",
+            "correct_answer": "natural*artificial",
+            "ans_type": "dropdown",
+            "extra": ""
+        },
+        {
+            "header": "Listen and choose the correct answer.",
+            "question": "What material is the man describing?",
+            "correct_answer": "leather",
+            "ans_type": "listbox",
+            "extra": ""
+        },
+        {
+            "header": "Listen and complete the sentences.",
+            "question": "is a really amazing material",
+            "correct_answer": "Plastic*soft*strong",
+            "ans_type": "text_input",
+            "extra": ""
+        },
+        {
+            "header": "Complete the sentence.",
+            "question": "and it's completely natural, so I guess it's ",
+            "correct_answer": "earth-friendly",
+            "ans_type": "buttons_sel",
+            "extra": ""
+        },
+        {
+            "header": NaN,
+            "question": NaN,
+            "correct_answer": NaN,
+            "ans_type": NaN,
+            "extra": ""
+        }
+    ],
+    "Grammar practice 1: Simple present passive": [
+        {
+            "header": "Choose the correct answer.",
+            "question": "Which sentence uses the simple present passive?",
+            "correct_answer": "Every morning, the museum is cleaned.",
+            "ans_type": "listbox",
+            "extra": ""
+        },
+        {
+            "header": "Put the words in the correct order to make a sentence with active grammar. There are two extra options.",
+            "question": "This museum is visited by thousands of people",
+            "correct_answer": "Thousands of people*visit*the*museum*every year.",
+            "ans_type": "buttons_sel",
+            "extra": ""
+        },
+        {
+            "header": "Complete the sentence.",
+            "question": "This type of coffee is",
+            "correct_answer": "grown",
+            "ans_type": "dropdown",
+            "extra": ""
+        },
+        {
+            "header": "Complete the sentence. There are two extra words.",
+            "question": "A lot of plastic bags ",
+            "correct_answer": "are*recycled",
+            "ans_type": "buttons_sel",
+            "extra": ""
+        },
+        {
+            "header": "Complete the sentence.",
+            "question": "Houses in this area",
+            "correct_answer": "are built",
+            "ans_type": "dropdown",
+            "extra": ""
+        },
+        {
+            "header": "Put the words in the correct order.",
+            "question": "Ian, ",
+            "correct_answer": "is*baseball*played*in*South Korea",
+            "ans_type": "buttons_sel",
+            "extra": ""
+        },
+        {
+            "header": "Complete the sentence.",
+            "question": "Her T-shirts and sweatshirts",
+            "correct_answer": "are*sold",
+            "ans_type": "dropdown",
+            "extra": ""
+        },
+        {
+            "header": "Complete the sentence. There are two extra options.",
+            "question": "Some sports equipment ",
+            "correct_answer": "isn't*kept",
+            "ans_type": "buttons_sel",
+            "extra": ""
+        },
+        {
+            "header": "Complete the sentences.",
+            "question": "every day. It's",
+            "correct_answer": "isn't cooked*prepared",
+            "ans_type": "dropdown",
+            "extra": ""
+        },
+        {
+            "header": "Complete the sentence. There are two extra words.",
+            "question": "Art museums ",
+            "correct_answer": "are*visited*by",
+            "ans_type": "buttons_sel",
+            "extra": ""
+        },
+        {
+            "header": "Complete the conversation.",
+            "question": "I think they",
+            "correct_answer": "are produced",
+            "ans_type": "dropdown",
+            "extra": ""
+        },
+        {
+            "header": "Complete the sentence. There are two extra words.",
+            "question": NaN,
+            "correct_answer": "are*driven*by",
+            "ans_type": "buttons_sel",
+            "extra": ""
+        },
+        {
+            "header": NaN,
+            "question": NaN,
+            "correct_answer": NaN,
+            "ans_type": NaN,
+            "extra": ""
+        }
+    ],
+    "Grammar practice 2: Simple present passive": [
+        {
+            "header": "Choose all the correct answers. ",
+            "question": "Which sentences use the simple present passive?",
+            "correct_answer": "The sculptures are exhibited in the city park.*The sculptures are described on labels around the park.*Many of the sculptures are photographed every day.",
+            "ans_type": "listbox",
+            "extra": ""
+        },
+        {
+            "header": "Then complete the sentence so it has the same meaning. Use the simple present passive.",
+            "question": "Thousands of photos of the Statue of",
+            "correct_answer": "are taken",
+            "ans_type": "text_input",
+            "extra": ""
+        },
+        {
+            "header": "Read the examples. Then complete the sentences.",
+            "question": "These sentences mean ",
+            "correct_answer": "the same thing*The second",
+            "ans_type": "dropdown",
+            "extra": ""
+        }
+    ]
+}

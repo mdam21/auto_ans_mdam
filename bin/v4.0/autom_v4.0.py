@@ -9,8 +9,8 @@ import json
 import os
 
 # Solicitar datos de entrada al usuario
-user_email = "danny.nazamuez@uisek.edu.ec"
-user_password = "Uisek2023"
+user_email = "victor.yanza@uisek.edu.ec"
+user_password = "g@briel2204"
 nivel_buscado = "Level 3B"  # Puedes cambiar este valor según lo que quieras buscar
 
 # Configurar el WebDriver para Firefox
@@ -174,6 +174,7 @@ try:
 
             def func_list_check():
                 print("Llamando a func_list_check para manejar listas de selección.")
+                print(section_header_text)
 
             def func_botones():
                 print("Llamando a func_botones para manejar botones.")
@@ -186,15 +187,46 @@ try:
                 boton.click()
                 
                 ###
-                print("aqui mocharon cabezas")
-                # Buscar y listar opciones en los dropdowns dentro del contenedor específico usando selectores de CSS
-               # Buscar el encabezado y llamar a la función correspondiente
+                print("Aqui mocharon cabezas xd")
+
+                # Buscar el encabezado y llamar a la función correspondiente
                 try:
-                    section_header_element = WebDriverWait(driver, 20).until(
-                        EC.presence_of_element_located((By.TAG_NAME, "p"))
-                    )
-                    section_header_text = section_header_element.text
-                    print(f"Encabezado de sección encontrado: {section_header_text}")
+                    ###Lleno martes
+                    try:
+                        # Intentar encontrar el elemento usando la clase "rubricWrap"
+                        section_header_element = WebDriverWait(driver, 10).until(
+                            EC.presence_of_element_located((By.XPATH, "//*[@class='activity_media is-rubric-zone' and @id='rubric-4']"))
+                        )
+                        section_header_text = section_header_element.find_element(By.TAG_NAME, "p").text
+                        print(f"Encabezado de sección encontrado con css selector 'rubric-4': {section_header_text}")
+#//*[@id="rubric-4"]/p
+                    except Exception as e:
+                        print(f"Error al buscar el encabezado de sección con clase 'rubricWrap': {e}")
+
+                        try:
+                            # Intentar encontrar el elemento usando un ID alternativo (reemplaza 'ID_ALTERNATIVO' con el ID real)
+                            section_header_element = WebDriverWait(driver, 10).until(
+                                EC.presence_of_element_located((By.ID, "rubric-4"))
+                            )
+                            section_header_text = section_header_element.text
+                            print(f"Encabezado de sección encontrado con ID 'ID_ALTERNATIVO': {section_header_text}")
+
+                        except Exception as e:
+                            print(f"Error al buscar el encabezado de sección con ID 'ID_ALTERNATIVO': {e}")
+
+                            try:
+                                # Intentar encontrar el elemento usando un XPath alternativo (reemplaza 'XPATH_ALTERNATIVO' con el XPath real)
+                                section_header_element = WebDriverWait(driver, 10).until(
+                                    EC.presence_of_element_located((By.XPATH, '-'))
+                                )
+                                section_header_text = section_header_element.text
+                                print(
+                                    f"Encabezado de sección encontrado con XPath 'XPATH_ALTERNATIVO': {section_header_text}")
+
+                            except Exception as e:
+                                print(f"Error al buscar el encabezado de sección con XPath 'XPATH_ALTERNATIVO': {e}")
+
+                    ####Lleno martes
 
                     # Cargar el archivo JSON
                     json_file_path = os.path.join(os.path.dirname(__file__), 'output.json')
@@ -204,7 +236,7 @@ try:
                     # Buscar el nombre_boton en el JSON
                     if nombre_boton in data:
                         boton_data = data[nombre_boton]
-                        print(f"Datos para el botón '{nombre_boton}':")
+                        print(f"Datos para la seccion '{nombre_boton}':")
                         for entry in boton_data:
                             print(f"Header: {entry['header']}")
                             print(f"Question: {entry['question']}")
@@ -219,17 +251,12 @@ try:
                         func_selector()
                     elif section_header_text in ["Look at the photo and choose the correct answer.", "Listen and choose the correct answer.", "Listen and choose the true sentence."]:
                         func_list_check()
+                    elif section_header_text in ["Otro encabezado 1", "Otro encabezado 2"]:
+                        func_llenar()
+                    elif section_header_text in ["Otro encabezado 3", "Otro encabezado 4"]:
+                        func_botones()
                     else:
                         print(f"No se encontró una función correspondiente para el encabezado de sección: {section_header_text}")
-                    
-                    # Puedes añadir más condiciones para otros tipos de encabezados aquí
-                    # Ejemplo:
-                    # elif section_header_text in ["Otro encabezado 1", "Otro encabezado 2"]:
-                    #     func_botones()
-                    # elif section_header_text in ["Otro encabezado 3", "Otro encabezado 4"]:
-                    #     func_llenar()
-                    # else:
-                    #     print(f"No se encontró una función correspondiente para el encabezado de sección: {section_header_text}")
 
                 except Exception as e:
                     print(f"Error al buscar el encabezado de sección: {e}")
